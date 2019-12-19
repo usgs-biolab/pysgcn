@@ -1,0 +1,31 @@
+{"$schema": "http://json-schema.org/schema#",
+  "type": "object",
+  "properties": {
+    "scientific name": {"type": "string"},
+    "common name": {"type": "string"},
+    "taxonomic category": {"type": "string"},
+    "state": {"type": "string"},
+    "sciencebase_item_id": {"type": "string"},
+    "record_processed": {"type": "string"},
+    "source_file_date": {"type": "string"},
+    "source_file_url": {"type": "string"},
+    "year": {"type": "string"},
+    "clean_scientific_name": {"type": "string"},
+    "historic_list": {"type": "boolean"},
+    "itis_override_id": {"type": ["null","string"]},
+    "sppin_key": {"type": "string"}
+  },
+  "required": [
+    "scientific name",
+    "common name",
+    "record_processed",
+    "source_file_date",
+    "source_file_url",
+    "year",
+    "clean_scientific_name",
+    "historic_list",
+    "itis_override_id",
+    "sppin_key"
+  ],
+  "additionalProperties": false
+}
