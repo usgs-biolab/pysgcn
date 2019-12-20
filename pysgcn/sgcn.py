@@ -42,6 +42,7 @@ class Sgcn:
             self.source_metadata_folder = "sgnc_meta"
             self.mq_folder = "mq"
             self.sppin_folder = "sppin"
+            self.raw_data_folder = "raw"
 
             if cache_root is None:
                 if os.getenv("DATA_CACHE") is None:
@@ -57,6 +58,7 @@ class Sgcn:
             self.source_metadata_path = f"{self.cache_base}/{self.source_metadata_folder}"
             self.mq_path = f"{self.cache_base}/{self.mq_folder}"
             self.sppin_path = f"{self.cache_base}/{self.sppin_folder}"
+            self.raw_data_path = f"{self.cache_base}/{self.raw_data_folder}"
 
             try:
                 os.makedirs(self.cache_base)
@@ -79,7 +81,12 @@ class Sgcn:
                 pass
 
             try:
-                os.makedirs(self.sppin_path)
+                os.makedirs(self.mq_path)
+            except FileExistsError:
+                pass
+
+            try:
+                os.makedirs(self.raw_data_path)
             except FileExistsError:
                 pass
 
@@ -168,6 +175,41 @@ class Sgcn:
 
         return check_records[0]["taxonomicAuthorityID"]
 
+    def cache_raw_data(self):
+        '''
+        After having some trouble crop up occasionally where reading files from ScienceBase came up with a urlopen
+        error, this function takes another approach of simply trying to get all files and download them to a local
+        cache.
+
+        :return: List of files cached
+        '''
+
+        processable_items = self.get_processable_items()
+        report = {
+            "files_written": list(),
+            "files_in_cache": list(),
+            "file_download_errors": list()
+        }
+
+        for item in processable_items:
+            file_name = item["source_file_url"].split("%2F")[-1]
+            file_path = f"{self.raw_data_path}/{file_name}"
+
+            if os.path.isfile(file_path):
+                report["files_in_cache"].append(file_path)
+            else:
+                try:
+                    item_file_content = requests.get(item["source_file_url"])
+                    report["files_written"].append(file_path)
+                    with open(file_path, "w") as f:
+                        f.write(item_file_content.text)
+                        f.close()
+                except:
+                    report["file_download_errors"].append(item["sciencebase_item_id"])
+                    pass
+
+        return report
+
     def get_processable_items(self):
         '''
         Retrieves the items from the ScienceBase collection that have the necessary parameters for processing. It
@@ -250,10 +292,18 @@ class Sgcn:
         :param output_type: Can be one of - dict, dataframe, or json - defaults to dict
         :return: Returns a flattened data structure/table in one of a few specified formats
         '''
+        file_name = item["source_file_url"].split("%2F")[-1]
+        file_path = f"{self.raw_data_path}/{file_name}"
+
+        if os.path.isfile(file_path):
+            file_access_path = file_path
+        else:
+            file_access_path = item["source_file_url"]
+
         try:
-            df_src = pd.read_csv(item["source_file_url"], delimiter="\t")
+            df_src = pd.read_csv(file_access_path, delimiter="\t")
         except UnicodeDecodeError:
-            df_src = pd.read_csv(item["source_file_url"], delimiter="\t", encoding='latin1')
+            df_src = pd.read_csv(file_access_path, delimiter="\t", encoding='latin1')
 
         # Make lower case columns to deal with slight variation in source files
         df_src.columns = map(str.lower, df_src.columns)
