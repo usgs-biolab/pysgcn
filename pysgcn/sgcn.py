@@ -88,18 +88,22 @@ class Sgcn:
             self.sql_mq = pysppin.utils.Sql(cache_location=self.mq_path)
             self.sql_sppin = pysppin.utils.Sql(cache_location=self.sppin_path)
 
-    def cache_sgcn_metadata(self):
+    def cache_sgcn_metadata(self, return_data=False):
         '''
         The SGCN collection item contains a number of metadata files that help to control and augment the process of
         building the SGCN integrated database. For running this process locally, it is more efficient to cache these
         data in a Sqlite database that can be referenced rather than having to retrieve them from ScienceBase every
         time they need to be consulted.
 
+        :param return_data: Set to true to return the actual data structures instead of just a list of tables
         :return: List of table names created in caching process
         '''
         sgcn_collection = self.sb.get_item(self.sgcn_root_item)
 
-        table_list = list()
+        if return_data:
+            table_list = dict()
+        else:
+            table_list = list()
 
         for file in sgcn_collection["files"]:
             r_file = requests.get(file["url"])
@@ -112,11 +116,16 @@ class Sgcn:
             else:
                 data_content = r_file.json()
 
+            if return_data:
+                table_list[file["title"]] = data_content
+
             try:
                 self.sql_metadata.bulk_insert("sgcn_meta", file["title"], data_content)
-                table_list.append(file["title"])
+                if not return_data:
+                    table_list.append(file["title"])
             except:
-                table_list.append(f'{file["title"]} - ALREADY CACHED')
+                if not return_data:
+                    table_list.append(f'{file["title"]} - ALREADY CACHED')
 
         return table_list
 
