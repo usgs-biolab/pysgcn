@@ -689,7 +689,7 @@ class Sgcn:
         and pushes a valid record into a database.
 
         :param record:
-        :return:
+        :return: nothing
         '''
         schema = self.get_schema("sgcn_source_records_schema")
 
@@ -735,6 +735,14 @@ class Sgcn:
         return records
 
     def update_taxa_summary_data(self, sppin_key, summary):
+        '''
+        This function infuses taxonomic authority summary properties into master SGCN records based on the sppin_key
+        identifier.
+
+        :param sppin_key: Compound key containing the type of value and value, either scientific name or ITIS TSN
+        :param summary: Dictionary containing key value pairs of summary information
+        :return: Summary list of updates committed
+        '''
         taxonomic_authority = summary["taxonomic_authority_url"].split("/")[2].split(".")[1].lower()
 
         sgcn_records = self.get_records_by_sppin_key(sppin_key)
