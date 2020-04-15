@@ -12,7 +12,6 @@ setup(
     install_requires=[
         'sciencebasepy',
         'pandas',
-        'pyarrow',
         'requests'
     ],
     zip_safe=False
