@@ -15,9 +15,7 @@ def process_1(
     previous_stage_result,
     cache_manager,
 ):
-    sb_item_id = previous_stage_result
-
-    sgcn = pysgcn.sgcn.Sgcn('pipeline', cache_root=path, cache_manager=cache_manager)
+    sgcn = pysgcn.sgcn.Sgcn(operation_mode='pipeline', cache_manager=cache_manager)
 
     # Stage 2 Cache Metadata and Document Schemas
     sgcn_meta = sgcn.cache_sgcn_metadata(return_data=True)
@@ -69,7 +67,7 @@ def process_2(
     previous_stage_result,
     cache_manager,
 ):
-    sgcn = pysgcn.sgcn.Sgcn('pipeline', cache_root=path, cache_manager=cache_manager)
+    sgcn = pysgcn.sgcn.Sgcn(operation_mode='pipeline', cache_manager=cache_manager)
 
     # Stage 5 ITIS, WoRMS
     print('\n --- species', previous_stage_result["sppin_key"], ' ---')
@@ -95,6 +93,6 @@ def process_3(
     previous_stage_result,
     cache_manager,
 ):
+    sgcn = pysgcn.sgcn.Sgcn(operation_mode='pipeline', cache_manager=cache_manager)
     # ECOS TESS, IUCN, NatureServe, GBIF
-    sgcn = pysgcn.sgcn.Sgcn('pipeline', cache_root=path, cache_manager=cache_manager)
     sgcn.gather_additional_cache_resources(previous_stage_result)
