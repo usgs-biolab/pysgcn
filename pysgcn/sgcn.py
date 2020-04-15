@@ -14,10 +14,11 @@ pysppin_utils = pysppin.utils.Utils()
 
 
 class Sgcn:
-    def __init__(self, operation_mode="local", cache_root=None):
+    def __init__(self, operation_mode="local", cache_root=None, cache_manager=None):
         self.description = "Set of functions for assembling the SGCN database"
         self.sgcn_root_item = '56d720ece4b015c306f442d5'
         self.resources_path = 'resources/'
+        self.cache_manager = cache_manager
 
         self.sb = SbSession()
         self.sgcn_base_item = self.sb.get_item(self.sgcn_root_item)
@@ -94,6 +95,10 @@ class Sgcn:
             self.sql_data = pysppin.utils.Sql(cache_location=self.source_data_path)
             self.sql_mq = pysppin.utils.Sql(cache_location=self.mq_path)
             self.sql_sppin = pysppin.utils.Sql(cache_location=self.sppin_path)
+        else:
+            if self.cache_manager is None:
+                raise ValueError("When operating this system you must supply cache_manager")
+            self.raw_data_path = ""
 
     def cache_sgcn_metadata(self, return_data=False):
         '''
@@ -136,13 +141,16 @@ class Sgcn:
 
         return table_list
 
-    def check_historic_list(self, scientific_name):
+    def check_historic_list(self, scientific_name, metadata_cache=None):
         '''
         This function takes a scientific name and checks to see if it was included in the 2005 SWAP list
 
         :param scientificname: Scientific name string
         :return: True if the name is in the historic list, otherwise False
         '''
+        if metadata_cache:
+            return len([spec for spec in metadata_cache["Historic 2005 SWAP National List"] if spec["scientific_name"] == scientific_name]) > 0
+
         check_records = self.sql_metadata.get_select_records(
             "sgcn_meta",
             "Historic 2005 SWAP National List",
@@ -155,7 +163,7 @@ class Sgcn:
         else:
             return True
 
-    def check_itis_override(self, scientific_name):
+    def check_itis_override(self, scientific_name, metadata_cache=None):
         '''
         This function takes the original scientific name found in certain source records and finds a corresponding
         ITIS identifier to be used in lieu of name lookup.
@@ -163,6 +171,12 @@ class Sgcn:
         :param scientific_name: Scientific name string
         :return: ITIS TSN identifier in URL form
         '''
+        if metadata_cache:
+            records = [spec for spec in metadata_cache["SGCN ITIS Overrides"] if spec["ScientificName_original"] == scientific_name]
+            if len(records):
+                return records[0]["taxonomicAuthorityID"]
+            return None
+
         check_records = self.sql_metadata.get_select_records(
             "sgcn_meta",
             "SGCN ITIS Overrides",
@@ -267,6 +281,9 @@ class Sgcn:
         :param item: Simplified SGCN source item dictionary
         :return: Intended to return a process log record if an item has been processed; otherwise returns None
         '''
+        if self.cache_manager: # in the pipeline we always process all files
+            return None
+
         return self.sql_data.get_select_records(
             "sgcn",
             "sgcn",
@@ -280,7 +297,7 @@ class Sgcn:
         else:
             return f"Scientific Name:{scientific_name}"
 
-    def process_sgcn_source_item(self, item, output_type="dict"):
+    def process_sgcn_source_item(self, item, output_type="dict", metadata_cache=None):
         '''
         This function handles the process of pulling a source file from ScienceBase, reading the specified file via
         HTTP into a Pandas dataframe, infusing a little bit of additional source metadata into each record, infusing
@@ -338,16 +355,20 @@ class Sgcn:
         if "taxonomy group (use drop down box)" in df_src.columns:
             df_src.rename(columns={"taxonomy group (use drop down box)": "taxonomic category"}, inplace=True)
 
+        # Make sure blank common name and taxonomic category values are "", otherwise their value is NaN (invalid json)
+        df_src["common name"] = df_src.apply(lambda x: "" if isinstance(x["common name"], float) else x["common name"], axis=1)
+        df_src["taxonomic category"] = df_src.apply(lambda x: "" if isinstance(x["taxonomic category"], float) else x["taxonomic category"], axis=1)
+
         # Clean up the scientific name string for lookup by applying the function from bis_utils
         df_src["clean_scientific_name"] = df_src.apply(
             lambda x: common_utils.clean_scientific_name(x["scientific name"]),
             axis=1)
 
         # Check the historic list and flag any species names that should be considered part of the 2005 National List
-        df_src["historic_list"] = df_src.apply(lambda x: self.check_historic_list(x["scientific name"]), axis=1)
+        df_src["historic_list"] = df_src.apply(lambda x: self.check_historic_list(x["scientific name"], metadata_cache), axis=1)
 
         # Check to see if there is an explicit ITIS identifier that should be applied to the species name (ITIS Overrides)
-        df_src["itis_override_id"] = df_src.apply(lambda x: self.check_itis_override(x["scientific name"]), axis=1)
+        df_src["itis_override_id"] = df_src.apply(lambda x: self.check_itis_override(x["scientific name"], metadata_cache), axis=1)
 
         # Set up the search_key property for use in linking other discovered data from sppin processing
         df_src["sppin_key"] = df_src.apply(
@@ -782,3 +803,113 @@ class Sgcn:
 
         else:
             return None
+
+# Pipeline processing methods
+
+    def validate_data(self, record):
+        '''
+        This function processes an individual source record from any SGCN source, validates it against a schema,
+        and returns whether the record is valid.
+
+        :param record:
+        :return: Boolean, True if the data matches the schema, False otherwise
+        '''
+        schema = self.get_schema("sgcn_source_records_schema")
+        validation = pysppin_utils.validate_data(record, schema)
+
+        return validation[0]["valid"]
+
+    # The below methods replace the functionality of process_sppin_source_search_term for the pipeline
+
+    def gather_taxa_summary(self, message):
+        taxa_summary_msg, name_queue, worms_queue = self.search_itis(message)
+
+        if worms_queue is not None:
+            return self.search_worms(worms_queue)
+
+        return taxa_summary_msg, name_queue
+
+    def search_itis(self, message):
+        message_body = self.sppin_messages(dataset=[message])[0]
+        get_data = lambda sppin_key, name_source, source_date: pysppin.itis.ItisApi().search(
+            sppin_key,
+            name_source=name_source,
+            source_date=source_date
+        )
+
+        source_results = self.create_or_return_cache('itis', message_body, get_data)
+
+        return self.process_itis_result(source_results)
+
+    def search_worms(self, message):
+        get_data = lambda sppin_key, name_source, source_date: pysppin.worms.Worms().search(
+            sppin_key,
+            name_source="SGCN",
+            source_date=source_date
+        )
+        
+        source_results = self.create_or_return_cache('worms', message, get_data)
+
+        taxa_summary_msg, name_queue = self.process_worms_result(source_results)
+
+        return taxa_summary_msg, name_queue
+
+    def gather_additional_cache_resources(self, name_queue):
+        self.search_ecos(name_queue)
+        self.search_iucn(name_queue)
+        self.search_natureserve(name_queue)
+        self.search_gbif(name_queue)
+
+    def search_ecos(self, message):
+        get_data = lambda sppin_key, name_source, source_date: pysppin.ecos.Tess().search(sppin_key)
+
+        source_results = self.create_or_return_cache('ecos', message, get_data)
+
+    def search_iucn(self, message):
+        get_data = lambda sppin_key, name_source, source_date: pysppin.iucn.Iucn().search_species(
+            sppin_key,
+            name_source=name_source
+        )
+
+        source_results = self.create_or_return_cache('iucn', message, get_data)
+
+    def search_natureserve(self, message):
+        get_data = lambda sppin_key, name_source, source_date: pysppin.natureserve.Natureserve().search(
+            sppin_key,
+            name_source=name_source
+        )
+
+        source_results = self.create_or_return_cache('natureserve', message, get_data)
+
+    def search_gbif(self, message):
+        get_data = lambda sppin_key, name_source, source_date: pysppin.gbif.Gbif().summarize_us_species(
+            sppin_key,
+            name_source=name_source
+        )
+
+        source_results = self.create_or_return_cache('gbif', message, get_data)
+
+    def create_or_return_cache(self, sppin_source, message, get_data):
+        message = message if not isinstance(message, list) else message[0]
+        if self.cache_manager:
+            sppin_key = message["sppin_key"]
+            key = "{}:{}".format(sppin_source, sppin_key)
+
+            source_results = self.cache_manager.get_from_cache(key)
+            if not source_results:
+                name_source, source_date = self.get_source_data(message)
+                source_results = get_data(sppin_key, name_source, source_date)
+                self.cache_manager.add_to_cache(key, source_results)
+
+            return source_results
+        else:
+            raise ValueError("A cache_manager must be provided for non local processing.")
+
+    def get_source_data(self, message_body):
+        if message_body["source"]["type"] == "ScienceBase Source File":
+            name_source = message_body["source"]["sciencebase_source_file"]
+            source_date = message_body["source"]["sciencebase_source_file_date"]
+        else:
+            name_source = message_body["source"]["name_source"]
+            source_date = datetime.utcnow().isoformat()
+        return name_source, source_date
