@@ -1,15 +1,13 @@
 import requests
 import json
 from dotenv import load_dotenv, find_dotenv
-import bis_pipeline
+from pysgcn import bis_pipeline
 import pysppin
 
 load_dotenv(find_dotenv())
 
-species_file = 'test/species.json'
-final_species_file = 'test/final_species.json'
 ch_ledger = 'ledger'
-cache_root = '/Users/blohre/Development/usgs-biolab/pysgcn/.mypy_cache/'
+cache_root = ''
 
 def lambda_handler_3(event, context):
     message_in = json.loads(event["body"])
