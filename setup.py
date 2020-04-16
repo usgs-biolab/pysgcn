@@ -1,4 +1,5 @@
 from setuptools import setup
+import glob
 
 setup(
     name='pysgcn',
@@ -9,7 +10,7 @@ setup(
     author_email='sbristol@usgs.gov',
     license='unlicense',
     packages=['pysgcn'],
-    data_files=[('pysgcn', ['pysgcn/resources/sgcn_source_records_schema.json'])],
+    data_files=[('pysgcn', glob.glob('pysgcn/resources/sgcn_source_records_schema.json') + glob.glob('pysgcn/*.py'))],
     install_requires=[
         'sciencebasepy',
         'pandas',
