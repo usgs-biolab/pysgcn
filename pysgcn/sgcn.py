@@ -820,7 +820,6 @@ class Sgcn:
         return validation[0]["valid"]
 
     # The below methods replace the functionality of process_sppin_source_search_term for the pipeline
-
     def gather_taxa_summary(self, message):
         taxa_summary_msg, name_queue, worms_queue = self.search_itis(message)
 
