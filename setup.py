@@ -8,7 +8,7 @@ setup(
     author='R. Sky Bristol',
     author_email='sbristol@usgs.gov',
     license='unlicense',
-    packages=['pysgcn'],
+    packages=['pysgcn', 'pipeline'],
     install_requires=[
         'sciencebasepy',
         'pandas',
