@@ -5,7 +5,8 @@ from datetime import datetime
 import pysppin
 import os
 import json
-import pkg_resources
+import importlib.resources as pkg_resources
+from . import resources
 
 common_utils = pysppin.utils.Utils()
 itis_api = pysppin.itis.ItisApi()
@@ -261,7 +262,7 @@ class Sgcn:
         return unprocessed_items
 
     def get_schema(self, schema):
-        schema_file = pkg_resources.resource_filename('pysgcn', f'resources/{schema}.json')
+        schema_file = pkg_resources.read_text(resources, f'{schema}.json')
 
         with open(schema_file, "r") as f:
             schema = json.load(f)

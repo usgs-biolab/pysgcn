@@ -10,7 +10,7 @@ setup(
     author_email='sbristol@usgs.gov',
     license='unlicense',
     packages=['pysgcn'],
-    data_files=[('pysgcn', glob.glob('pysgcn/resources/sgcn_source_records_schema.json') + glob.glob('pysgcn/*.py'))],
+    data_files=[('pysgcn', glob.glob('pysgcn/resources/*') + glob.glob('pysgcn/*.py'))],
     install_requires=[
         'sciencebasepy',
         'pandas',
