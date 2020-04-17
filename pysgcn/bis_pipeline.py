@@ -24,7 +24,7 @@ def process_1(
     print(len(process_items))
 
     record_count = 0
-    records_to_send = 20
+    # records_to_send = 20
     process_count = 0
     process_start = 0
     total_to_process = 6
@@ -51,9 +51,9 @@ def process_1(
                 print(spec["scientific name"])
                 print(e)
         for hsh, spec in species:
-            if record_count < records_to_send:
-                species_result = {"id": hsh, **spec}
-                send_to_stage(species_result, 2)
+            # if record_count < records_to_send:
+            species_result = {"id": hsh, **spec}
+            send_to_stage(species_result, 2)
             record_count += 1
 
         process_count += 1
