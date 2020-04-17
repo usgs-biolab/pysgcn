@@ -70,7 +70,7 @@ def process_2(
     sgcn = pysgcn.Sgcn(operation_mode='pipeline', cache_manager=cache_manager)
 
     # Stage 5 ITIS, WoRMS
-    print('\n --- species', previous_stage_result["sppin_key"], ' ---')
+    print('--- start species', previous_stage_result["sppin_key"], ' ---')
     taxa_summary_msg, name_queue = sgcn.gather_taxa_summary(previous_stage_result)
 
     sgcn_record = {"row_id": previous_stage_result["id"], "data": previous_stage_result}
@@ -83,7 +83,7 @@ def process_2(
     if name_queue:
         send_to_stage(name_queue, 3)
 
-    print('done', previous_stage_result["sppin_key"], '\n', {**previous_stage_result, **taxa_summary_msg})
+    print('--- end species', previous_stage_result["sppin_key"], ' ---')
 
 def process_3(
     path,
