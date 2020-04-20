@@ -3,7 +3,7 @@ import glob
 
 setup(
     name='pysgcn',
-    version='0.0.1',
+    version='0.0.2',
     description='Data building codes for the synthesized SGCN database',
     url='http://github.com/usgs-bcb/pysgcn',
     author='R. Sky Bristol',
