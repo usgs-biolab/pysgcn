@@ -81,7 +81,10 @@ def process_2(
     send_final_result(sgcn_record)
 
     if name_queue:
-        send_to_stage(name_queue, 3)
+        send_to_stage({"name_queue": name_queue, "sppin_source": "gbif"}, 3)
+        send_to_stage({"name_queue": name_queue, "sppin_source": "ecos"}, 3)
+        send_to_stage({"name_queue": name_queue, "sppin_source": "iucn"}, 3)
+        send_to_stage({"name_queue": name_queue, "sppin_source": "natureserve"}, 3)
 
     print('--- end species', previous_stage_result["sppin_key"], ' ---')
 
@@ -95,4 +98,4 @@ def process_3(
 ):
     sgcn = pysgcn.Sgcn(operation_mode='pipeline', cache_manager=cache_manager)
     # ECOS TESS, IUCN, NatureServe, GBIF
-    sgcn.gather_additional_cache_resources(previous_stage_result)
+    sgcn.gather_additional_cache_resources(previous_stage_result["name_queue"], previous_stage_result["sppin_source"])

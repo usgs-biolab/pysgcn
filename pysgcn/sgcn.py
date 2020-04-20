@@ -853,11 +853,15 @@ class Sgcn:
 
         return taxa_summary_msg, name_queue
 
-    def gather_additional_cache_resources(self, name_queue):
-        self.search_ecos(name_queue)
-        self.search_iucn(name_queue)
-        self.search_natureserve(name_queue)
-        self.search_gbif(name_queue)
+    def gather_additional_cache_resources(self, name_queue, sppin_source):
+        if sppin_source == "gbif":
+            self.search_gbif(name_queue)
+        elif sppin_source == "ecos":
+            self.search_ecos(name_queue)
+        elif sppin_source == "iucn":
+            self.search_iucn(name_queue)
+        elif sppin_source == "natureserve":
+            self.search_natureserve(name_queue)
 
     def search_ecos(self, message):
         get_data = lambda sppin_key, name_source, source_date: pysppin.ecos.Tess().search(sppin_key)
