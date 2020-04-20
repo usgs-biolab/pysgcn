@@ -821,6 +821,14 @@ class Sgcn:
 
     # The below methods replace the functionality of process_sppin_source_search_term for the pipeline
     def gather_taxa_summary(self, message):
+        '''
+        Attempt to create a taxaonomic summary from itis. If itis doesn't have a match, create a taxonomic summary from WoRMS. 
+        Return the taxonomic summary along with name processing information.
+
+        :param message: message containing the search term and other details
+        :return: Dictionary containing ITIS summary properties needed for this application and lists of messages for
+        name processing in information gathering functions and WoRMS. Any of these can be None.
+        '''
         taxa_summary_msg, name_queue, worms_queue = self.search_itis(message)
 
         if worms_queue is not None:
@@ -829,6 +837,13 @@ class Sgcn:
         return taxa_summary_msg, name_queue
 
     def search_itis(self, message):
+        '''
+        Search the cache for an existing record from itis. If none exists search itis. Return the processed itis information.
+
+        :param message: Message containing the search term and other details
+        :return: Dictionary containing ITIS summary properties needed for this application and lists of messages for
+        name processing in information gathering functions and WoRMS. Any of these can be None.
+        '''
         message_body = self.sppin_messages(dataset=[message])[0]
         get_data = lambda sppin_key, name_source, source_date: pysppin.itis.ItisApi().search(
             sppin_key,
@@ -841,6 +856,13 @@ class Sgcn:
         return self.process_itis_result(source_results)
 
     def search_worms(self, message):
+        '''
+        Search the cache for an existing record from worms. If none exists search worms.
+        Return the processed worms information.
+
+        :param message: Message containing the search term and other details
+        :return: Summary properties for processing in SGCN and a list of name messages for further processing
+        '''
         get_data = lambda sppin_key, name_source, source_date: pysppin.worms.Worms().search(
             sppin_key,
             name_source="SGCN",
@@ -849,50 +871,56 @@ class Sgcn:
         
         source_results = self.create_or_return_cache('worms', message, get_data)
 
-        taxa_summary_msg, name_queue = self.process_worms_result(source_results)
-
-        return taxa_summary_msg, name_queue
+        return self.process_worms_result(source_results)
 
     def gather_additional_cache_resources(self, name_queue, sppin_source):
+        '''
+        Search the cache for an existing record from the sppin source. If none exists create one.
+
+        :param name_queue: Name message for gathering additional data
+        :param sppin_source: The species information source to operate against
+        '''
         if sppin_source == "gbif":
-            self.search_gbif(name_queue)
+            source_results = self.create_or_return_cache('gbif', name_queue, self.search_gbif)
         elif sppin_source == "ecos":
-            self.search_ecos(name_queue)
+            source_results = self.create_or_return_cache('ecos', name_queue, self.search_ecos)
         elif sppin_source == "iucn":
-            self.search_iucn(name_queue)
+            source_results = self.create_or_return_cache('iucn', name_queue, self.search_iucn)
         elif sppin_source == "natureserve":
-            self.search_natureserve(name_queue)
+            source_results = self.create_or_return_cache('natureserve', name_queue, self.search_natureserve)
 
-    def search_ecos(self, message):
-        get_data = lambda sppin_key, name_source, source_date: pysppin.ecos.Tess().search(sppin_key)
+    def search_ecos(self, sppin_key, name_source, source_date):
+        return pysppin.ecos.Tess().search(sppin_key)
 
-        source_results = self.create_or_return_cache('ecos', message, get_data)
-
-    def search_iucn(self, message):
-        get_data = lambda sppin_key, name_source, source_date: pysppin.iucn.Iucn().search_species(
+    def search_iucn(self, sppin_key, name_source, source_date):
+        return pysppin.iucn.Iucn().search_species(
             sppin_key,
             name_source=name_source
         )
 
-        source_results = self.create_or_return_cache('iucn', message, get_data)
-
-    def search_natureserve(self, message):
-        get_data = lambda sppin_key, name_source, source_date: pysppin.natureserve.Natureserve().search(
+    def search_natureserve(self, sppin_key, name_source, source_date):
+        return pysppin.natureserve.Natureserve().search(
             sppin_key,
             name_source=name_source
         )
 
-        source_results = self.create_or_return_cache('natureserve', message, get_data)
-
-    def search_gbif(self, message):
-        get_data = lambda sppin_key, name_source, source_date: pysppin.gbif.Gbif().summarize_us_species(
+    def search_gbif(self, sppin_key, name_source, source_date):
+        return pysppin.gbif.Gbif().summarize_us_species(
             sppin_key,
             name_source=name_source
         )
-
-        source_results = self.create_or_return_cache('gbif', message, get_data)
 
     def create_or_return_cache(self, sppin_source, message, get_data):
+        '''
+        Search the cache for the data. If it doesn't exist retreive the data and store it in the cache.
+        Return the cached data.
+
+        :param sppin_source: The information source (used to create the cache key)
+        :param message: Message containing the search term and other details
+        :param get_data: Function to retrieve the data if it's not in the cache
+        The function should take 3 params: sppin_key, name_source, source_data
+        :return: The results of the sppin source data retrieval 
+        '''
         message = message if not isinstance(message, list) else message[0]
         if self.cache_manager:
             sppin_key = message["sppin_key"]
@@ -909,6 +937,12 @@ class Sgcn:
             raise ValueError("A cache_manager must be provided for non local processing.")
 
     def get_source_data(self, message_body):
+        '''
+        Get source data from the message.
+
+        :param message_body: Body of the message containing source details
+        :return: The name and the creation date of the source
+        '''
         if message_body["source"]["type"] == "ScienceBase Source File":
             name_source = message_body["source"]["sciencebase_source_file"]
             source_date = message_body["source"]["sciencebase_source_file_date"]
