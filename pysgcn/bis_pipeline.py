@@ -48,8 +48,8 @@ def process_1(
                 if valid and hsh not in map(lambda species_tup: species_tup[1], species):
                     species.append((hsh, spec))
             except Exception as e:
-                print(spec["scientific name"])
-                print(e)
+                print('Error (process_1): Species: "{}"'.format(spec["scientific name"]))
+                print("Error (process_1): ", e)
         for hsh, spec in species:
             # if record_count < records_to_send:
             species_result = {"id": hsh, **spec}
