@@ -890,21 +890,25 @@ class Sgcn:
             source_results = self.create_or_return_cache('natureserve', name_queue, self.search_natureserve)
 
     def search_ecos(self, sppin_key, name_source, source_date):
+        print('Search ECOS')
         return pysppin.ecos.Tess().search(sppin_key)
 
     def search_iucn(self, sppin_key, name_source, source_date):
+        print('Search IUCN')
         return pysppin.iucn.Iucn().search_species(
             sppin_key,
             name_source=name_source
         )
 
     def search_natureserve(self, sppin_key, name_source, source_date):
+        print('Search NatureServe')
         return pysppin.natureserve.Natureserve().search(
             sppin_key,
             name_source=name_source
         )
 
     def search_gbif(self, sppin_key, name_source, source_date):
+        print('Search GBIF')
         return pysppin.gbif.Gbif().summarize_us_species(
             sppin_key,
             name_source=name_source
