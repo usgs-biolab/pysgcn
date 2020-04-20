@@ -47,6 +47,8 @@ def process_1(
                 # make sure we don't add duplicates
                 if valid and hsh not in map(lambda species_tup: species_tup[1], species):
                     species.append((hsh, spec))
+                else:
+                    print('Duplicate species found: ', spec["scientific name"])
             except Exception as e:
                 print('Error (process_1): Species: "{}"'.format(spec["scientific name"]))
                 print("Error (process_1): ", e)
