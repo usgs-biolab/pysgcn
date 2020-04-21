@@ -24,17 +24,18 @@ def process_1(
 
     record_count = 0
     # for debugging
-    debug_process_count = 0
-    debug_process_start = 0
-    debug_total_to_process = 6
+    # debug_process_count = 0
+    # debug_process_start = 0
+    # debug_total_to_process = 6
 
     for item in process_items:
         # species extracted from the source file to process
         species = []
         # for debugging
-        debug_process_count += 1
-        if debug_process_count < debug_process_start or debug_process_count > debug_total_to_process:
-            continue
+        # if debug_process_count < debug_process_start or debug_process_count > debug_total_to_process:
+        #     debug_process_count += 1
+        #     continue
+        # debug_process_count += 1
 
         print("processing {} {}".format(item["state"], item["year"]))
 
