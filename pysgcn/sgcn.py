@@ -146,6 +146,7 @@ class Sgcn:
         This function takes a scientific name and checks to see if it was included in the 2005 SWAP list
 
         :param scientificname: Scientific name string
+        :param metadata_cache: A dictionary of the metadata used for prcessing species in the pipeline, optional
         :return: True if the name is in the historic list, otherwise False
         '''
         if metadata_cache:
@@ -169,6 +170,7 @@ class Sgcn:
         ITIS identifier to be used in lieu of name lookup.
 
         :param scientific_name: Scientific name string
+        :param metadata_cache: A dictionary of the metadata used for prcessing species in the pipeline, optional
         :return: ITIS TSN identifier in URL form
         '''
         if metadata_cache:
@@ -307,6 +309,7 @@ class Sgcn:
         :param item: Dictionary containing the summarized item message created and queued in the
         get_processable_items function
         :param output_type: Can be one of - dict, dataframe, or json - defaults to dict
+        :param metadata_cache: A dictionary of the metadata used for prcessing species in the pipeline, optional
         :return: Returns a flattened data structure/table in one of a few specified formats
         '''
         file_name = item["source_file_url"].split("%2F")[-1]

@@ -13,6 +13,12 @@ The IPython Notebooks in the workflow folder provide a recipe for processing the
 5) ITIS - Runs the process to lookup species names and TSN identifiers and return records.
 5) ITIS - Runs the process to lookup species names and TSN identifiers and return records.
 
+## Pipeline
+The AWS pipeline interacts with the scripts through the `pysgcn/bis_pipeline.py` file.
+#### Running Locally
+Interactions with permanent infastructure in the AWS pipeline are replaced with sqlite for local runs. All of this functionality is in the `local_pipeline_run.py` file and can be modified if needed. Make sure the `cache_root` variable in `local_pipeline_run.py` points towards a sqlite db. The reults of the pipeline run will be stored in the `cache` table.
+Run `python local_pipeline_run.py` and the processing will start.
+
 
 ## Provisional Software Statement
 

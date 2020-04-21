@@ -24,7 +24,6 @@ def process_1(
 
     record_count = 0
     # for debugging
-    # records_to_send = 20
     debug_process_count = 0
     debug_process_start = 0
     debug_total_to_process = 6
