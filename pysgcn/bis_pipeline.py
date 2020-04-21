@@ -31,9 +31,11 @@ def process_1(
     for item in process_items:
         # species extracted from the source file to process
         species = []
+        # for debugging
+        debug_process_count += 1
         if debug_process_count < debug_process_start or debug_process_count > debug_total_to_process:
-            debug_process_count += 1
             continue
+
         print("processing {} {}".format(item["state"], item["year"]))
 
         # Stage 3 Extract Source Data
@@ -61,7 +63,6 @@ def process_1(
             send_to_stage(species_result, 2)
             record_count += 1
 
-        debug_process_count += 1
     # return the total number of species found in all processed files
     return record_count
 
@@ -88,13 +89,14 @@ def process_2(
     # send the final result to the database
     send_final_result(sgcn_record)
 
-    # check to see if additional data needs to be gathered
-    if name_queue:
-        # send to the next data gathering stage
-        send_to_stage({"name_queue": name_queue, "sppin_source": "gbif"}, 3)
-        send_to_stage({"name_queue": name_queue, "sppin_source": "ecos"}, 3)
-        send_to_stage({"name_queue": name_queue, "sppin_source": "iucn"}, 3)
-        send_to_stage({"name_queue": name_queue, "sppin_source": "natureserve"}, 3)
+    # commented out for now because we're not using this data yet and it's the most time consuming processing
+    # # check to see if additional data needs to be gathered
+    # if name_queue:
+    #     # send to the next data gathering stage
+    #     send_to_stage({"name_queue": name_queue, "sppin_source": "gbif"}, 3)
+    #     send_to_stage({"name_queue": name_queue, "sppin_source": "ecos"}, 3)
+    #     send_to_stage({"name_queue": name_queue, "sppin_source": "iucn"}, 3)
+    #     send_to_stage({"name_queue": name_queue, "sppin_source": "natureserve"}, 3)
 
     print('--- end species', previous_stage_result["sppin_key"], ' ---')
 
