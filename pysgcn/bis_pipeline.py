@@ -50,19 +50,18 @@ def process_1(
                 # create a hash of the species record so we don't add duplicates from the same file
                 hsh = hashlib.sha1(repr(json.dumps(spec, sort_keys=True)).encode('utf-8')).hexdigest()
                 # make sure we don't add duplicates by comparing hashs
-                if valid and hsh not in map(lambda species_tup: species_tup[1], species):
+                if valid and hsh not in map(lambda species_tup: species_tup[0], species):
                     species.append((hsh, spec))
+                    # use the hash as an id for the rest of the processing
+                    species_result = {"id": hsh, **spec}
+                    # send onto the next stage
+                    send_to_stage(species_result, 2)
+                    record_count += 1
                 else:
-                    print('Duplicate species found: ', spec["scientific name"])
+                    print('Invalid or Duplicate species found: ', spec["scientific name"])
             except Exception as e:
                 print('Error (process_1): Species: "{}"'.format(spec["scientific name"]))
                 print("Error (process_1): ", e)
-        for hsh, spec in species:
-            # use the hash as an id for the rest of the processing
-            species_result = {"id": hsh, **spec}
-            # send onto the next stage
-            send_to_stage(species_result, 2)
-            record_count += 1
 
     # return the total number of species found in all processed files
     return record_count
