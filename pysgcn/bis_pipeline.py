@@ -21,7 +21,6 @@ def process_1(
     process_items = sgcn.get_processable_items()
 
     for item in process_items:
-        print('send ', item["state"])
         send_to_stage(item, 2)
 
 def process_2(

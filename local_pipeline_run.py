@@ -59,7 +59,7 @@ def lambda_handler_2(event, context):
             'download_uri': download_uri,
             'payload': data
         }
-        # lambda_handler_3({"body": json.dumps(json_doc)}, {})
+        lambda_handler_3({"body": json.dumps(json_doc)}, {})
 
     send_final_result = None
 
