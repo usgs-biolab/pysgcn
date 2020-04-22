@@ -9,7 +9,7 @@ load_dotenv(find_dotenv())
 ch_ledger = 'ledger'
 cache_root = ''
 
-def lambda_handler_3(event, context):
+def lambda_handler_4(event, context):
     message_in = json.loads(event["body"])
     run_id = message_in["run_id"]
     sb_item_id = message_in["sb_item_id"]
@@ -18,6 +18,30 @@ def lambda_handler_3(event, context):
 
     send_final_result = None
     send_to_stage = None
+
+    bis_pipeline.process_4(download_uri, ch_ledger, send_final_result, send_to_stage, message_in["payload"], cache_manager)
+
+def lambda_handler_3(event, context):
+    message_in = json.loads(event["body"])
+    run_id = message_in["run_id"]
+    sb_item_id = message_in["sb_item_id"]
+    download_uri = message_in["download_uri"]
+    cache_manager = CacheManager(download_uri)
+
+    def send_to_stage(data, stage):
+        json_doc = {
+            'run_id': run_id,
+            'sb_item_id': sb_item_id,
+            'download_uri': download_uri,
+            'payload': data
+        }
+        lambda_handler_4({"body": json.dumps(json_doc)}, {})
+
+    def send_final_result(data):
+        species = data["data"]
+        row_id = data["row_id"]
+        cache_manager.add_to_cache("final_res:{}".format(species["sppin_key"]), species)
+        # cache_manager.add_to_cache(row_id, species)
 
     bis_pipeline.process_3(download_uri, ch_ledger, send_final_result, send_to_stage, message_in["payload"], cache_manager)
 
@@ -28,23 +52,19 @@ def lambda_handler_2(event, context):
     download_uri = message_in["download_uri"]
     cache_manager = CacheManager(download_uri)
 
-    def send_to_stage(data, context):
+    def send_to_stage(data, stage):
         json_doc = {
             'run_id': run_id,
             'sb_item_id': sb_item_id,
             'download_uri': download_uri,
             'payload': data
         }
-        lambda_handler_3({"body": json.dumps(json_doc)}, {})
+        # lambda_handler_3({"body": json.dumps(json_doc)}, {})
 
-    def send_final_result(data):
-        species = data["data"]
-        row_id = data["row_id"]
-        cache_manager.add_to_cache("final_res:{}".format(species["sppin_key"]), species)
-        # cache_manager.add_to_cache(row_id, species)
+    send_final_result = None
 
-    bis_pipeline.process_2(download_uri, ch_ledger, send_final_result, send_to_stage, message_in["payload"], cache_manager)
-
+    num_species = bis_pipeline.process_2(download_uri, ch_ledger, send_final_result, send_to_stage, message_in["payload"], cache_manager)
+    print('Species count: ', num_species)
 
 def lambda_handler(event, context):
     run_id = event["run_id"]
@@ -63,8 +83,7 @@ def lambda_handler(event, context):
 
     send_final_result = None
 
-    num_species = bis_pipeline.process_1(download_uri, ch_ledger, send_final_result, send_to_stage, sb_item_id, cache_manager)
-    print("Processing species count: " + str(num_species))
+    num_process_files = bis_pipeline.process_1(download_uri, ch_ledger, send_final_result, send_to_stage, sb_item_id, cache_manager)
 
 class CacheManager:
     def __init__(self, cache_root):
