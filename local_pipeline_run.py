@@ -3,11 +3,12 @@ import json
 from dotenv import load_dotenv, find_dotenv
 from pysgcn import bis_pipeline
 import pysppin
+import time
 
 load_dotenv(find_dotenv())
 
 ch_ledger = 'ledger'
-cache_root = ''
+cache_root = 'mydatabase'
 
 def lambda_handler_4(event, context):
     message_in = json.loads(event["body"])
@@ -63,8 +64,10 @@ def lambda_handler_2(event, context):
 
     send_final_result = None
 
+    start_time = time.time()
     num_species = bis_pipeline.process_2(download_uri, ch_ledger, send_final_result, send_to_stage, message_in["payload"], cache_manager)
-    print('Species count: ', num_species)
+    elapsed_time = "{:.2f}".format(time.time() - start_time)
+    print('Species count: {} ({} seconds)'.format(num_species, elapsed_time))
 
 def lambda_handler(event, context):
     run_id = event["run_id"]
@@ -102,6 +105,10 @@ class CacheManager:
 
 lambda_handler({
     "run_id": "ef33db60-543d-11ea-a34e-023f40fa784e",
+    # This item_id gives all 112 state/year combos to process
     "sb_item_id": "56d720ece4b015c306f442d5",
+
+    # This item_id is our test location that gives just a few state/year combos
+    #"sb_item_id": "5ef51d8082ced62aaae69f05",
     "download_uri": cache_root
 }, {})

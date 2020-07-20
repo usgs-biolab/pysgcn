@@ -37,6 +37,13 @@ def process_2(
     # Stage 2 Cache Metadata and Document Schemas
     sgcn_meta = sgcn.cache_sgcn_metadata(return_data=True)
 
+    # BCB-1556
+    class_list = list()
+    for mapping in sgcn_meta["Taxonomic Group Mappings"]:
+        if mapping['rank'] == "Class":
+            taxodata = {'taxoname' : mapping['name'], 'taxogroup' : mapping['sgcntaxonomicgroup']}
+            class_list.append(taxodata)
+
     # species extracted from the source file to process
     species = []
 
@@ -57,6 +64,8 @@ def process_2(
                 species.append((hsh, spec))
                 # use the hash as an id for the rest of the processing
                 species_result = {"id": hsh, **spec}
+                # BCB-1556
+                species_result["taxogroupings"] = class_list
                 # send onto the next stage
                 send_to_stage(species_result, 3)
                 record_count += 1
@@ -78,17 +87,32 @@ def process_3(
     cache_manager,
 ):
     sgcn = pysgcn.Sgcn(operation_mode='pipeline', cache_manager=cache_manager)
+    print('--- species {} ({})  '.format(previous_stage_result["scientific name"], previous_stage_result['common name']), end='')
 
-    print('--- start species', previous_stage_result["sppin_key"], ' ---')
     # Stage 5 ITIS, WoRMS
     taxa_summary_msg, name_queue = sgcn.gather_taxa_summary(previous_stage_result)
+
+    # BCB-1556
+    class_name = "none"
+    if taxa_summary_msg:
+        if "class_name" in taxa_summary_msg.keys():
+            class_name = taxa_summary_msg['class_name']
+
+    taxo_group = next((tg["taxogroup"] for tg in previous_stage_result["taxogroupings"] if tg["taxoname"] == class_name), None)
+
+    # Erase all the taxogroupings data so it doesn't go into the DB
+    previous_stage_result["taxogroupings"] = None
 
     # create the final record
     sgcn_record = {"row_id": previous_stage_result["id"], "data": previous_stage_result}
     if taxa_summary_msg:
         # Infuse Taxonomic Summary
         sgcn_record["data"] = {**sgcn_record["data"], **taxa_summary_msg}
+        # BCB-1556
+        if taxo_group:
+            sgcn_record["data"]["taxonomic category"] = taxo_group
 
+    print('     class({})  taxogroup({})  sgcnTaxoGroup({})'.format(class_name, taxo_group, sgcn_record["data"]["taxonomic category"]))
     # send the final result to the database
     send_final_result(sgcn_record)
 
@@ -101,7 +125,6 @@ def process_3(
     #     send_to_stage({"name_queue": name_queue, "sppin_source": "iucn"}, 3)
     #     send_to_stage({"name_queue": name_queue, "sppin_source": "natureserve"}, 3)
 
-    print('--- end species', previous_stage_result["sppin_key"], ' ---')
 
 def process_4(
     path,
