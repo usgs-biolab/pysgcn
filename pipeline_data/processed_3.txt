@@ -1,0 +1,5000 @@
+Alaska:2015:Acanthis flammea
+Alaska:2015:Acanthis hornemanni
+Alaska:2015:Accipiter gentilis laingi
+Alaska:2015:Actitus macularius
+Alaska:2015:Adonata adionata kennerlyi
+Alaska:2015:Adonata beringiana
+Alaska:2015:Aegolius funereus
+Alaska:2015:Aethia cristatella
+Alaska:2015:Aethia psittacula
+Alaska:2015:Aethia pusilla
+Alaska:2015:Aethia pygmaea
+Alaska:2015:Agelaius phoeniceus
+Alaska:2015:Alle alle
+Alaska:2015:Ambystoma gracile
+Alaska:2015:Ammodytes hexapterus
+Alaska:2015:Anaxyrus boreas
+Alaska:2015:Anoplopoma fimbria
+Alaska:2015:Anser albifrons elgasi
+Alaska:2015:Anser albifrons frontalis
+Alaska:2015:Anthus rubescens
+Alaska:2015:Aquila chrysaetos canadensis
+Alaska:2015:Arachnida 
+Alaska:2015:Arenaria melanocephala
+Alaska:2015:Asio flammeus flammeus
+Alaska:2015:Atheresthes stomias
+Alaska:2015:Athya affinis
+Alaska:2015:Balaena mysticetus
+Alaska:2015:Balaenoptera borealis
+Alaska:2015:Balaenoptera physalus
+Alaska:2015:Bartramia longicauda
+Alaska:2015:Berryteuthis anonychus
+Alaska:2015:Berrytheuthis magister
+Alaska:2015:Bombycilla garrulus
+Alaska:2015:Boreogadus saida
+Alaska:2015:Brachyramphus brevirostris
+Alaska:2015:Brachyramphus marmoratus
+Alaska:2015:Branta bernicula nigricans
+Alaska:2015:Branta canadensis occidentalis
+Alaska:2015:Branta hutchinsii minima
+Alaska:2015:Branta hutchinsii taverneri
+Alaska:2015:Bubo scandiacus
+Alaska:2015:Buteo lagopus
+Alaska:2015:Calcarius lapponicus alascensis
+Alaska:2015:Calcarius pictus
+Alaska:2015:Calidris alba
+Alaska:2015:Calidris alpina arcticola
+Alaska:2015:Calidris alpina pacifica
+Alaska:2015:Calidris canutus roselaari
+Alaska:2015:Calidris mauri
+Alaska:2015:Calidris melanotos
+Alaska:2015:Calidris ptilocnemis couesi
+Alaska:2015:Calidris ptilocnemis ptilocnemis
+Alaska:2015:Calidris ptilocnemis tschuktschorum
+Alaska:2015:Calidris pusilla
+Alaska:2015:Calidris subruficollis
+Alaska:2015:Callorhinus ursinus
+Alaska:2015:Cancer magister
+Alaska:2015:Canis lupus ligoni
+Alaska:2015:Cardellina pusilla pileolata
+Alaska:2015:Catharus guttatus guttatus 
+Alaska:2015:Catharus guttatus nanus
+Alaska:2015:Catharus ustulatus
+Alaska:2015:Cepphus columba columba
+Alaska:2015:Cepphus grille
+Alaska:2015:Certhia americana alascensis
+Alaska:2015:Certhia americana occidentalis
+Alaska:2015:Charadrius vociferous
+Alaska:2015:Chen canagica
+Alaska:2015:Chionoecetes opilio
+Alaska:2015:Circus cyaneus
+Alaska:2015:Cladocera 
+Alaska:2015:Clangula hyemalis
+Alaska:2015:Clinocardium nuttallii
+Alaska:2015:Clupea pallasii
+Alaska:2015:Colaptes auratus luteus
+Alaska:2015:Contopus cooperi
+Alaska:2015:Contopus sordidulus
+Alaska:2015:Copepoda
+Alaska:2015:Coregonus autumnalis autumnalis
+Alaska:2015:Coregonus laurettae
+Alaska:2015:Coregonus nasus
+Alaska:2015:Coregonus pidschian
+Alaska:2015:Corvus corax kamtschaticus
+Alaska:2015:Couesius plumbeus
+Alaska:2015:Cryptochiton stelleri
+Alaska:2015:Cyanocitta stelleri
+Alaska:2015:Cygnus buccinator
+Alaska:2015:Cypseloides niger borealis
+Alaska:2015:Dallia pectoralis
+Alaska:2015:Delphinapterus leucas
+Alaska:2015:Delphinapterus leucas
+Alaska:2015:Dicrostonyx groenlandicus
+Alaska:2015:Dicrostonyx nelson
+Alaska:2015:Dicrostonyx unalascensis
+Alaska:2015:Echinodermata
+Alaska:2015:Eleginus gracilis
+Alaska:2015:Empidonax alnorum
+Alaska:2015:Empidonax difficilis
+Alaska:2015:Enhydra lutris kenyoni
+Alaska:2015:Enteroctopus dofleini
+Alaska:2015:Entosphenus tridentate
+Alaska:2015:Ephemeroptera
+Alaska:2015:Eremophila alpestris arcticola
+Alaska:2015:Erignathus barbatus nauticus
+Alaska:2015:Erimacrus isenbeckii
+Alaska:2015:Eschrichtius robustus
+Alaska:2015:Esox Lucius
+Alaska:2015:Eubalaena japonica
+Alaska:2015:Eumetopias jubatus
+Alaska:2015:Euphagus carolinus carolinus
+Alaska:2015:Euphasiacea
+Alaska:2015:Falco perigrinus
+Alaska:2015:Falco rusticolus
+Alaska:2015:Falco sparverius
+Alaska:2015:Fratercula cirrhata
+Alaska:2015:Fratercula corniculata 
+Alaska:2015:Fulmarus glacialis
+Alaska:2015:Gadus microcephalus
+Alaska:2015:Gavia adamsii
+Alaska:2015:Gavia arctica
+Alaska:2015:Geothlypis tolmiei
+Alaska:2015:Geothlypis trichas
+Alaska:2015:Glaucomys sabrinus griseifrons
+Alaska:2015:Glaucomys sabrinus
+Alaska:2015:Grus canadensis canadensis
+Alaska:2015:Haematopus bachmani
+Alaska:2015:Haliaeetus leucocephalus
+Alaska:2015:Haliotis kamtschatkana
+Alaska:2015:Hippoglossus stenolepis
+Alaska:2015:Hippolyte clarki
+Alaska:2015:Hirundo rustica
+Alaska:2015:Histriophoca fasciata
+Alaska:2015:Hymenoptera 
+Alaska:2015:Hypomesus pretiosus
+Alaska:2015:Ixoreus naevius
+Alaska:2015:Junco hyemalis oreganus
+Alaska:2015:Katharina tunicate
+Alaska:2015:Lampetra ayresii
+Alaska:2015:Lanius excubitor
+Alaska:2015:Larus canus brachyrhynchus
+Alaska:2015:Larus glaucescens
+Alaska:2015:Larus hyperboreus
+Alaska:2015:Larus smithsonianus
+Alaska:2015:Lasionycteris noctivagans
+Alaska:2015:Lemmus sibiricus
+Alaska:2015:Lemmus trimucronatus
+Alaska:2015:Lepidoptera 
+Alaska:2015:Lepus americanus
+Alaska:2015:Lepus othus
+Alaska:2015:Lethenteron alaskense
+Alaska:2015:Lethenteron camtschatica
+Alaska:2015:Leucosticte tephrocotis griseonucha
+Alaska:2015:Leucosticte tephrocotis umbrina
+Alaska:2015:Limnodromus griseus caurinus
+Alaska:2015:Limosa fedoa beringea
+Alaska:2015:Limosa haemastica
+Alaska:2015:Limosa lapponica baueri
+Alaska:2015:Lithodes aequispinus
+Alaska:2015:Lota lota
+Alaska:2015:Loxia leucoptera
+Alaska:2015:Luscinia svecica
+Alaska:2015:Macoma balthica
+Alaska:2015:Margaritifera falcate
+Alaska:2015:Marmota broweri
+Alaska:2015:Megaceryle alcyon
+Alaska:2015:Megaptera novaeangliae
+Alaska:2015:Megascops kennicottii
+Alaska:2015:Melanitta americana
+Alaska:2015:Melanitta deglandi
+Alaska:2015:Melospiza lincolnii
+Alaska:2015:Melospiza melodia caurina
+Alaska:2015:Melospiza melodia insignis
+Alaska:2015:Melospiza melodia kenaiensis
+Alaska:2015:Melospiza melodia maxima
+Alaska:2015:Melospiza melodia rufina
+Alaska:2015:Melospiza melodia sanaka
+Alaska:2015:Melospiza melodia
+Alaska:2015:Microgadus proximus
+Alaska:2015:Microtus abbreviatus
+Alaska:2015:Microtus longicaudus
+Alaska:2015:Microtus miurus
+Alaska:2015:Microtus oeconomus
+Alaska:2015:Microtus pennsylvanicus
+Alaska:2015:Microtus xanthognathus
+Alaska:2015:Myodes rutilus
+Alaska:2015:Myotis Volans
+Alaska:2015:Myotis californicus
+Alaska:2015:Myotis keenii
+Alaska:2015:Myotis lucifugus
+Alaska:2015:Numenius phaeopus hudsonicus
+Alaska:2015:Numenius tahitiensis
+Alaska:2015:Ochotona collaris
+Alaska:2015:Odobenus rosmarus
+Alaska:2015:Odonata 
+Alaska:2015:Oenathe oenanthe oenanthe
+Alaska:2015:Oncorhynchus clarki clarki
+Alaska:2015:Oncorhynchus gorbuscha
+Alaska:2015:Oncorhynchus keta
+Alaska:2015:Oncorhynchus kisutch
+Alaska:2015:Oncorhynchus mykiss
+Alaska:2015:Oncorhynchus nerka
+Alaska:2015:Onychoprion aleuticus
+Alaska:2015:Ophiodon elongates
+Alaska:2015:Orcinus orca
+Alaska:2015:Oreothlypis celata
+Alaska:2015:Osmerus mordax
+Alaska:2015:Pandalus borealis
+Alaska:2015:Pandalus dispar
+Alaska:2015:Pandalus goniurus
+Alaska:2015:Pandalus hypsinotis
+Alaska:2015:Pandalus patyceros
+Alaska:2015:Paralithodes camtschaticus
+Alaska:2015:Paralithodes platypus
+Alaska:2015:Parastichopus californicus
+Alaska:2015:Passerculus sandwichensis
+Alaska:2015:Passerella iliaca annectens
+Alaska:2015:Passerella iliaca chilkatensis
+Alaska:2015:Passerella iliaca insularis 
+Alaska:2015:Passerella iliaca sinuosa 
+Alaska:2015:Passerella iliaca townsendi
+Alaska:2015:Passerella iliaca unalaschcensis 
+Alaska:2015:Passerella iliaca
+Alaska:2015:Perisoreus canadensis pacificus
+Alaska:2015:Peromyscus keeni
+Alaska:2015:Phalacrocorax pelagicus
+Alaska:2015:Phoca largha
+Alaska:2015:Phoca vitulina richardii
+Alaska:2015:Phocoena phocoena
+Alaska:2015:Phoebastria albatrus
+Alaska:2015:Phoebastria nigripes
+Alaska:2015:Phylloscopus borealis
+Alaska:2015:Physeter macrocephalus
+Alaska:2015:Picoides arcticus
+Alaska:2015:Picoides villosus sitkensis
+Alaska:2015:Pinicola enucleator flammula
+Alaska:2015:Plecoptera
+Alaska:2015:Plectrophenax hyperboreus
+Alaska:2015:Plectrophenax nivalis nivalis
+Alaska:2015:Plectrophenax nivalis townsendi
+Alaska:2015:Pleurogrammus monopterygius
+Alaska:2015:Pluvialis dominica
+Alaska:2015:Pluvialis squatarola
+Alaska:2015:Poecile atricapillus 
+Alaska:2015:Poecile cinctus lathami
+Alaska:2015:Poecile hudsonicus
+Alaska:2015:Poecile rufescens
+Alaska:2015:Polysticta stelleri
+Alaska:2015:Prosopium coulterii
+Alaska:2015:Prosopium cylindraceum
+Alaska:2015:Protothaca stamineais
+Alaska:2015:Ptychoramphus aleuticus aleuticus
+Alaska:2015:Pungitius pungitius
+Alaska:2015:Pusa hispida hispida
+Alaska:2015:Regulus calendula grinnelli
+Alaska:2015:Regulus satrapa
+Alaska:2015:Riparia riparia
+Alaska:2015:Rissa brevirostris
+Alaska:2015:Rissa tridactyla
+Alaska:2015:Salvelinus alpinus
+Alaska:2015:Salvelinus malma
+Alaska:2015:Salvelinus namaycush
+Alaska:2015:Saxidomus gigantean
+Alaska:2015:Sebastes alutus
+Alaska:2015:Sebastes maliger
+Alaska:2015:Sebastes melanops
+Alaska:2015:Sebastes paucispinis
+Alaska:2015:Sebastes ruberrimus
+Alaska:2015:Selasphorus rufus
+Alaska:2015:Setophaga petechia
+Alaska:2015:Setophaga petechial banksi
+Alaska:2015:Setophaga petechial rubiginosa
+Alaska:2015:Setophaga ruticilla
+Alaska:2015:Setophaga striata
+Alaska:2015:Setophaga townsendi
+Alaska:2015:Somateria fischeri 
+Alaska:2015:Somateria mollissima
+Alaska:2015:Sorex alaskanus
+Alaska:2015:Sorex cinereus streatori
+Alaska:2015:Sorex jacksoni
+Alaska:2015:Sorex monticolus alascensis
+Alaska:2015:Sorex monticolus longicaudus
+Alaska:2015:Sorex monticolus malitiosus
+Alaska:2015:Sorex monticolus shumaginensis
+Alaska:2015:Sorex monticolus
+Alaska:2015:Sorex pribilofensis
+Alaska:2015:Sorex tundrensis
+Alaska:2015:Sorex ugyunak
+Alaska:2015:Sphyrapicus ruber
+Alaska:2015:Spinus pinus
+Alaska:2015:Spirinchus starksi
+Alaska:2015:Spirinchus thaleichthys
+Alaska:2015:Spizella arborea
+Alaska:2015:Spizella passerina
+Alaska:2015:Stenodus leucichthys
+Alaska:2015:Stercarius longicaudus
+Alaska:2015:Sterna paradisaea
+Alaska:2015:Sterocarius pomarinus
+Alaska:2015:Strix nebulosi
+Alaska:2015:Strongylocentrotus droebachiensis 
+Alaska:2015:Strongylocentrotus franciscanus
+Alaska:2015:Surnia ulula
+Alaska:2015:Synaptomys borealis
+Alaska:2015:Synthliboramphus antiquus antiquus
+Alaska:2015:Tamiasciurus hudsonicus kenaiensis
+Alaska:2015:Tamiasciurus hudsonicus picatus
+Alaska:2015:Tamiasciurus hudsonicus
+Alaska:2015:Thaleichthys pacificus
+Alaska:2015:Thymallus arcticus
+Alaska:2015:Trichoptera
+Alaska:2015:Tringa incana
+Alaska:2015:Tringa solitaria cinnomomea
+Alaska:2015:Troglodytes pacificus alascensis
+Alaska:2015:Troglodytes pacificus helleri
+Alaska:2015:Troglodytes pacificus kiskensis
+Alaska:2015:Troglodytes pacificus meligerus
+Alaska:2015:Troglodytes pacificus ochroleucus
+Alaska:2015:Troglodytes pacificus
+Alaska:2015:Uria aalge inornata
+Alaska:2015:Uria lomvia arra
+Alaska:2015:Urocitellus parryii albusus
+Alaska:2015:Urocitellus parryii kennicottii
+Alaska:2015:Urocitellus parryii kodiacensis
+Alaska:2015:Urocitellus parryii lyratus
+Alaska:2015:Urocitellus parryii nebulicola
+Alaska:2015:Urocitellus parryii osgoodi
+Alaska:2015:Urocitellus parryii
+Alaska:2015:Ursus maritimus
+Alaska:2015:Vulpes lagopus
+Alaska:2015:Xema sabini
+Alaska:2015:Zapus hudsonius
+Alaska:2015:Zonotrichia atricapilla
+Alaska:2015:Zonotrichia leucophrys
+Arkansas:2015:Anas rubripes
+Arkansas:2015:Apochthonius diabolus
+Arkansas:2015:Erynnis martialis
+Arkansas:2015:Etheostoma teddyroosevelt
+Arkansas:2015:Fusconaia ozarkensis
+Arkansas:2015:Haemorhous purpureus
+Arkansas:2015:Limnodromus griseus
+Arkansas:2015:Macrhybopsis meeki
+Arkansas:2015:Orconectes marchandi
+Arkansas:2015:Picoides borealis
+Arkansas:2015:Plethodon kisatchie
+Colorado:2005:Accipiter gentilis
+Colorado:2005:Acroloxus coloradensis
+Colorado:2005:Aeronautes saxatalis
+Colorado:2005:Agapema homogena
+Colorado:2005:Aimophila cassinii
+Colorado:2005:Amblyderus werneri
+Colorado:2005:Anas acuta
+Colorado:2005:Archilochus alexandri
+Colorado:2005:Athene cunicularia hypugaea
+Colorado:2005:Aythya affinis
+Colorado:2005:Boloria improba acrochema
+Colorado:2005:Bufo boreas boreas
+Colorado:2005:Buteo regalis
+Colorado:2005:Buteo swainsoni
+Colorado:2005:Calamospiza melanocorys
+Colorado:2005:Callipepla squamata
+Colorado:2005:Canis lupus
+Colorado:2005:Catostomus latipinnis
+Colorado:2005:Cicindela theatina
+Colorado:2005:Circus cyaneus
+Colorado:2005:Contopus cooperi
+Colorado:2005:Cypseloides niger
+Colorado:2005:Dendragapus obscurus
+Colorado:2005:Dendroica nigrescens
+Colorado:2005:Egretta thula
+Colorado:2005:Empidonax oberholseri
+Colorado:2005:Empidonax occidentalis
+Colorado:2005:Erynnis martialis
+Colorado:2005:Etheostoma cragini
+Colorado:2005:Etheostoma spectabile
+Colorado:2005:Euphilotes spaldingi
+Colorado:2005:Euphyes bimacula
+Colorado:2005:Falco mexicanus
+Colorado:2005:Falco peregrinus anatum
+Colorado:2005:Ferrissia walkeri
+Colorado:2005:Gambelia wislizenii
+Colorado:2005:Gila cypha
+Colorado:2005:Gulo gulo
+Colorado:2005:Gymnorhinus cyanocephalus
+Colorado:2005:Hemileuca neumoegeni
+Colorado:2005:Hybognathus hankinsoni
+Colorado:2005:Hyla arenicolor
+Colorado:2005:Hypsiglena torquata
+Colorado:2005:Idionycteris phyllotis
+Colorado:2005:Lagopus leucurus
+Colorado:2005:Laterallus jamaicensis
+Colorado:2005:Lepomis humilis
+Colorado:2005:Lepus townsendii
+Colorado:2005:Leucosticte atrata
+Colorado:2005:Leucosticte australis
+Colorado:2005:Limosa fedoa
+Colorado:2005:Luxilus cornutus
+Colorado:2005:Melanerpes lewis
+Colorado:2005:Noturus flavus
+Colorado:2005:Numenius americanus
+Colorado:2005:Oncorhynchus clarki pleuriticus
+Colorado:2005:Oncorhynchus clarki stomias
+Colorado:2005:Oncorhynchus clarki virginalis
+Colorado:2005:Pelecanus erythrorhynchos
+Colorado:2005:Phrynosoma cornutum
+Colorado:2005:Phrynosoma modestum
+Colorado:2005:Physa utahensis
+Colorado:2005:Platygobio gracilus
+Colorado:2005:Plecotus (Chorynorhinus) townsendii pallescens
+Colorado:2005:Plegadis chihi
+Colorado:2005:Pooecetes gramineus
+Colorado:2005:Proserpinus flavofasciata
+Colorado:2005:Ptychocheilus lucius
+Colorado:2005:Rana sylvatica
+Colorado:2005:Scaphiopus couchii
+Colorado:2005:Selasphorus platycercus
+Colorado:2005:Sitta pygmaea
+Colorado:2005:Sorex preblei
+Colorado:2005:Speyeria idalia
+Colorado:2005:Sphyrapicus nuchalis
+Colorado:2005:Spizella breweri
+Colorado:2005:Sterna forsteri
+Colorado:2005:Strix occidentalis lucida
+Colorado:2005:Thamnophis cyrtopsis
+Colorado:2005:Thomomys bottae rubidus
+Colorado:2005:Ursus arctos
+Colorado:2005:Zonotrichia querula
+Florida:2005:Abudefduf saxatilis
+Florida:2005:Abudefduf taurus
+Florida:2005:Acantharchus pomotis
+Florida:2005:Acanthemblemaria aspera
+Florida:2005:Acanthemblemaria chaplini
+Florida:2005:Acanthocybium solandri
+Florida:2005:Acanthostracion quadricornis
+Florida:2005:Acanthurus bahianus
+Florida:2005:Acanthurus chirurgus
+Florida:2005:Acanthurus coeruleus
+Florida:2005:Acipenser oxyrinchus desotoi
+Florida:2005:Acipenser oxyrinchus oxyrinchus
+Florida:2005:Acropora cervicornis
+Florida:2005:Acropora palmata
+Florida:2005:Acyrtops beryllinus
+Florida:2005:Aetobatus narinari
+Florida:2005:Agaricia agaricites
+Florida:2005:Agaricia fragilis
+Florida:2005:Agaricia lamarcki
+Florida:2005:Agarodes libalis
+Florida:2005:Agarodes ziczac
+Florida:2005:Agkistrodon contortrix
+Florida:2005:Agonostomus monticola
+Florida:2005:Aimophila aestivalis
+Florida:2005:Ajaja ajaja
+Florida:2005:Alasmidonta undulata
+Florida:2005:Alasmidonta wrightiana
+Florida:2005:Albula vulpes
+Florida:2005:Alectis ciliaris
+Florida:2005:Alopias superciliosus
+Florida:2005:Alopias vulpinus
+Florida:2005:Alosa aestivalis
+Florida:2005:Alosa alabamae
+Florida:2005:Alosa mediocris
+Florida:2005:Alosa sapidissima
+Florida:2005:Aluterus schoepfii
+Florida:2005:Aluterus scriptus
+Florida:2005:Amblema neislerii
+Florida:2005:Amblycirrhitus pinos
+Florida:2005:Ambystoma cingulatum
+Florida:2005:Ambystoma tigrinum
+Florida:2005:Ameiurus brunneus
+Florida:2005:Ameiurus serracanthus
+Florida:2005:Ammodramus henslowii
+Florida:2005:Ammodramus maritimus fisheri
+Florida:2005:Ammodramus maritimus junicolus
+Florida:2005:Ammodramus maritimus macgillivraii
+Florida:2005:Ammodramus maritimus mirabilis
+Florida:2005:Ammodramus maritimus peninsulae
+Florida:2005:Ammodramus savannarum floridanus
+Florida:2005:Ammodramus savannarum
+Florida:2005:Amphiuma pholeter
+Florida:2005:Anaea troglodyta floridalis
+Florida:2005:Anarchopterus criniger
+Florida:2005:Anas acuta
+Florida:2005:Anas fulvigula fulvigula
+Florida:2005:Aneflomorpha delongi
+Florida:2005:Anguilla rostrata
+Florida:2005:Anisotremus surinamensis
+Florida:2005:Anisotremus virginicus
+Florida:2005:Anodonta heardi
+Florida:2005:Anodonta suborbiculata
+Florida:2005:Anomala exigua
+Florida:2005:Anomala eximia
+Florida:2005:Anomala flavipennis okaloosensis
+Florida:2005:Anomala robinsoni
+Florida:2005:Anopheles albimanus
+Florida:2005:Anous stolidus
+Florida:2005:Antennarius striatus
+Florida:2005:Anthanassa frisia
+Florida:2005:Antipathes barbadensis
+Florida:2005:Antipathes pennacea
+Florida:2005:Apalone mutica calvata
+Florida:2005:Aphaostracon asthenes
+Florida:2005:Aphaostracon chalarogyrus
+Florida:2005:Aphaostracon monas
+Florida:2005:Aphaostracon pycnum
+Florida:2005:Aphaostracon theiocrenetum
+Florida:2005:Aphaostracon xynoelictum
+Florida:2005:Aphelocoma coerulescens
+Florida:2005:Aphodius troglodytes
+Florida:2005:Aplysia dactylomela
+Florida:2005:Apogon aurolineatus
+Florida:2005:Apogon binotatus
+Florida:2005:Apogon lachneri
+Florida:2005:Apogon maculatus
+Florida:2005:Apogon planifrons
+Florida:2005:Apogon pseudomaculatus
+Florida:2005:Apogon quadrisquamatus
+Florida:2005:Apogon townsendi
+Florida:2005:Appias drusilla neumoegeni
+Florida:2005:Aramus guarauna
+Florida:2005:Aratus pisonii
+Florida:2005:Archosargus probatocephalus
+Florida:2005:Ardea herodias occidentalis
+Florida:2005:Arenicola cristata
+Florida:2005:Argopecten irradians
+Florida:2005:Asioplax dolani
+Florida:2005:Asteroporpa annulata
+Florida:2005:Astralium phoebium
+Florida:2005:Astrangia poculata
+Florida:2005:Astrangia solitaria
+Florida:2005:Astrapogon alutus
+Florida:2005:Astrapogon puncticulatus
+Florida:2005:Astrapogon stellatus
+Florida:2005:Astrophyton muricatum
+Florida:2005:Athene cunicularia floridana
+Florida:2005:Atractosteus spatula
+Florida:2005:Atrytone arogos arogos
+Florida:2005:Atrytonopsis hianna loammi
+Florida:2005:Attenella attenuata
+Florida:2005:Aulostomus maculatus
+Florida:2005:Aurelia aurita
+Florida:2005:Awaous banana
+Florida:2005:Aythya affinis
+Florida:2005:Baetisca becki
+Florida:2005:Baetisca rogersi
+Florida:2005:Bairdiella batabana
+Florida:2005:Bairdiella sanctaeluciae
+Florida:2005:Balistes capriscus
+Florida:2005:Balistes vetula
+Florida:2005:Bartholomea annulata
+Florida:2005:Belocephalus micanopy
+Florida:2005:Belocephalus sleighti
+Florida:2005:Blarina carolinensis shermani
+Florida:2005:Bodianus pulchellus
+Florida:2005:Bodianus rufus
+Florida:2005:Botaurus lentiginosus
+Florida:2005:Brachycercus nasutus
+Florida:2005:Bryx dunckeri
+Florida:2005:Busycon sinistrum
+Florida:2005:Buteo brachyurus
+Florida:2005:Buteo platypterus platypterus
+Florida:2005:Caecidotea hobbsi
+Florida:2005:Caecidotea sp. 1
+Florida:2005:Caecidotea sp. 8
+Florida:2005:Calamus bajonado
+Florida:2005:Calamus calamus
+Florida:2005:Calamus leucosteus
+Florida:2005:Calamus nodosus
+Florida:2005:Calappa flammea
+Florida:2005:Calidris alba
+Florida:2005:Calidris canutus rufa
+Florida:2005:Calidris fuscicollis
+Florida:2005:Calidris mauri
+Florida:2005:Calidris melanotos
+Florida:2005:Calidris pusilla
+Florida:2005:Callichirus islagrande
+Florida:2005:Callinectes sapidus
+Florida:2005:Calliostoma adelae
+Florida:2005:Callophrys gryneus sweadneri
+Florida:2005:Cambarellus blacki
+Florida:2005:Cambarus cryptodytes
+Florida:2005:Cambarus pyronotus
+Florida:2005:Campephilus principalis
+Florida:2005:Cantherhines pullus
+Florida:2005:Canthidermis sufflamen
+Florida:2005:Canthigaster rostrata
+Florida:2005:Caracara cheriway
+Florida:2005:Caranx latus
+Florida:2005:Carcharhinus acronotus
+Florida:2005:Carcharhinus brevipinna
+Florida:2005:Carcharhinus falciformis
+Florida:2005:Carcharhinus isodon
+Florida:2005:Carcharhinus leucas
+Florida:2005:Carcharhinus limbatus
+Florida:2005:Carcharhinus obscurus
+Florida:2005:Carcharhinus perezii
+Florida:2005:Carcharhinus plumbeus
+Florida:2005:Carcharias taurus
+Florida:2005:Carcharodon carcharias
+Florida:2005:Cardisoma guanhumi
+Florida:2005:Caretta caretta
+Florida:2005:Cassis flammea
+Florida:2005:Cassis madagascariensis
+Florida:2005:Cassis tuberosa
+Florida:2005:Caulolatilus cyanops
+Florida:2005:Caulolatilus microps
+Florida:2005:Centropomus ensiferus
+Florida:2005:Centropomus parallelus
+Florida:2005:Centropomus pectinatus
+Florida:2005:Centropomus undecimalis
+Florida:2005:Centropristis ocyurus
+Florida:2005:Centropristis philadelphica
+Florida:2005:Centropristis striata
+Florida:2005:Centropyge argi
+Florida:2005:Cephalopholis cruentata
+Florida:2005:Cephalopholis fulva
+Florida:2005:Ceraclea floridana
+Florida:2005:Ceratocanthus aeneus
+Florida:2005:Cernotina truncona
+Florida:2005:Cesonia irvingi
+Florida:2005:Chaenopsis limbaughi
+Florida:2005:Chaetodipterus faber
+Florida:2005:Chaetodon capistratus
+Florida:2005:Chaetodon ocellatus
+Florida:2005:Chaetodon sedentarius
+Florida:2005:Chaetodon striatus
+Florida:2005:Charadrius alexandrinus tenuirostris
+Florida:2005:Charadrius melodus
+Florida:2005:Charadrius wilsonia
+Florida:2005:Charonia tritonis variegata
+Florida:2005:Chelonia mydas
+Florida:2005:Chelyoxenus xerobatis
+Florida:2005:Cheumatopsyche gordonae
+Florida:2005:Cheumatopsyche petersi
+Florida:2005:Chilomycterus schoepfii
+Florida:2005:Chimarra florida
+Florida:2005:Chiton tuberculatus
+Florida:2005:Chlorostrymon maesites
+Florida:2005:Chordeiles gundlachii
+Florida:2005:Chromis cyanea
+Florida:2005:Chromis enchrysura
+Florida:2005:Chromis insolata
+Florida:2005:Chromis multilineata
+Florida:2005:Chromis scotti
+Florida:2005:Cicindela highlandensis
+Florida:2005:Cicindela olivacea
+Florida:2005:Cicindela scabrosa
+Florida:2005:Cicindela striga
+Florida:2005:Cincinnatia helicogyra
+Florida:2005:Cincinnatia mica
+Florida:2005:Cincinnatia monroensis
+Florida:2005:Cincinnatia parva
+Florida:2005:Cincinnatia ponderosa
+Florida:2005:Cincinnatia vanhyningi
+Florida:2005:Cincinnatia wekiwae
+Florida:2005:Cistothorus palustris griseus
+Florida:2005:Cistothorus palustris marianae
+Florida:2005:Cladocora arbuscula
+Florida:2005:Clemmys guttata
+Florida:2005:Clepticus parrae
+Florida:2005:Clibanarius tricolor
+Florida:2005:Clibanarius vittatus
+Florida:2005:Clypeaster rosaceus
+Florida:2005:Clypeaster subdepressus
+Florida:2005:Coccyzus minor
+Florida:2005:Coenobita clypeatus
+Florida:2005:Colaptes auratus auratus
+Florida:2005:Colinus virginianus
+Florida:2005:Colpophyllia natans
+Florida:2005:Columba leucocephala
+Florida:2005:Columbina passerina
+Florida:2005:Comactinia echinoptera
+Florida:2005:Condylactis gigantea
+Florida:2005:Condylura cristata
+Florida:2005:Copris gopheri
+Florida:2005:Cordulegaster sayi
+Florida:2005:Corynorhinus rafinesquii
+Florida:2005:Coryphaena hippurus
+Florida:2005:Coryphopterus dicrus
+Florida:2005:Coryphopterus eidolon
+Florida:2005:Coryphopterus glaucofraenum
+Florida:2005:Coryphopterus hyalinus
+Florida:2005:Coryphopterus lipernes
+Florida:2005:Coryphopterus personatus
+Florida:2005:Coryphopterus thrix
+Florida:2005:Coryphopterus tortugae
+Florida:2005:Cosmocampus albirostris
+Florida:2005:Cosmocampus brachycephalus
+Florida:2005:Cosmocampus elucens
+Florida:2005:Coturnicops noveboracensis noveboracensis
+Florida:2005:Crangonyx grandimanus
+Florida:2005:Crangonyx hobbsi
+Florida:2005:Crassostrea virginica
+Florida:2005:Crocodylus acutus
+Florida:2005:Crotalus adamanteus
+Florida:2005:Crotalus horridus
+Florida:2005:Cryptotomus roseus
+Florida:2005:Crystallaria asprella
+Florida:2005:Ctenogobius pseudofasciatus
+Florida:2005:Ctenogobius saepepallens
+Florida:2005:Ctenogobius stigmaturus
+Florida:2005:Culex bahamensis
+Florida:2005:Culex mulrennani
+Florida:2005:Cycloptilum irregularis
+Florida:2005:Cynoscion nebulosus
+Florida:2005:Cynoscion regalis
+Florida:2005:Cyphoma gibbosum
+Florida:2005:Cypraea cervus
+Florida:2005:Cyprinella callitaenia
+Florida:2005:Dannella simplex
+Florida:2005:Dasyscias franzi
+Florida:2005:Deirochelys reticularia
+Florida:2005:Dendrogyra cylindrus
+Florida:2005:Dendroica cerulea
+Florida:2005:Dendroica discolor paludicola
+Florida:2005:Dendroica dominica stoddardi
+Florida:2005:Dendroica petechia gundlachi
+Florida:2005:Dermatolepis inermis
+Florida:2005:Dermochelys coriacea
+Florida:2005:Desmognathus apalachicolae
+Florida:2005:Desmognathus auriculatus
+Florida:2005:Desmognathus cf. conanti
+Florida:2005:Desmognathus monticola
+Florida:2005:Diadema antillarum
+Florida:2005:Diadophis punctatus acricus
+Florida:2005:Dichocoenia stokesi
+Florida:2005:Didemnum vanderhorst.
+Florida:2005:Diodon holocanthus
+Florida:2005:Diploria clivosa
+Florida:2005:Diploria labyrinthiformis
+Florida:2005:Diploria strigosa
+Florida:2005:Discosoma sanctithomae
+Florida:2005:Distichopora violacea
+Florida:2005:Dolania americana
+Florida:2005:Donax variabilis
+Florida:2005:Doratonotus megalepis
+Florida:2005:Dormitator maculatus
+Florida:2005:Dosilia palmeri
+Florida:2005:Dromogomphus armatus
+Florida:2005:Drymarchon couperi
+Florida:2005:Eburia stroheckeri
+Florida:2005:Echidna catenata
+Florida:2005:Egretta caerulea
+Florida:2005:Egretta rufescens
+Florida:2005:Egretta thula
+Florida:2005:Egretta tricolor
+Florida:2005:Elacatinus oceanops
+Florida:2005:Elagatis bipinnulata
+Florida:2005:Elanoides forficatus
+Florida:2005:Elanus leucurus
+Florida:2005:Eleotris amblyopsis
+Florida:2005:Elimia clenchi
+Florida:2005:Elliptio arctata
+Florida:2005:Elliptio chipolaensis
+Florida:2005:Elliptio mcmichaeli
+Florida:2005:Elliptio purpurella
+Florida:2005:Elliptoideus sloatianus
+Florida:2005:Elysia crispata
+Florida:2005:Emblemaria atlantica
+Florida:2005:Emblemaria pandionis
+Florida:2005:Emblemariopsis bahamensis
+Florida:2005:Emblemariopsis diaphana
+Florida:2005:Emerita benedicti
+Florida:2005:Enchelycore nigricans
+Florida:2005:Encope michelini
+Florida:2005:Enneacanthus chaetodon
+Florida:2005:Epargyreus zestos
+Florida:2005:Ephyriades brunneus floridensis
+Florida:2005:Epinephelus adscensionis
+Florida:2005:Epinephelus drummondhayi
+Florida:2005:Epinephelus flavolimbatus
+Florida:2005:Epinephelus guttatus
+Florida:2005:Epinephelus itajara
+Florida:2005:Epinephelus morio
+Florida:2005:Epinephelus mystacinus
+Florida:2005:Epinephelus nigritus
+Florida:2005:Epinephelus niveatus
+Florida:2005:Epinephelus striatus
+Florida:2005:Epitheca spinosa
+Florida:2005:Eptesicus fuscus
+Florida:2005:Equetus lanceolatus
+Florida:2005:Equetus punctatus
+Florida:2005:Eretmochelys imbricata
+Florida:2005:Erotelis smaragdus
+Florida:2005:Erpetogomphus designatus
+Florida:2005:Etheostoma histrio
+Florida:2005:Etheostoma okaloosae
+Florida:2005:Etheostoma olmstedi
+Florida:2005:Etheostoma parvipinne
+Florida:2005:Etheostoma proeliare
+Florida:2005:Etheostoma stigmaeum
+Florida:2005:Etropus crossotus
+Florida:2005:Eubalaena glacialis
+Florida:2005:Eudistoma species indeterminate
+Florida:2005:Eudocimus albus
+Florida:2005:Eugerres plumieri
+Florida:2005:Eumaeus atala
+Florida:2005:Eumeces anthracinus
+Florida:2005:Eumeces egregius egregius
+Florida:2005:Eumeces egregius insularis
+Florida:2005:Eumeces egregius lividus
+Florida:2005:Eumops floridanus
+Florida:2005:Eunica monima
+Florida:2005:Eunica tatila tatilista
+Florida:2005:Euphyes pilatka klotsi
+Florida:2005:Eurema dina helios
+Florida:2005:Eurema nise
+Florida:2005:Eurycea cf. quadridigitata
+Florida:2005:Eurycea chamberlaini
+Florida:2005:Eusmilia fastigiata
+Florida:2005:Eustala eleuthra
+Florida:2005:Falco columbarius
+Florida:2005:Falco peregrinus
+Florida:2005:Falco sparverius paulus
+Florida:2005:Farancia erytrogramma
+Florida:2005:Farfantepenaeus duorarum
+Florida:2005:Fasciolaria lilium
+Florida:2005:Favia fragum
+Florida:2005:Fistularia petimba
+Florida:2005:Fistularia tabacaria
+Florida:2005:Fregata magnificens
+Florida:2005:Fundulus blairae
+Florida:2005:Fundulus jenkinsi
+Florida:2005:Fusconaia escambia
+Florida:2005:Fusconaia rotulata
+Florida:2005:Galeocerdo cuvier
+Florida:2005:Gambusia rhizophorae
+Florida:2005:Gavia immer
+Florida:2005:Geomys pinetis pinetis
+Florida:2005:Geukensia demissa
+Florida:2005:Ginglymostoma cirratum
+Florida:2005:Glebula rotundata
+Florida:2005:Gnatholepis thompsoni
+Florida:2005:Gobiesox strumosus
+Florida:2005:Gobiomorus dormitor
+Florida:2005:Gobiosoma grosvenori
+Florida:2005:Gomphus geminatus
+Florida:2005:Gomphus hodgesi
+Florida:2005:Gomphus modestus
+Florida:2005:Gomphus vastus
+Florida:2005:Gomphus westfalli
+Florida:2005:Goniopsis cruentata
+Florida:2005:Gopherus polyphemus
+Florida:2005:Gorgonia ventalina
+Florida:2005:Graptemys barbouri
+Florida:2005:Graptemys ernsti
+Florida:2005:Grus americana
+Florida:2005:Grus canadensis pratensis
+Florida:2005:Gymnothorax funebris
+Florida:2005:Gymnothorax miliaris
+Florida:2005:Gymnothorax moringa
+Florida:2005:Gymnothorax vicinus
+Florida:2005:Haematopus palliatus
+Florida:2005:Haemulon album
+Florida:2005:Haemulon aurolineatum
+Florida:2005:Haemulon flavolineatum
+Florida:2005:Haemulon plumierii
+Florida:2005:Haemulon sciurus
+Florida:2005:Haideotriton wallacei
+Florida:2005:Haliaeetus leucocephalus
+Florida:2005:Halicampus crinitus
+Florida:2005:Halichoeres bathyphilus
+Florida:2005:Halichoeres bivittatus
+Florida:2005:Halichoeres caudalis
+Florida:2005:Halichoeres cyanocephalus
+Florida:2005:Halichoeres garnoti
+Florida:2005:Halichoeres maculipinna
+Florida:2005:Halichoeres pictus
+Florida:2005:Halichoeres poeyi
+Florida:2005:Halichoeres radiatus
+Florida:2005:Halieutichthys aculeatus
+Florida:2005:Helmitheros vermivorum
+Florida:2005:Hemiargus thomasi bethunebakeri
+Florida:2005:Hemidactylium scutatum
+Florida:2005:Hemiemblemaria simula
+Florida:2005:Hemiramphus balao
+Florida:2005:Hemiramphus brasiliensis
+Florida:2005:Hepatus epheliticus
+Florida:2005:Heraclides aristodemus ponceanus
+Florida:2005:Hermodice carunculata
+Florida:2005:Hesperia meskei pinocayo
+Florida:2005:Hetaerina americana
+Florida:2005:Heterachthes sablensis
+Florida:2005:Heterodon platirhinos
+Florida:2005:Heterodon simus
+Florida:2005:Hexagenia bilineata
+Florida:2005:Hexagenia limbata
+Florida:2005:Hexagenia orlando
+Florida:2005:Hippocampus erectus
+Florida:2005:Hippocampus reidi
+Florida:2005:Hippocampus zosterae
+Florida:2005:Holacanthus bermudensis
+Florida:2005:Holacanthus ciliaris
+Florida:2005:Holacanthus tricolor
+Florida:2005:Holothuria floridana
+Florida:2005:Homoeoneuria dolani
+Florida:2005:Hybognathus hayi
+Florida:2005:Hydroptila molsonae
+Florida:2005:Hydroptila wakulla
+Florida:2005:Hyla andersonii
+Florida:2005:Hylocichla mustelina
+Florida:2005:Hypleurochilus bermudensis
+Florida:2005:Hypoplectrus aberrans
+Florida:2005:Hypoplectrus gemma
+Florida:2005:Hypoplectrus guttavarius
+Florida:2005:Hypoplectrus indigo
+Florida:2005:Hypoplectrus nigricans
+Florida:2005:Hypoplectrus puella
+Florida:2005:Hypoplectrus unicolor
+Florida:2005:Hyporhamphus meeki
+Florida:2005:Hyporhamphus unifasciatus
+Florida:2005:Hypselodoris webbi
+Florida:2005:Ictinia mississippiensis
+Florida:2005:Incisalia irus
+Florida:2005:Ircinia campana
+Florida:2005:Isognomon alatus
+Florida:2005:Isognomon bicolor
+Florida:2005:Isognomon radiatus
+Florida:2005:Isonychia berneri
+Florida:2005:Isonychia sicca
+Florida:2005:Isophyllastraea rigida
+Florida:2005:Isophyllia sinuosa
+Florida:2005:Istiophorus platypterus
+Florida:2005:Isurus oxyrinchus
+Florida:2005:Isurus paucus
+Florida:2005:Ixobrychus exilis
+Florida:2005:Junonia genoveva
+Florida:2005:Kinosternon baurii
+Florida:2005:Kinosternon subrubrum steindachneri
+Florida:2005:Kogia breviceps
+Florida:2005:Kogia simus
+Florida:2005:Labrisomus bucciferus
+Florida:2005:Labrisomus gobio
+Florida:2005:Labrisomus guppyi
+Florida:2005:Labrisomus haitiensis
+Florida:2005:Labrisomus kalisherae
+Florida:2005:Labrisomus nigricinctus
+Florida:2005:Labrisomus nuchipinnis
+Florida:2005:Lachnolaimus maximus
+Florida:2005:Lactophrys bicaudalis
+Florida:2005:Lactophrys trigonus
+Florida:2005:Lactophrys triqueter
+Florida:2005:Lampropeltis calligaster
+Florida:2005:Lampropeltis getula
+Florida:2005:Lampsilis australis
+Florida:2005:Lampsilis ornata
+Florida:2005:Lampsilis subangulata
+Florida:2005:Lampsilis teres
+Florida:2005:Lanius ludovicianus
+Florida:2005:Lasiurus borealis
+Florida:2005:Lasiurus cinereus
+Florida:2005:Lasiurus intermedius
+Florida:2005:Lasiurus seminolus
+Florida:2005:Laterallus jamaicensis
+Florida:2005:Leodia sexiesperforata
+Florida:2005:Lepidochelys kempii
+Florida:2005:Lepidostoma morsei
+Florida:2005:Leptoseris cucullata
+Florida:2005:Lestes inaequalis
+Florida:2005:Libellula jesseana
+Florida:2005:Liguus fasciatus matecumbensis
+Florida:2005:Lima scabra scabra
+Florida:2005:Limnothlypis swainsonii
+Florida:2005:Limosa fedoa
+Florida:2005:Limulus polyphemus
+Florida:2005:Linsleyonides albomaculatus
+Florida:2005:Liopropoma eukrines
+Florida:2005:Liopropoma rubre
+Florida:2005:Littoraria angulifera
+Florida:2005:Lobotes surinamensis
+Florida:2005:Lonchopisthus micrognathus
+Florida:2005:Lutjanus analis
+Florida:2005:Lutjanus apodus
+Florida:2005:Lutjanus buccanella
+Florida:2005:Lutjanus campechanus
+Florida:2005:Lutjanus cyanopterus
+Florida:2005:Lutjanus griseus
+Florida:2005:Lutjanus jocu
+Florida:2005:Lutjanus mahogoni
+Florida:2005:Lutjanus synagris
+Florida:2005:Lutjanus vivanus
+Florida:2005:Lutra canadensis lataxina
+Florida:2005:Luxilus zonistius
+Florida:2005:Lysiosquilla scabricauda
+Florida:2005:Lysmata wurdemanni
+Florida:2005:Lytechinus variegatus
+Florida:2005:Lythrypnus nesiotes
+Florida:2005:Lythrypnus phorellus
+Florida:2005:Lythrypnus spilus
+Florida:2005:Macdunnoa brunnea
+Florida:2005:Machimus polyphemi
+Florida:2005:Macrhybopsis n. sp. cf aestivalis
+Florida:2005:Macrochelys temminckii
+Florida:2005:Madracis decactis
+Florida:2005:Madracis formosa
+Florida:2005:Madracis mirabilis
+Florida:2005:Madracis pharensis
+Florida:2005:Malaclemys terrapin
+Florida:2005:Malacoctenus aurolineatus
+Florida:2005:Malacoctenus macropus
+Florida:2005:Malacoctenus triangulatus
+Florida:2005:Manicina areolata
+Florida:2005:Manta birostris
+Florida:2005:Meandrina meandrites
+Florida:2005:Medionidus acutissimus
+Florida:2005:Medionidus penicillatus
+Florida:2005:Medionidus simpsonianus
+Florida:2005:Medionidus walkeri
+Florida:2005:Megalonaias nervosa
+Florida:2005:Megalops atlanticus
+Florida:2005:Melanerpes erythrocephalus
+Florida:2005:Mellita isometra
+Florida:2005:Mellita quinquiesperforata
+Florida:2005:Mellita tenuis
+Florida:2005:Menidia conchorum
+Florida:2005:Menippe nodifrons
+Florida:2005:Meoma ventricosa
+Florida:2005:Mephitis mephitis
+Florida:2005:Mercenaria campechiensis
+Florida:2005:Mercenaria mercenaria
+Florida:2005:Microgobius carri
+Florida:2005:Microphis brachyurus
+Florida:2005:Micropterus cataractae
+Florida:2005:Micropterus notius
+Florida:2005:Microspathodon chrysurus
+Florida:2005:Microtus pennsylvanicus dukecampbelli
+Florida:2005:Millepora alcicornis
+Florida:2005:Millepora complanata
+Florida:2005:Mithrax spinosissimus
+Florida:2005:Mnemiopsis mccradyi
+Florida:2005:Moira atropus
+Florida:2005:Molossus molossus
+Florida:2005:Monacanthus tuckeri
+Florida:2005:Montastraea annularis
+Florida:2005:Montastraea cavernosa
+Florida:2005:Morone saxatilis
+Florida:2005:Moxostoma carinatum
+Florida:2005:Moxostoma n. sp. cf poecilurum
+Florida:2005:Mugil cephalus
+Florida:2005:Mugil curema
+Florida:2005:Mugil gyrans
+Florida:2005:Mugil sp.
+Florida:2005:Mussa angulosa
+Florida:2005:Mustela frenata olivacea
+Florida:2005:Mustela frenata peninsulae
+Florida:2005:Mustela vision mink
+Florida:2005:Mustela vison evergladensis
+Florida:2005:Mustela vison halilimnetes
+Florida:2005:Mustela vison lutensis
+Florida:2005:Mycetophyllia aliciae
+Florida:2005:Mycetophyllia danaana
+Florida:2005:Mycetophyllia ferox
+Florida:2005:Mycetophyllia lamarckiana
+Florida:2005:Mycotrupes pedester
+Florida:2005:Mycteria americana
+Florida:2005:Mycteroperca bonaci
+Florida:2005:Mycteroperca interstitialis
+Florida:2005:Mycteroperca microlepis
+Florida:2005:Mycteroperca phenax
+Florida:2005:Mycteroperca venenosa
+Florida:2005:Myotis austroriparius
+Florida:2005:Myotis grisescens
+Florida:2005:Myrichthys breviceps
+Florida:2005:Nannothemis bella
+Florida:2005:Negaprion brevirostris
+Florida:2005:Nemaster spp.
+Florida:2005:Neofiber alleni
+Florida:2005:Neogonodactylus oerstedii
+Florida:2005:Neoseps reynoldsi
+Florida:2005:Neotoma floridana smalli
+Florida:2005:Nerodia clarkii clarkii
+Florida:2005:Nerodia clarkii compressicauda
+Florida:2005:Nerodia clarkii taeniata
+Florida:2005:Nerodia cyclopion
+Florida:2005:Nes longus
+Florida:2005:Neurocordulia clara
+Florida:2005:Neurocordulia molesta
+Florida:2005:Neurocordulia obsoleta
+Florida:2005:Nodipecten nodosus
+Florida:2005:Notophthalmus perstriatus
+Florida:2005:Notropis chalybaeus
+Florida:2005:Notropis melanostomus
+Florida:2005:Numenius phaeopus hudsonicus
+Florida:2005:Nyctanassa violacea
+Florida:2005:Nycticorax nycticorax
+Florida:2005:Ochrotrichia okaloosa
+Florida:2005:Ochrotrichia provosti
+Florida:2005:Octopus vulgaris
+Florida:2005:Oculina diffusa
+Florida:2005:Oculina robusta
+Florida:2005:Ocypode quadrata
+Florida:2005:Ocyurus chrysurus
+Florida:2005:Odocoileus virginianus clavium
+Florida:2005:Odontoscion dentex
+Florida:2005:Oecetis daytona
+Florida:2005:Oecetis floridana
+Florida:2005:Oecetis parva
+Florida:2005:Oecetis porteri
+Florida:2005:Oecetis pratelia
+Florida:2005:Ogcocephalus corniger
+Florida:2005:Ogcocephalus cubifrons
+Florida:2005:Ogcocephalus nasutus
+Florida:2005:Ogcocephalus pantostictus
+Florida:2005:Ogcocephalus parvus
+Florida:2005:Ogcocephalus rostellum
+Florida:2005:Onthophagus polyphemi polyphemi
+Florida:2005:Ophioblennius macclurei
+Florida:2005:Ophiophragmus filograneus
+Florida:2005:Opistognathus aurifrons
+Florida:2005:Opistognathus lonchurus
+Florida:2005:Opistognathus macrognathus
+Florida:2005:Opistognathus maxillosus
+Florida:2005:Opistognathus robinsi
+Florida:2005:Opistognathus whitehursti
+Florida:2005:Oporornis formosus
+Florida:2005:Opsanus beta
+Florida:2005:Opsanus pardus
+Florida:2005:Opsanus tau
+Florida:2005:Oreaster reticulatis
+Florida:2005:Orthalicus floridensis
+Florida:2005:Orthalicus reses nesodryas
+Florida:2005:Orthalicus reses reses
+Florida:2005:Orthopristis chrysoptera
+Florida:2005:Orthotrichia curta
+Florida:2005:Orthotrichia dentata
+Florida:2005:Orthotrichia instabilis
+Florida:2005:Oryzomys argentatus
+Florida:2005:Oryzomys palustris planirostris
+Florida:2005:Oryzomys palustris sanibeli
+Florida:2005:Oxyethira elerobi
+Florida:2005:Oxyethira florida
+Florida:2005:Oxyethira janella
+Florida:2005:Oxyethira kelleyi
+Florida:2005:Oxyethira kingi
+Florida:2005:Oxyethira novasota
+Florida:2005:Pagrus pagrus
+Florida:2005:Palaemonetes cummingi
+Florida:2005:Palythoa caribaeorum
+Florida:2005:Panopea bitruncata
+Florida:2005:Panulirus argus
+Florida:2005:Papilio andraemon bonhotei
+Florida:2005:Paraclinus grandicomis
+Florida:2005:Paraclinus nigripinnis
+Florida:2005:Paralichthys albigutta
+Florida:2005:Paralichthys dentatus
+Florida:2005:Paralichthys lethostigma
+Florida:2005:Paranthias furcifer
+Florida:2005:Paraphrynus raptator
+Florida:2005:Pareques acuminatus
+Florida:2005:Pareques umbrosus
+Florida:2005:Passerina ciris
+Florida:2005:Pelecanus occidentalis
+Florida:2005:Pempheris schomburgkii
+Florida:2005:Periclimenes yucatanicus
+Florida:2005:Peromyscus gossypinus allapaticola
+Florida:2005:Peromyscus polionotus allophrys
+Florida:2005:Peromyscus polionotus leucocephalus
+Florida:2005:Peromyscus polionotus niveiventris
+Florida:2005:Peromyscus polionotus peninsularis
+Florida:2005:Peromyscus polionotus phasma
+Florida:2005:Peromyscus polionotus trissyllepsis
+Florida:2005:Phaeoptyx conklini
+Florida:2005:Phaeoptyx pigmentaria
+Florida:2005:Phaeoptyx xenus
+Florida:2005:Phimochirus operculatus
+Florida:2005:Phragmatopoma lapidosa
+Florida:2005:Phyllangia americana
+Florida:2005:Physalia physalis
+Florida:2005:Picoides borealis
+Florida:2005:Picoides villosus
+Florida:2005:Pipistrellus subflavus
+Florida:2005:Pituophis melanoleucus mugitus
+Florida:2005:Plegadis falcinellus
+Florida:2005:Pleurobema pyriforme
+Florida:2005:Pleurobema strodeanum
+Florida:2005:Pleuroploca gigantea
+Florida:2005:Podiceps auritus coronutus
+Florida:2005:Podomys floridanus
+Florida:2005:Pogonias cromis
+Florida:2005:Polycentropus floridensis
+Florida:2005:Pomacanthus arcuatus
+Florida:2005:Pomacanthus paru
+Florida:2005:Pomatomus saltatrix
+Florida:2005:Porites astreoides
+Florida:2005:Porites branneri
+Florida:2005:Porites porites
+Florida:2005:Praticolella bakeri
+Florida:2005:Priolepis hipoliti
+Florida:2005:Prionace glauca
+Florida:2005:Pristipomoides aquilonaris
+Florida:2005:Pristis pectinata
+Florida:2005:Pristis pristis
+Florida:2005:Procambarus acherontis
+Florida:2005:Procambarus apalachicolae
+Florida:2005:Procambarus attiguus
+Florida:2005:Procambarus capillatus
+Florida:2005:Procambarus delicatus
+Florida:2005:Procambarus econfinae
+Florida:2005:Procambarus erythrops
+Florida:2005:Procambarus escambiensis
+Florida:2005:Procambarus franzi
+Florida:2005:Procambarus horsti
+Florida:2005:Procambarus latipleurum
+Florida:2005:Procambarus leitheuseri
+Florida:2005:Procambarus lucifugus alachua
+Florida:2005:Procambarus lucifugus lucifugus
+Florida:2005:Procambarus milleri
+Florida:2005:Procambarus morrisi
+Florida:2005:Procambarus orcinus
+Florida:2005:Procambarus pallidus
+Florida:2005:Procambarus pictus
+Florida:2005:Procambarus rathbunae
+Florida:2005:Procambarus rogersi expletus
+Florida:2005:Procambarus rogersi rogersi
+Florida:2005:Procambarus suttkusi
+Florida:2005:Procambarus youngi
+Florida:2005:Procyon lotor auspicatus
+Florida:2005:Procyon lotor incautus
+Florida:2005:Prognathodes aculeatus
+Florida:2005:Progomphus bellei
+Florida:2005:Protonotaria citrea
+Florida:2005:Pseudacris ornata
+Florida:2005:Pseudemys concinna suwanniensis
+Florida:2005:Pseudemys nelsoni
+Florida:2005:Pseudiron centralis
+Florida:2005:Pseudobranchus striatus lustricolus
+Florida:2005:Pseudogramma gregoryi
+Florida:2005:Pteronotropis welaka
+Florida:2005:Ptychobranchus jonesi
+Florida:2005:Puma concolor coryi
+Florida:2005:Quadrula infucata
+Florida:2005:Quadrula kleiniana
+Florida:2005:Quincuncina burkei
+Florida:2005:Rachycentron canadum
+Florida:2005:Rallus elegans elegans
+Florida:2005:Rallus longirostris insularum
+Florida:2005:Rallus longirostris scottii
+Florida:2005:Rana capito
+Florida:2005:Rana okaloosae
+Florida:2005:Rana virgatipes
+Florida:2005:Recurvirostra americana
+Florida:2005:Remasellus parvus
+Florida:2005:Rhincodon typus
+Florida:2005:Rhizoprionodon terraenovae
+Florida:2005:Rhodactis spp.
+Florida:2005:Rhomboplites aurorubens
+Florida:2005:Ricordea florida
+Florida:2005:Rivulus marmoratus
+Florida:2005:Romulus globosus
+Florida:2005:Rostrhamus sociabilis plumbeus
+Florida:2005:Rynchops niger
+Florida:2005:Rypticus bistrispinus
+Florida:2005:Rypticus saponaceus
+Florida:2005:Rypticus subbifrenatus
+Florida:2005:Scarus coelestinus
+Florida:2005:Scarus coeruleus
+Florida:2005:Scarus guacamaia
+Florida:2005:Scarus iseri
+Florida:2005:Scarus taeniopterus
+Florida:2005:Scarus vetula
+Florida:2005:Sceloporus woodi
+Florida:2005:Schultzea beta
+Florida:2005:Sciaenops ocellatus
+Florida:2005:Sciurus niger avicennia
+Florida:2005:Sciurus niger niger
+Florida:2005:Sciurus niger shermani
+Florida:2005:Scolymia cubensis
+Florida:2005:Scolymia lacera
+Florida:2005:Scomberomorus cavalla
+Florida:2005:Scomberomorus maculatus
+Florida:2005:Scomberomorus regalis
+Florida:2005:Seiurus montacilla
+Florida:2005:Selar crumenophthalmus
+Florida:2005:Seriola dumerili
+Florida:2005:Seriola rivoliana
+Florida:2005:Seriola zonata
+Florida:2005:Serranus annularis
+Florida:2005:Serranus baldwini
+Florida:2005:Serranus tabacarius
+Florida:2005:Serranus tigrinus
+Florida:2005:Sesarma benedicti
+Florida:2005:Siderastrea radians
+Florida:2005:Siderastrea siderea
+Florida:2005:Sigmodon hispidus exsputus
+Florida:2005:Sigmodon hispidus insulicola
+Florida:2005:Siphloplecton brunneum
+Florida:2005:Siphloplecton fuscum
+Florida:2005:Siphloplecton simile
+Florida:2005:Sitta carolinensis
+Florida:2005:Sitta pusilla
+Florida:2005:Solenastrea bournoni
+Florida:2005:Solenastrea hyades
+Florida:2005:Somatochlora calverti
+Florida:2005:Somatochlora provocans
+Florida:2005:Sorex longirostris
+Florida:2005:Sosippus placidus
+Florida:2005:Sparisoma atomarium
+Florida:2005:Sparisoma aurofrenatum
+Florida:2005:Sparisoma chrysopterum
+Florida:2005:Sparisoma radians
+Florida:2005:Sparisoma rubripinne
+Florida:2005:Sparisoma viride
+Florida:2005:Spheciospongia vesparia
+Florida:2005:Sphodros rufipes
+Florida:2005:Sphyrna lewini
+Florida:2005:Sphyrna mokarran
+Florida:2005:Sphyrna tiburo
+Florida:2005:Sphyrna zygaena
+Florida:2005:Spilogale putorius
+Florida:2005:Spirobranchus gigantea gigantea
+Florida:2005:Spondylus americanus
+Florida:2005:Spongia barbara
+Florida:2005:Starksia ocellata
+Florida:2005:Starksia starcki
+Florida:2005:Stathmonotus hemphilli
+Florida:2005:Stathmonotus stahli
+Florida:2005:Stegastes adustus
+Florida:2005:Stegastes diencaeus
+Florida:2005:Stegastes leucostictus
+Florida:2005:Stegastes partitus
+Florida:2005:Stegastes planifrons
+Florida:2005:Stegastes variabilis
+Florida:2005:Stenacron floridense
+Florida:2005:Stenodontes chevrolati
+Florida:2005:Stenopus hispidus
+Florida:2005:Stenorynchus seticornis
+Florida:2005:Stephanocenia intersepta
+Florida:2005:Stereochilus marginatus
+Florida:2005:Sterna anaethetus
+Florida:2005:Sterna antillarum
+Florida:2005:Sterna caspia
+Florida:2005:Sterna dougallii
+Florida:2005:Sterna fuscata
+Florida:2005:Sterna maxima
+Florida:2005:Sterna nilotica
+Florida:2005:Sterna sandvicensis
+Florida:2005:Stilosoma extenuatum
+Florida:2005:Stizocera floridana
+Florida:2005:Stomolophus meleagris
+Florida:2005:Storeria dekayi wrightorum
+Florida:2005:Storeria dekayi
+Florida:2005:Strombus gigas
+Florida:2005:Strophitus subvexus
+Florida:2005:Strymon acis bartrami
+Florida:2005:Sturnella magna
+Florida:2005:Stylaster filogranus
+Florida:2005:Stylurus laurae
+Florida:2005:Stylurus potulentus
+Florida:2005:Stylurus townesi
+Florida:2005:Sula dactylatra
+Florida:2005:Sylvilagus floridanus
+Florida:2005:Sylvilagus palustris hefneri
+Florida:2005:Syngnathus floridae
+Florida:2005:Syngnathus fuscus
+Florida:2005:Syngnathus louisianae
+Florida:2005:Syngnathus pelagicus
+Florida:2005:Syngnathus scovelli
+Florida:2005:Syngnathus springeri
+Florida:2005:Tachopteryx thoreyi
+Florida:2005:Tamias striatus
+Florida:2005:Tantilla oolitica
+Florida:2005:Tantilla relicta pamlica
+Florida:2005:Terrapene carolina bauri
+Florida:2005:Terrapene carolina major
+Florida:2005:Tettigidea empedonepia
+Florida:2005:Thalassoma bifasciatum
+Florida:2005:Thamnophis sauritus
+Florida:2005:Thunnus albacares
+Florida:2005:Thunnus atlanticus
+Florida:2005:Thunnus thynnus
+Florida:2005:Trachinotus carolinus
+Florida:2005:Trachinotus falcatus
+Florida:2005:Trachinotus goodei
+Florida:2005:Triaenodes florida
+Florida:2005:Triaenodes furcella
+Florida:2005:Trichechus manatus latirostris
+Florida:2005:Tripneustes ventricosus
+Florida:2005:Troglocambarus maclanei
+Florida:2005:Trox howelli
+Florida:2005:Tursiops truncatus
+Florida:2005:Tyrannus dominicensis
+Florida:2005:Uca minax
+Florida:2005:Uca pugilator
+Florida:2005:Uca pugnax
+Florida:2005:Umbra pygmaea
+Florida:2005:Upogebia spp.
+Florida:2005:Uropterygias macularius
+Florida:2005:Ursus americanus floridanus
+Florida:2005:Utterbackia peggyae
+Florida:2005:Utterbackia peninsularis
+Florida:2005:Villosa amygdala
+Florida:2005:Villosa choctawensis
+Florida:2005:Villosa villosa
+Florida:2005:Vireo altiloquus
+Florida:2005:Virginia valeriae
+Florida:2005:Wilsonia citrina
+Florida:2005:Xiphias gladius
+Florida:2005:Xyrichtys martinicensis
+Florida:2005:Xyrichtys novacula
+Florida:2005:Xyrichtys splendens
+Florida:2005:Zalieutes mcgintyi
+Florida:2005:Zoanthus pulchellus
+Guam:2015:Acanthuridae
+Guam:2015:Acropora retusa
+Guam:2015:Aerodramus vanikorensis bartschi
+Guam:2015:Atyidae
+Guam:2015:Bulbophyllum guamense
+Guam:2015:Carangidae
+Guam:2015:Ceratopteris thalictroids
+Guam:2015:Chaetodontidae
+Guam:2015:Cheilinus undulates
+Guam:2015:Cirrhitidae
+Guam:2015:Cyathea lunalata
+Guam:2015:Cycas marianensis
+Guam:2015:Dugong dugon
+Guam:2015:Egretta sacra
+Guam:2015:Emallonura semicaudata rotensis
+Guam:2015:Emoia cyanura
+Guam:2015:Emoia slevini
+Guam:2015:Enhalus acoroides
+Guam:2015:Eugenia bryanii
+Guam:2015:Gallinula chloropus guami
+Guam:2015:Globicephala macrorhynchus
+Guam:2015:Grampus giseus
+Guam:2015:Halophilia minor
+Guam:2015:Heritiera longipetiolata
+Guam:2015:Hippopus hippopus
+Guam:2015:Hypolimnas octocula marianensis
+Guam:2015:Kogia breviceps
+Guam:2015:Kogia sima
+Guam:2015:Labridae
+Guam:2015:Lutjanidae
+Guam:2015:Macrobrachium sp.
+Guam:2015:Maesa walker
+Guam:2015:Megaptera novaeangliae
+Guam:2015:Merrilliodendron megacarpum
+Guam:2015:Myzomela rubratra saffordi
+Guam:2015:Neritidae
+Guam:2015:Nerivilia jacksoniae
+Guam:2015:Octocorallia
+Guam:2015:Orcinus orca
+Guam:2015:Paniluris sp.
+Guam:2015:Partula gibba
+Guam:2015:Partula radiolata
+Guam:2015:Perochirus ateles
+Guam:2015:Phaethon lepturus
+Guam:2015:Physeter macrocephalus
+Guam:2015:Pteropus mariannus mariannus
+Guam:2015:Ptilinopus roseicapilla
+Guam:2015:Samoana fragilis
+Guam:2015:Scaleractinia
+Guam:2015:Scaridae
+Guam:2015:Seriatopora acueata
+Guam:2015:Serranidae
+Guam:2015:Sicyopus sp.
+Guam:2015:Siganidae
+Guam:2015:Sula leucogaster
+Guam:2015:Thiaridae
+Guam:2015:Tinospora homosepala
+Guam:2015:Trachoma guamense
+Guam:2015:Tridacna maxima
+Guam:2015:Vagrans egistina
+Guam:2015:Varunidae
+Indiana:2015:Accipiter striatus
+Indiana:2015:Agkistrodon piscivorus
+Indiana:2015:Ambystoma barbouri
+Indiana:2015:Antrostomus vociferus
+Indiana:2015:Ardea alba
+Indiana:2015:Bonasa umbellus
+Indiana:2015:Botaurus lentiginosus
+Indiana:2015:Buteo platypterus
+Indiana:2015:Clemmys guttata
+Indiana:2015:Clinostomus elongatus
+Indiana:2015:Condylura cristata
+Indiana:2015:Coregonus artedi
+Indiana:2015:Epioblasma torulosa rangiana
+Indiana:2015:Etheostoma maculatum
+Indiana:2015:Falco peregrinus
+Indiana:2015:Farancia abacura
+Indiana:2015:Gallinula galeata
+Indiana:2015:Geomys bursarius
+Indiana:2015:Helmitheros vermivorum
+Indiana:2015:Ixobrychus exilis
+Indiana:2015:Kinosternon subrubrum
+Indiana:2015:Lasiurus borealis
+Indiana:2015:Lymnaea stagnalis
+Indiana:2015:Macrochelys temminckii
+Indiana:2015:Myotis austroriparius
+Indiana:2015:Notropis anogenus
+Indiana:2015:Obovaria subrotunda
+Indiana:2015:Pandion haliaetus
+Indiana:2015:Percina copelandi
+Indiana:2015:Percopsis omiscomaycus
+Indiana:2015:Perimyotis subflavus
+Indiana:2015:Pleurobema clava
+Indiana:2015:Pleurobema cordatum
+Indiana:2015:Scolopax minor
+Indiana:2015:Setophaga citrina
+Indiana:2015:Sorex fumeus
+Indiana:2015:Sorex hoyi
+Indiana:2015:Sturnella neglecta
+Indiana:2015:Tantilla coronata
+Indiana:2015:Terrapene carolina
+Indiana:2015:Thamnophis butleri
+Indiana:2015:Tringa melanoleuca
+Indiana:2015:Tringa solitaria
+Indiana:2015:Vermivora chrysoptera
+Kentucky:2015:Accipiter striatus
+Kentucky:2015:Acipenser fulvescens
+Kentucky:2015:Actitis macularius
+Kentucky:2015:Agkistrodon piscivorus leucostoma
+Kentucky:2015:Alasmidonta atropurpurea
+Kentucky:2015:Alasmidonta marginata
+Kentucky:2015:Alasmidonta viridis
+Kentucky:2015:Alosa alabamae
+Kentucky:2015:Amblyopsis spelaea
+Kentucky:2015:Ambystoma barbouri
+Kentucky:2015:Ambystoma talpoideum
+Kentucky:2015:Ammocrypta clara
+Kentucky:2015:Ammodramus henslowii
+Kentucky:2015:Ammodramus savannarum
+Kentucky:2015:Amphiuma tridactylum
+Kentucky:2015:Anas acuta
+Kentucky:2015:Anas rubripes
+Kentucky:2015:Aneides aeneus
+Kentucky:2015:Anodontoides denigratus
+Kentucky:2015:Apalone mutica mutica
+Kentucky:2015:Ardea alba
+Kentucky:2015:Asio flammeus
+Kentucky:2015:Asio otus
+Kentucky:2015:Aspidoscelis sexlineata
+Kentucky:2015:Atractosteus spatula
+Kentucky:2015:Aythya affinis
+Kentucky:2015:Aythya marila
+Kentucky:2015:Barbicambarus cornutus
+Kentucky:2015:Bartramia longicauda
+Kentucky:2015:Bonasa umbellus
+Kentucky:2015:Botaurus lentiginosus
+Kentucky:2015:Caecidotea barri
+Kentucky:2015:Calidris alba
+Kentucky:2015:Calidris alpina
+Kentucky:2015:Calidris himantopus
+Kentucky:2015:Calidris mauri
+Kentucky:2015:Calidris pusilla
+Kentucky:2015:Cambarellus puer
+Kentucky:2015:Cambarellus shufeldtii
+Kentucky:2015:Cambarus bouchardi
+Kentucky:2015:Cambarus buntingi
+Kentucky:2015:Cambarus friaufi
+Kentucky:2015:Cambarus parvoculus
+Kentucky:2015:Cambarus veteranus
+Kentucky:2015:Caprimulgus carolinensis
+Kentucky:2015:Caprimulgus vociferus
+Kentucky:2015:Cardellina canadensis
+Kentucky:2015:Cemophora coccinea copei
+Kentucky:2015:Certhia americana
+Kentucky:2015:Charadrius melodus
+Kentucky:2015:Chlidonias niger
+Kentucky:2015:Chondestes grammacus
+Kentucky:2015:Chrosomus cumberlandensis
+Kentucky:2015:Chrysemys dorsalis
+Kentucky:2015:Circus cyaneus
+Kentucky:2015:Cistothorus platensis
+Kentucky:2015:Clethrionomys gapperi maurus
+Kentucky:2015:Clinostomus elongatus
+Kentucky:2015:Clonophis kirtlandii
+Kentucky:2015:Colinus virginianus
+Kentucky:2015:Corvus corax
+Kentucky:2015:Corynorhinus rafinesquii
+Kentucky:2015:Corynorhinus townsendii virginianus
+Kentucky:2015:Coturnicops noveboracensis
+Kentucky:2015:Crotalus horridus
+Kentucky:2015:Cryptobranchus alleganiensis alleganiensis
+Kentucky:2015:Cumberlandia monodonta
+Kentucky:2015:Cygnus buccinator
+Kentucky:2015:Cygnus columbianus
+Kentucky:2015:Cyprinella camura
+Kentucky:2015:Cyprinella venusta
+Kentucky:2015:Cyprogenia stegaria
+Kentucky:2015:Desmognathus conanti
+Kentucky:2015:Desmognathus fuscus
+Kentucky:2015:Desmognathus ochrophaeus
+Kentucky:2015:Desmognathus welteri
+Kentucky:2015:Dolichonyx oryzivorus
+Kentucky:2015:Dromus dromas
+Kentucky:2015:Egretta caerulea
+Kentucky:2015:Elanoides forficatus
+Kentucky:2015:Elaphe guttata
+Kentucky:2015:Ellipsaria lineolata
+Kentucky:2015:Elliptio crassidens
+Kentucky:2015:Empidonax minimus
+Kentucky:2015:Empidonax traillii
+Kentucky:2015:Epioblasma brevidens
+Kentucky:2015:Epioblasma capsaeformis
+Kentucky:2015:Epioblasma florentina walkeri
+Kentucky:2015:Epioblasma obliquata obliquata
+Kentucky:2015:Epioblasma torulosa rangiana
+Kentucky:2015:Epioblasma triquetra
+Kentucky:2015:Erimystax insignis
+Kentucky:2015:Erimyzon sucetta
+Kentucky:2015:Etheostoma baileyi
+Kentucky:2015:Etheostoma barrenense
+Kentucky:2015:Etheostoma chienense
+Kentucky:2015:Etheostoma cinereum
+Kentucky:2015:Etheostoma derivativum
+Kentucky:2015:Etheostoma fusiforme
+Kentucky:2015:Etheostoma kantuckeense
+Kentucky:2015:Etheostoma lemniscatum
+Kentucky:2015:Etheostoma lynceum
+Kentucky:2015:Etheostoma maculatum
+Kentucky:2015:Etheostoma microlepidum
+Kentucky:2015:Etheostoma parvipinne
+Kentucky:2015:Etheostoma proeliare
+Kentucky:2015:Etheostoma pyrrhogaster
+Kentucky:2015:Etheostoma rafinesquei
+Kentucky:2015:Etheostoma sagitta
+Kentucky:2015:Etheostoma sanguifluum
+Kentucky:2015:Etheostoma spilotum
+Kentucky:2015:Etheostoma susanae
+Kentucky:2015:Etheostoma swaini
+Kentucky:2015:Etheostoma tecumsehi
+Kentucky:2015:Etheostoma virgatum
+Kentucky:2015:Eumeces anthracinus
+Kentucky:2015:Eumeces inexpectatus
+Kentucky:2015:Euphagus carolinus
+Kentucky:2015:Eurycea guttolineata
+Kentucky:2015:Falco peregrinus
+Kentucky:2015:Falco sparverius
+Kentucky:2015:Farancia abacura reinwardtii
+Kentucky:2015:Forbesichthys agassizii
+Kentucky:2015:Fundulus chrysotus
+Kentucky:2015:Fundulus dispar
+Kentucky:2015:Fusconaia subrotunda subrotunda
+Kentucky:2015:Gallinago delicata
+Kentucky:2015:Gallinula galeata
+Kentucky:2015:Gammarus bousfieldi
+Kentucky:2015:Geothlypis formosa
+Kentucky:2015:Graptemys pseudogeographica kohnii
+Kentucky:2015:Graptemys pseudogeographica pseudogeographica
+Kentucky:2015:Grus americana
+Kentucky:2015:Grus canadensis
+Kentucky:2015:Haliaeetus leucocephalus
+Kentucky:2015:Helmitheros vermivorum
+Kentucky:2015:Hemidactylium scutatum
+Kentucky:2015:Hemistena lata
+Kentucky:2015:Himantopus mexicanus
+Kentucky:2015:Hybognathus hayi
+Kentucky:2015:Hybognathus placitus
+Kentucky:2015:Hybopsis amnis
+Kentucky:2015:Hyla avivoca
+Kentucky:2015:Hyla cinerea
+Kentucky:2015:Hyla gratiosa
+Kentucky:2015:Hyla versicolor
+Kentucky:2015:Hylocichla mustelina
+Kentucky:2015:Ichthyomyzon castaneus
+Kentucky:2015:Ichthyomyzon fossor
+Kentucky:2015:Ichthyomyzon greeleyi
+Kentucky:2015:Ictinia mississippiensis
+Kentucky:2015:Ictiobus niger
+Kentucky:2015:Ixobrychus exilis
+Kentucky:2015:Kinosternon subrubrum
+Kentucky:2015:Lampetra appendix
+Kentucky:2015:Lampropeltis triangulum elapsoides
+Kentucky:2015:Lampsilis abrupta
+Kentucky:2015:Lampsilis ovata
+Kentucky:2015:Lanius ludovicianus
+Kentucky:2015:Lasmigona compressa
+Kentucky:2015:Lasmigona subviridis
+Kentucky:2015:Lepomis marginatus
+Kentucky:2015:Lepomis miniatus
+Kentucky:2015:Leptodea leptodon
+Kentucky:2015:Limnodromus griseus
+Kentucky:2015:Limnothlypis swainsonii
+Kentucky:2015:Lophodytes cucullatus
+Kentucky:2015:Lota lota
+Kentucky:2015:Macrhybopsis gelida
+Kentucky:2015:Macrhybopsis meeki
+Kentucky:2015:Macrobrachium ohione
+Kentucky:2015:Macrochelys temminckii
+Kentucky:2015:Masticophis flagellum flagellum
+Kentucky:2015:Medionidus conradicus
+Kentucky:2015:Melanerpes erythrocephalus
+Kentucky:2015:Menidia audens
+Kentucky:2015:Moxostoma poecilurum
+Kentucky:2015:Myotis austroriparius
+Kentucky:2015:Myotis grisescens
+Kentucky:2015:Myotis leibii
+Kentucky:2015:Myotis sodalis
+Kentucky:2015:Neotoma magister
+Kentucky:2015:Nerodia cyclopion
+Kentucky:2015:Nerodia erythrogaster neglecta
+Kentucky:2015:Nerodia fasciata confluens
+Kentucky:2015:Nerodia rhombifer rhombifer
+Kentucky:2015:Notropis albizonatus
+Kentucky:2015:Notropis maculatus
+Kentucky:2015:Notropis sp. 4
+Kentucky:2015:Noturus exilis
+Kentucky:2015:Noturus hildebrandi
+Kentucky:2015:Noturus phaeus
+Kentucky:2015:Noturus stigmosus
+Kentucky:2015:Nyctanassa violacea
+Kentucky:2015:Nycticeius humeralis
+Kentucky:2015:Nycticorax nycticorax
+Kentucky:2015:Obovaria retusa
+Kentucky:2015:Obovaria subrotunda
+Kentucky:2015:Ophisaurus attenuatus longicaudus
+Kentucky:2015:Orconectes barri
+Kentucky:2015:Orconectes bisectus
+Kentucky:2015:Orconectes burri
+Kentucky:2015:Orconectes inermis inermis
+Kentucky:2015:Orconectes jeffersoni
+Kentucky:2015:Orconectes lancifer
+Kentucky:2015:Orconectes margorectus
+Kentucky:2015:Orconectes packardi
+Kentucky:2015:Orconectes palmeri palmeri
+Kentucky:2015:Orconectes pellucidus
+Kentucky:2015:Orconectes ronaldi
+Kentucky:2015:Palaemonias ganteri
+Kentucky:2015:Pandion haliaetus
+Kentucky:2015:Parkesia motacilla
+Kentucky:2015:Passerculus sandwichensis
+Kentucky:2015:Pegias fabula
+Kentucky:2015:Pelecanus erythrorhynchos
+Kentucky:2015:Percina macrocephala
+Kentucky:2015:Percina squamata
+Kentucky:2015:Percina stictogaster
+Kentucky:2015:Peromyscus gossypinus
+Kentucky:2015:Peucaea aestivalis
+Kentucky:2015:Phalaropus tricolor
+Kentucky:2015:Phenacobius uranops
+Kentucky:2015:Pheucticus ludovicianus
+Kentucky:2015:Picoides borealis
+Kentucky:2015:Pituophis melanoleucus melanoleucus
+Kentucky:2015:Platygobio gracilis
+Kentucky:2015:Plethobasus cooperianus
+Kentucky:2015:Plethobasus cyphyus
+Kentucky:2015:Plethodon cinereus
+Kentucky:2015:Plethodon kentucki
+Kentucky:2015:Plethodon ventralis
+Kentucky:2015:Plethodon wehrlei
+Kentucky:2015:Pleurobema clava
+Kentucky:2015:Pleurobema oviforme
+Kentucky:2015:Pleurobema plenum
+Kentucky:2015:Pleurobema rubrum
+Kentucky:2015:Pleuronaia dolabelloides
+Kentucky:2015:Pluvialis dominica
+Kentucky:2015:Podiceps auritus
+Kentucky:2015:Podilymbus podiceps
+Kentucky:2015:Polyodon spathula
+Kentucky:2015:Pooecetes gramineus
+Kentucky:2015:Porzana carolina
+Kentucky:2015:Potamilus capax
+Kentucky:2015:Potamilus purpuratus
+Kentucky:2015:Procambarus viaeviridis
+Kentucky:2015:Protonotaria citrea
+Kentucky:2015:Ptychobranchus subtentum
+Kentucky:2015:Quadrula cylindrica cylindrica
+Kentucky:2015:Quadrula fragosa
+Kentucky:2015:Rallus elegans
+Kentucky:2015:Rallus limicola
+Kentucky:2015:Rana areolata circulosa
+Kentucky:2015:Rana pipiens
+Kentucky:2015:Rana sphenocephala
+Kentucky:2015:Rana sylvatica
+Kentucky:2015:Riparia riparia
+Kentucky:2015:Scaphiopus holbrookii
+Kentucky:2015:Scaphirhynchus albus
+Kentucky:2015:Scolopax minor
+Kentucky:2015:Setophaga cerulea
+Kentucky:2015:Setophaga discolor
+Kentucky:2015:Setophaga fusca
+Kentucky:2015:Setophaga virens
+Kentucky:2015:Simpsonaias ambigua
+Kentucky:2015:Siren intermedia nettingi
+Kentucky:2015:Sistrurus miliarius streckeri
+Kentucky:2015:Sitta canadensis
+Kentucky:2015:Sorex cinereus
+Kentucky:2015:Sorex dispar blitchi
+Kentucky:2015:Spilogale putorius
+Kentucky:2015:Spiza americana
+Kentucky:2015:Sterna hirundo
+Kentucky:2015:Sternula antillarum athalassos
+Kentucky:2015:Stygobromus vitreus
+Kentucky:2015:Sylvilagus aquaticus
+Kentucky:2015:Sylvilagus obscurus
+Kentucky:2015:Tantilla coronata
+Kentucky:2015:Thamnophis proximus proximus
+Kentucky:2015:Thamnophis sauritus sauritus
+Kentucky:2015:Thoburnia atripinnis
+Kentucky:2015:Thryomanes bewickii
+Kentucky:2015:Toxolasma lividus
+Kentucky:2015:Toxolasma texasiensis
+Kentucky:2015:Tringa flavipes
+Kentucky:2015:Tringa solitaria
+Kentucky:2015:Tryngites subruficollis
+Kentucky:2015:Tympanuchus cupido
+Kentucky:2015:Typhlichthys subterraneus
+Kentucky:2015:Tyto alba
+Kentucky:2015:Umbra limi
+Kentucky:2015:Ursus americanus
+Kentucky:2015:Vermivora chrysoptera
+Kentucky:2015:Vermivora cyanoptera
+Kentucky:2015:Villosa fabalis
+Kentucky:2015:Villosa lienosa
+Kentucky:2015:Villosa ortmanni
+Kentucky:2015:Villosa trabalis
+Kentucky:2015:Villosa vanuxemensis vanuxemensis
+Kentucky:2015:Vireo bellii
+Maine:2015:Acipenser oxyrinchus
+Maine:2015:Aeshna juncea
+Maine:2015:Alces alces americanus
+Maine:2015:Alcyonium digitatum
+Maine:2015:Alopias vulpinus
+Maine:2015:Alosa pseudoharengus
+Maine:2015:Alosa sapidissima
+Maine:2015:Ammodramus savannarum
+Maine:2015:Ammodytes americanus
+Maine:2015:Anodonta implicata
+Maine:2015:Anthus rubescens
+Maine:2015:Antrostomus vociferus
+Maine:2015:Appalachina sayana
+Maine:2015:Ardea herodias
+Maine:2015:Argia translata
+Maine:2015:Arigomphus furcifer
+Maine:2015:Arrhoges occidentalis
+Maine:2015:Asio flammeus
+Maine:2015:Asterias forbesi
+Maine:2015:Asterias rubens
+Maine:2015:Atrytonopsis hianna
+Maine:2015:Aythya marila
+Maine:2015:Baetisca berneri
+Maine:2015:Baetisca rubescens
+Maine:2015:Balaenoptera borealis
+Maine:2015:Balaenoptera musculus
+Maine:2015:Balaenoptera physalus
+Maine:2015:Bartramia longicauda
+Maine:2015:Bombus ashtoni
+Maine:2015:Bombus citrinus
+Maine:2015:Bombus fernaldae
+Maine:2015:Bombus fervidus
+Maine:2015:Bombus griseocollis
+Maine:2015:Bombus pensylvanicus
+Maine:2015:Bombus terricola
+Maine:2015:Botaurus lentiginosus
+Maine:2015:Buteo platypterus
+Maine:2015:Calanus finmarchicus
+Maine:2015:Calidris alba
+Maine:2015:Calidris alpina
+Maine:2015:Calidris canutus rufa
+Maine:2015:Calidris maritima
+Maine:2015:Calidris minutilla
+Maine:2015:Calidris pusilla
+Maine:2015:Callophrys gryneus
+Maine:2015:Cardellina canadensis
+Maine:2015:Caretta caretta
+Maine:2015:Catharus bicknelli
+Maine:2015:Catharus ustulatus
+Maine:2015:Catocala similis
+Maine:2015:Catostomus catostomus
+Maine:2015:Celithemis martha
+Maine:2015:Chaetaglaea cerata
+Maine:2015:Chaetaglaea tremula
+Maine:2015:Chaetura pelagica
+Maine:2015:Charadrius melodus
+Maine:2015:Chelonia mydas
+Maine:2015:Chlamys islandica
+Maine:2015:Chlidonias niger
+Maine:2015:Chordeiles minor
+Maine:2015:Chroicocephalus philadelphia
+Maine:2015:Circus cyaneus
+Maine:2015:Citheronia sepulcralis
+Maine:2015:Clangula hyemalis
+Maine:2015:Coccothraustes vespertinus
+Maine:2015:Coccyzus erythropthalmus
+Maine:2015:Coluber constrictor constrictor
+Maine:2015:Colus pygmaeus
+Maine:2015:Contopus cooperi
+Maine:2015:Cordulegaster obliqua
+Maine:2015:Coregonus clupeaformis
+Maine:2015:Coturnicops noveboracensis
+Maine:2015:Crassostrea virginica
+Maine:2015:Crossaster papposus
+Maine:2015:Cucullia speyeri
+Maine:2015:Cucumaria frondosa
+Maine:2015:Culaea inconstans
+Maine:2015:Cupido amyntula maritima
+Maine:2015:Dipturus laevis
+Maine:2015:Empidonax flaviventris
+Maine:2015:Empidonax minimus
+Maine:2015:Emydoidea blandingii
+Maine:2015:Enallagma laterale
+Maine:2015:Enallagma pictum
+Maine:2015:Epeorus frisoni
+Maine:2015:Epiaeschna heros
+Maine:2015:Eremophila alpestris
+Maine:2015:Erimyzon oblongus
+Maine:2015:Erora laeta
+Maine:2015:Erythrodiplax berenice
+Maine:2015:Eubalaena glacialis
+Maine:2015:Euphagus carolinus
+Maine:2015:Falco peregrinus
+Maine:2015:Falco sparverius
+Maine:2015:Floridobia winkleyi
+Maine:2015:Fulica americana
+Maine:2015:Gadus morhua
+Maine:2015:Geothlypis philadelphia
+Maine:2015:Gersemia rubiformis
+Maine:2015:Glyptemys insculpta
+Maine:2015:Gomphus quadricolor
+Maine:2015:Gomphus vastus
+Maine:2015:Gorgonocephalus arcticus
+Maine:2015:Haematopus palliatus
+Maine:2015:Haemorhous purpureus
+Maine:2015:Hemaris gracilis
+Maine:2015:Hemileuca maia maia
+Maine:2015:Hesperia leonardus
+Maine:2015:Hesperia metea
+Maine:2015:Histrionicus histrionicus
+Maine:2015:Hybognathus regius
+Maine:2015:Hydroptila parachelops
+Maine:2015:Hydroptila tomah
+Maine:2015:Hylocichla mustelina
+Maine:2015:Icterus galbula
+Maine:2015:Icterus spurius
+Maine:2015:Ischnura ramburii
+Maine:2015:Ixobrychus exilis
+Maine:2015:Lampsilis cariosa
+Maine:2015:Lanthus vernalis
+Maine:2015:Lapara coniferarum
+Maine:2015:Lasionycteris noctivagans
+Maine:2015:Lasiurus borealis
+Maine:2015:Lasiurus cinereus
+Maine:2015:Lepipolys perscripta
+Maine:2015:Leptodea ochracea
+Maine:2015:Leucophaeus atricilla
+Maine:2015:Leucoraja ocellata
+Maine:2015:Libellula semifasciata
+Maine:2015:Limneria undata
+Maine:2015:Lithobates pipiens
+Maine:2015:Lota lota
+Maine:2015:Loxia curvirostra
+Maine:2015:Lycaena dorcas claytoni
+Maine:2015:Lynx canadensis
+Maine:2015:Malacoraja senta
+Maine:2015:Margaritifera margaritifera
+Maine:2015:Megascops asio
+Maine:2015:Metarranthis apiciaria
+Maine:2015:Metretopus borealis
+Maine:2015:Microtus pennsylvanicus shattucki
+Maine:2015:Mniotilta varia
+Maine:2015:Morone saxatilis
+Maine:2015:Mya arenaria
+Maine:2015:Mya truncata
+Maine:2015:Myotis lucifugus
+Maine:2015:Myotis septentrionalis
+Maine:2015:Nannothemis bella
+Maine:2015:Nebria nivalis gaspesiana
+Maine:2015:Neohelix dentifera
+Maine:2015:Neoperla mainensis
+Maine:2015:Neurocordulia michaeli
+Maine:2015:Nixe horrida
+Maine:2015:Notropis heterolepis
+Maine:2015:Nycticorax nycticorax
+Maine:2015:Oceanodroma leucorhoa
+Maine:2015:Ochrotrichia denningi
+Maine:2015:Oeneis polixenes katahdin
+Maine:2015:Ondatra zibethicus
+Maine:2015:Ophiogomphus anomalus
+Maine:2015:Orconectes limosus
+Maine:2015:Oreothlypis peregrina
+Maine:2015:Paonias astylus
+Maine:2015:Petrochelidon pyrrhonota
+Maine:2015:Phalaropus lobatus
+Maine:2015:Pheucticus ludovicianus
+Maine:2015:Phocoena phocoena
+Maine:2015:Picoides arcticus
+Maine:2015:Piranga olivacea
+Maine:2015:Plebejus idas empetri
+Maine:2015:Plebejus idas
+Maine:2015:Pluvialis squatarola
+Maine:2015:Podiceps auritus
+Maine:2015:Polygonia satyrus
+Maine:2015:Prionace glauca
+Maine:2015:Progne subis
+Maine:2015:Progomphus obscurus
+Maine:2015:Prosopium cylindraceum
+Maine:2015:Psectraglaea carnosa
+Maine:2015:Psolus fabricii
+Maine:2015:Psolus phantapus
+Maine:2015:Pteronarcys comstocki
+Maine:2015:Ptychatractus ligatus
+Maine:2015:Puffinus gravis
+Maine:2015:Regulus calendula
+Maine:2015:Rhionaeschna mutata
+Maine:2015:Rhithrogena undulata
+Maine:2015:Salmo salar
+Maine:2015:Salvelinus alpinus oquassa
+Maine:2015:Salvelinus fontinalis
+Maine:2015:Salvelinus namaycush
+Maine:2015:Satyrium edwardsii
+Maine:2015:Satyrium titus
+Maine:2015:Satyrodes appalachia
+Maine:2015:Scolopax minor
+Maine:2015:Setophaga americana
+Maine:2015:Setophaga castanea
+Maine:2015:Setophaga discolor
+Maine:2015:Setophaga fusca
+Maine:2015:Setophaga pensylvanica
+Maine:2015:Setophaga striata
+Maine:2015:Setophaga virens
+Maine:2015:Siphlonisca aerodromia
+Maine:2015:Siphlonurus barbaroides
+Maine:2015:Solaster endeca
+Maine:2015:Somatochlora albicincta
+Maine:2015:Somatochlora brevicincta
+Maine:2015:Sorex dispar
+Maine:2015:Spartiniphaga inops
+Maine:2015:Speranza exonerata
+Maine:2015:Sphyrna zygaena
+Maine:2015:Stagnicola mighelsi
+Maine:2015:Stagnicola oronoensis
+Maine:2015:Stephanasterias albula
+Maine:2015:Sterna dougallii
+Maine:2015:Sterna paradisaea
+Maine:2015:Storeria dekayi dekayi
+Maine:2015:Strongylocentrotus droebachiensis
+Maine:2015:Stylurus spiniceps
+Maine:2015:Sylvilagus transitionalis
+Maine:2015:Synaptomys borealis sphagnicola
+Maine:2015:Terrapene carolina carolina
+Maine:2015:Thamnophis sauritus
+Maine:2015:Thyonidium drummondii
+Maine:2015:Toxostoma rufum
+Maine:2015:Tramea carolina
+Maine:2015:Tringa flavipes
+Maine:2015:Tringa melanoleuca
+Maine:2015:Tyrannus tyrannus
+Maine:2015:Tyto alba
+Maine:2015:Vertigo malleata
+Maine:2015:Vertigo morsei
+Maine:2015:Xylena thoracica
+Maine:2015:Xylotype capax
+Maine:2015:Zale lunifera
+Maine:2015:Zale obliqua
+Maine:2015:Zanclognatha martha
+Maine:2015:Zonotrichia albicollis
+Massachusetts:2015:Abagrotis nefascia
+Massachusetts:2015:Accipiter gentilis
+Massachusetts:2015:Acipenser brevirostrum
+Massachusetts:2015:Acipenser oxyrinchus
+Massachusetts:2015:Acronicta albarufa
+Massachusetts:2015:Actaea racemosa
+Massachusetts:2015:Adlumia fungosa
+Massachusetts:2015:Aeshna subarctica
+Massachusetts:2015:Agalinis acuta
+Massachusetts:2015:Agastache scrophulariifolia
+Massachusetts:2015:Ageratina aromatica
+Massachusetts:2015:Agkistrodon contortrix
+Massachusetts:2015:Agrimonia parviflora
+Massachusetts:2015:Agrimonia pubescens
+Massachusetts:2015:Alasmidonta heterodon
+Massachusetts:2015:Alasmidonta undulata
+Massachusetts:2015:Alasmidonta varicosa
+Massachusetts:2015:Alces americanus
+Massachusetts:2015:Alnus viridis ssp. crispa
+Massachusetts:2015:Alosa aestivalis
+Massachusetts:2015:Alosa pseudoharengus
+Massachusetts:2015:Alosa sapidissima
+Massachusetts:2015:Amaranthus pumilus
+Massachusetts:2015:Ambystoma jeffersonianum
+Massachusetts:2015:Ambystoma laterale
+Massachusetts:2015:Ambystoma opacum
+Massachusetts:2015:Amelanchier bartramiana
+Massachusetts:2015:Amelanchier sanguinea
+Massachusetts:2015:Ammodramus caudacutus
+Massachusetts:2015:Ammodramus maritimus
+Massachusetts:2015:Ammodramus savannarum
+Massachusetts:2015:Amphicarpum amphicarpon
+Massachusetts:2015:Anas discors
+Massachusetts:2015:Anas rubripes
+Massachusetts:2015:Anax longipes
+Massachusetts:2015:Anguilla rostrata
+Massachusetts:2015:Anodonta implicata
+Massachusetts:2015:Anthophora walshii
+Massachusetts:2015:Antrostomus vociferus 
+Massachusetts:2015:Apamea inebriata
+Massachusetts:2015:Aplectrum hyemale
+Massachusetts:2015:Apodrepanulatrix liberaria
+Massachusetts:2015:Arabidopsis lyrata
+Massachusetts:2015:Arceuthobium pusillum
+Massachusetts:2015:Ardea alba
+Massachusetts:2015:Arenaria interpres
+Massachusetts:2015:Arethusa bulbosa
+Massachusetts:2015:Arisaema dracontium
+Massachusetts:2015:Aristida purpurascens
+Massachusetts:2015:Aristida tuberculosa
+Massachusetts:2015:Asclepias purpurascens
+Massachusetts:2015:Asclepias verticillata
+Massachusetts:2015:Asio flammeus
+Massachusetts:2015:Asio otus
+Massachusetts:2015:Asplenium montanum
+Massachusetts:2015:Asplenium ruta-muraria
+Massachusetts:2015:Balaenoptera borealis
+Massachusetts:2015:Balaenoptera musculus
+Massachusetts:2015:Balaenoptera physalus
+Massachusetts:2015:Bartramia longicauda
+Massachusetts:2015:Betula pumila
+Massachusetts:2015:Bidens eatonii
+Massachusetts:2015:Bidens hyperborea
+Massachusetts:2015:Blephilia ciliata
+Massachusetts:2015:Blephilia hirsuta
+Massachusetts:2015:Boechera laevigata
+Massachusetts:2015:Boechera missouriensis
+Massachusetts:2015:Bombus affinis
+Massachusetts:2015:Bombus fervidus
+Massachusetts:2015:Bombus pensylvanicus
+Massachusetts:2015:Bombus terricola
+Massachusetts:2015:Bonasa umbellus
+Massachusetts:2015:Botaurus lentiginosus
+Massachusetts:2015:Botrychium simplex
+Massachusetts:2015:Botrychium tenebrosum
+Massachusetts:2015:Boyeria grafiana
+Massachusetts:2015:Buteo platypterus
+Massachusetts:2015:Calamagrostis pickeringii
+Massachusetts:2015:Calamagrostis stricta ssp. inexpansa
+Massachusetts:2015:Calidris alba
+Massachusetts:2015:Calidris canutus
+Massachusetts:2015:Calidris maritima
+Massachusetts:2015:Calidris pusilla
+Massachusetts:2015:Callophrys hesseli
+Massachusetts:2015:Callophrys irus
+Massachusetts:2015:Callophrys lanoraieensis
+Massachusetts:2015:Calonectris diomedea
+Massachusetts:2015:Calystegia spithamaea
+Massachusetts:2015:Cambarus bartonii
+Massachusetts:2015:Cardamine dentata
+Massachusetts:2015:Cardamine douglassii
+Massachusetts:2015:Cardamine longii
+Massachusetts:2015:Cardellina canadensis 
+Massachusetts:2015:Caretta caretta
+Massachusetts:2015:Carex alopecoidea
+Massachusetts:2015:Carex backii
+Massachusetts:2015:Carex baileyi
+Massachusetts:2015:Carex bushii
+Massachusetts:2015:Carex castanea
+Massachusetts:2015:Carex chordorrhiza
+Massachusetts:2015:Carex davisii
+Massachusetts:2015:Carex exilis
+Massachusetts:2015:Carex formosa
+Massachusetts:2015:Carex glaucodea
+Massachusetts:2015:Carex gracilescens
+Massachusetts:2015:Carex grayi
+Massachusetts:2015:Carex hitchcockiana
+Massachusetts:2015:Carex lenticularis
+Massachusetts:2015:Carex livida
+Massachusetts:2015:Carex lupuliformis
+Massachusetts:2015:Carex mesochorea
+Massachusetts:2015:Carex michauxiana
+Massachusetts:2015:Carex mitchelliana
+Massachusetts:2015:Carex oligocarpa
+Massachusetts:2015:Carex oligosperma
+Massachusetts:2015:Carex pauciflora
+Massachusetts:2015:Carex polymorpha
+Massachusetts:2015:Carex schweinitzii
+Massachusetts:2015:Carex sterilis
+Massachusetts:2015:Carex striata
+Massachusetts:2015:Carex tetanica
+Massachusetts:2015:Carex trichocarpa
+Massachusetts:2015:Carex tuckermanii
+Massachusetts:2015:Carex typhina
+Massachusetts:2015:Carphophis amoenus
+Massachusetts:2015:Catocala herodias gerhardi
+Massachusetts:2015:Catocala pretiosa pretiosa
+Massachusetts:2015:Catostomus catostomus
+Massachusetts:2015:Catostomus commersoni
+Massachusetts:2015:Celastrus scandens
+Massachusetts:2015:Cerastium nutans
+Massachusetts:2015:Chaetaglaea cerata
+Massachusetts:2015:Chaetura pelagica
+Massachusetts:2015:Chamaelirium luteum
+Massachusetts:2015:Charadrius melodus
+Massachusetts:2015:Chelonia mydas
+Massachusetts:2015:Chenopodium foggii
+Massachusetts:2015:Chordeiles minor
+Massachusetts:2015:Chrosomus eos
+Massachusetts:2015:Cicindela dorsalis dorsalis
+Massachusetts:2015:Cicindela duodecimguttata
+Massachusetts:2015:Cicindela limbalis
+Massachusetts:2015:Cicindela marginipennis
+Massachusetts:2015:Cicindela patruela
+Massachusetts:2015:Cicindela puritana
+Massachusetts:2015:Cicindela purpurea
+Massachusetts:2015:Cicindela rufiventris hentzii
+Massachusetts:2015:Cicinnus melsheimeri
+Massachusetts:2015:Cingilia catenaria
+Massachusetts:2015:Circus cyaneus
+Massachusetts:2015:Cistothorus palustris
+Massachusetts:2015:Cistothorus platensis
+Massachusetts:2015:Clangula hyemalis
+Massachusetts:2015:Claytonia virginica
+Massachusetts:2015:Clematis occidentalis
+Massachusetts:2015:Clemmys guttata
+Massachusetts:2015:Coccyzus erythropthalmus
+Massachusetts:2015:Coeloglossum viride
+Massachusetts:2015:Coleataenia longifolia ssp. longifolia 
+Massachusetts:2015:Colinus virginianus
+Massachusetts:2015:Coluber constrictor
+Massachusetts:2015:Conioselinum chinense
+Massachusetts:2015:Contopus cooperi
+Massachusetts:2015:Corallorhiza odontorhiza
+Massachusetts:2015:Corema conradii
+Massachusetts:2015:Coreopsis rosea
+Massachusetts:2015:Cottus cognatus
+Massachusetts:2015:Couesius plumbeus
+Massachusetts:2015:Crassula aquatica
+Massachusetts:2015:Crataegus bicknellii
+Massachusetts:2015:Crepidomanes intricatum 
+Massachusetts:2015:Crocanthemum dumosum
+Massachusetts:2015:Crotalus horridus
+Massachusetts:2015:Cryptogramma stelleri
+Massachusetts:2015:Cycnia inopinatus
+Massachusetts:2015:Cynoglossum virginianum var. boreale
+Massachusetts:2015:Cyperus engelmannii
+Massachusetts:2015:Cyperus houghtonii
+Massachusetts:2015:Cypripedium arietinum
+Massachusetts:2015:Cypripedium parviflorum 
+Massachusetts:2015:Cypripedium reginae
+Massachusetts:2015:Cystopteris laurentiana
+Massachusetts:2015:Dargida rubripennis
+Massachusetts:2015:Dermochelys coriacea
+Massachusetts:2015:Deschampsia cespitosa ssp. glauca
+Massachusetts:2015:Desmodium cuspidatum
+Massachusetts:2015:Dichanthelium dichotomum ssp. mattamuskeetense
+Massachusetts:2015:Dichanthelium ovale ssp. pseudopubescens
+Massachusetts:2015:Dichanthelium scabriusculum
+Massachusetts:2015:Dichanthelium wrightianum
+Massachusetts:2015:Doellingeria infirma
+Massachusetts:2015:Dolichonyx oryzivorus
+Massachusetts:2015:Eacles imperialis
+Massachusetts:2015:Egretta thula
+Massachusetts:2015:Elatine americana
+Massachusetts:2015:Eleocharis diandra
+Massachusetts:2015:Eleocharis intermedia
+Massachusetts:2015:Eleocharis microcarpa var. filiculmis
+Massachusetts:2015:Eleocharis ovata
+Massachusetts:2015:Eleocharis quinqueflora
+Massachusetts:2015:Eleocharis tricostata
+Massachusetts:2015:Elymus villosus
+Massachusetts:2015:Emydoidea blandingii
+Massachusetts:2015:Enallagma carunculatum
+Massachusetts:2015:Enallagma daeckii
+Massachusetts:2015:Enallagma pictum
+Massachusetts:2015:Enallagma recurvatum
+Massachusetts:2015:Enneacanthus obesus
+Massachusetts:2015:Epeoloides pilosula
+Massachusetts:2015:Eptesicus fuscus
+Massachusetts:2015:Equisetum scirpoides
+Massachusetts:2015:Eragrostis frankii
+Massachusetts:2015:Eremophila alpestris
+Massachusetts:2015:Eretmochelys imbricata
+Massachusetts:2015:Erimyzon oblongus
+Massachusetts:2015:Eriocaulon parkeri
+Massachusetts:2015:Eriophorum gracile
+Massachusetts:2015:Erora laeta
+Massachusetts:2015:Erynnis persius persius
+Massachusetts:2015:Etheostoma fusiforme
+Massachusetts:2015:Etheostoma olmstedi
+Massachusetts:2015:Eubalaena glacialis
+Massachusetts:2015:Eubranchipus intricatus
+Massachusetts:2015:Euchlaena madusaria
+Massachusetts:2015:Eulimnadia agassizii
+Massachusetts:2015:Eupatorium novae-angliae
+Massachusetts:2015:Euphagus carolinus
+Massachusetts:2015:Euphyes dion
+Massachusetts:2015:Falco peregrinus
+Massachusetts:2015:Falco sparverius
+Massachusetts:2015:Floridobia winkleyi
+Massachusetts:2015:Fratercula arctica
+Massachusetts:2015:Fundulus luciae
+Massachusetts:2015:Galearis spectabilis 
+Massachusetts:2015:Galium boreale
+Massachusetts:2015:Galium labradoricum
+Massachusetts:2015:Gallinago delicata
+Massachusetts:2015:Gallinula galeata
+Massachusetts:2015:Gammarus pseudolimnaeus
+Massachusetts:2015:Gamochaeta purpurea
+Massachusetts:2015:Gasterosteus aculeatus
+Massachusetts:2015:Gavia immer
+Massachusetts:2015:Gavia stellata
+Massachusetts:2015:Gentiana andrewsii
+Massachusetts:2015:Gentiana linearis
+Massachusetts:2015:Geothlypis philadelphia
+Massachusetts:2015:Geum fragarioides
+Massachusetts:2015:Glaucomys sabrinus
+Massachusetts:2015:Glyptemys insculpta
+Massachusetts:2015:Glyptemys muhlenbergii
+Massachusetts:2015:Gomphus abbreviatus
+Massachusetts:2015:Gomphus descriptus
+Massachusetts:2015:Gomphus fraternus
+Massachusetts:2015:Gomphus quadricolor
+Massachusetts:2015:Gomphus vastus
+Massachusetts:2015:Gomphus ventricosus
+Massachusetts:2015:Goodyera repens
+Massachusetts:2015:Grammia phyllira
+Massachusetts:2015:Haematopus palliatus
+Massachusetts:2015:Haemorhous purpureus
+Massachusetts:2015:Halenia deflexa
+Massachusetts:2015:Haliaeetus leucocephalus
+Massachusetts:2015:Hemaris gracilis
+Massachusetts:2015:Hemileuca maia
+Massachusetts:2015:Heterocampa varia
+Massachusetts:2015:Heterodon platirhinos
+Massachusetts:2015:Histrionicus histrionicus
+Massachusetts:2015:Houstonia longifolia
+Massachusetts:2015:Huperzia appressa
+Massachusetts:2015:Huperzia selago
+Massachusetts:2015:Hybognathus regius
+Massachusetts:2015:Hydrastis canadensis
+Massachusetts:2015:Hydrocotyle verticillata
+Massachusetts:2015:Hydrophyllum canadense
+Massachusetts:2015:Hylocichla mustelina
+Massachusetts:2015:Hypericum adpressum
+Massachusetts:2015:Hypericum ascyron
+Massachusetts:2015:Hypericum stragulum
+Massachusetts:2015:Hypomecis buchholzaria
+Massachusetts:2015:Ilex montana
+Massachusetts:2015:Isoetes acadiensis
+Massachusetts:2015:Isoetes lacustris
+Massachusetts:2015:Isotria medeoloides
+Massachusetts:2015:Ixobrychus exilis
+Massachusetts:2015:Juncus debilis
+Massachusetts:2015:Juncus filiformis
+Massachusetts:2015:Lachnanthes caroliniana
+Massachusetts:2015:Lampsilis cariosa
+Massachusetts:2015:Lampsilis radiata
+Massachusetts:2015:Larus argentatus
+Massachusetts:2015:Larus atricilla
+Massachusetts:2015:Larus marinus
+Massachusetts:2015:Lasionycteris noctivagans
+Massachusetts:2015:Lasiurus borealis
+Massachusetts:2015:Lasiurus cinereus
+Massachusetts:2015:Lathyrus palustris
+Massachusetts:2015:Lechea pulchella var. moniliformis
+Massachusetts:2015:Lepidochelys kempii
+Massachusetts:2015:Leptochloa fusca ssp. fascicularis
+Massachusetts:2015:Leptodea ochracea
+Massachusetts:2015:Lethenteron appendix 
+Massachusetts:2015:Leymus mollis ssp. mollis
+Massachusetts:2015:Liatris novae-angliae
+Massachusetts:2015:Ligumia nasuta
+Massachusetts:2015:Limnadia lenticularis
+Massachusetts:2015:Limnodromus griseus
+Massachusetts:2015:Linnaea borealis ssp. americana
+Massachusetts:2015:Linum intercursum
+Massachusetts:2015:Linum medium var. texanum
+Massachusetts:2015:Liparis liliifolia
+Massachusetts:2015:Liparis loeselii
+Massachusetts:2015:Lipocarpha micrantha
+Massachusetts:2015:Lithobates pipiens
+Massachusetts:2015:Lithophane viridipallens
+Massachusetts:2015:Littoridinops tenuipes
+Massachusetts:2015:Lobelia siphilitica
+Massachusetts:2015:Lonicera hirsuta
+Massachusetts:2015:Lota lota
+Massachusetts:2015:Ludwigia polycarpa
+Massachusetts:2015:Ludwigia sphaerocarpa
+Massachusetts:2015:Lupinus perennis
+Massachusetts:2015:Luxilus cornutus
+Massachusetts:2015:Luzula parviflora ssp. melanocarpa
+Massachusetts:2015:Lycia rachelae
+Massachusetts:2015:Lycia ypsilon
+Massachusetts:2015:Lycopodiella alopecuroides
+Massachusetts:2015:Lycopus rubellus
+Massachusetts:2015:Lygodium palmatum
+Massachusetts:2015:Lynx rufus
+Massachusetts:2015:Macrobdella sestertia
+Massachusetts:2015:Macropis ciliata
+Massachusetts:2015:Macropis nuda
+Massachusetts:2015:Macropis patellata
+Massachusetts:2015:Magnolia virginiana
+Massachusetts:2015:Malaclemys terrapin
+Massachusetts:2015:Malaxis bayardii
+Massachusetts:2015:Malaxis monophyllos var. brachypoda
+Massachusetts:2015:Malaxis unifolia 
+Massachusetts:2015:Margaritifera margaritifera
+Massachusetts:2015:Marstonia lustrica
+Massachusetts:2015:Megaptera novaeangliae
+Massachusetts:2015:Mertensia maritima
+Massachusetts:2015:Metarranthis apiciaria
+Massachusetts:2015:Metarranthis pilosaria
+Massachusetts:2015:Milium effusum
+Massachusetts:2015:Mimulus alatus
+Massachusetts:2015:Mimulus moschatus
+Massachusetts:2015:Minuartia michauxii
+Massachusetts:2015:Mniotilta varia
+Massachusetts:2015:Moehringia macrophylla
+Massachusetts:2015:Moneses uniflora 
+Massachusetts:2015:Morus bassanus
+Massachusetts:2015:Morus rubra
+Massachusetts:2015:Myotis leibii
+Massachusetts:2015:Myotis lucifugus
+Massachusetts:2015:Myotis septentrionalis
+Massachusetts:2015:Myotis sodalis
+Massachusetts:2015:Myriophyllum alterniflorum
+Massachusetts:2015:Myriophyllum farwellii
+Massachusetts:2015:Myriophyllum pinnatum
+Massachusetts:2015:Myriophyllum verticillatum
+Massachusetts:2015:Nabalus serpentarius
+Massachusetts:2015:Neoligia semicana
+Massachusetts:2015:Neottia bifolia
+Massachusetts:2015:Neottia cordata 
+Massachusetts:2015:Neurocordulia obsoleta
+Massachusetts:2015:Neurocordulia yamaskanensis
+Massachusetts:2015:Nicrophorus americanus
+Massachusetts:2015:Notropis bifrenatus
+Massachusetts:2015:Numenius borealis
+Massachusetts:2015:Numenius phaeopus
+Massachusetts:2015:Nuphar microphylla
+Massachusetts:2015:Nycticorax nycticorax
+Massachusetts:2015:Oceanodroma leucorhoa
+Massachusetts:2015:Oligoneuron album
+Massachusetts:2015:Opheodrys vernalis
+Massachusetts:2015:Ophioglossum pusillum
+Massachusetts:2015:Ophiogomphus aspersus
+Massachusetts:2015:Ophiogomphus carolus
+Massachusetts:2015:Opuntia humifusa
+Massachusetts:2015:Oreothlypis ruficapilla
+Massachusetts:2015:Orontium aquaticum
+Massachusetts:2015:Orthilia secunda
+Massachusetts:2015:Oxalis violacea
+Massachusetts:2015:Panax quinquefolius
+Massachusetts:2015:Panicum philadelphicum ssp. gattingeri
+Massachusetts:2015:Panicum philadelphicum ssp. philadelphicum
+Massachusetts:2015:Pantherophis alleghaniensis
+Massachusetts:2015:Papaipema appassionata
+Massachusetts:2015:Papaipema sp. 2
+Massachusetts:2015:Papaipema stenocelis
+Massachusetts:2015:Papaipema sulphurata
+Massachusetts:2015:Parkesia motacilla 
+Massachusetts:2015:Paronychia argyrocoma
+Massachusetts:2015:Pedicularis lanceolata
+Massachusetts:2015:Penstemon hirsutus
+Massachusetts:2015:Perimyotis subflavus
+Massachusetts:2015:Persicaria puritanorum
+Massachusetts:2015:Persicaria setacea
+Massachusetts:2015:Petasites frigidus var. palmatus
+Massachusetts:2015:Petrochelidon pyrrhonota
+Massachusetts:2015:Petromyzon marinus
+Massachusetts:2015:Phalacrocorax auritus
+Massachusetts:2015:Phalaropus fulicarius
+Massachusetts:2015:Phalaropus lobatus
+Massachusetts:2015:Photedes inops
+Massachusetts:2015:Physeter macrocephalus
+Massachusetts:2015:Pieris oleracea
+Massachusetts:2015:Pipilo erythrophthalmus
+Massachusetts:2015:Piranga olivacea
+Massachusetts:2015:Platanthera aquilonis
+Massachusetts:2015:Platanthera cristata
+Massachusetts:2015:Platanthera dilatata
+Massachusetts:2015:Platanthera flava var. herbiola
+Massachusetts:2015:Platanthera hookeri
+Massachusetts:2015:Platanthera huronensis
+Massachusetts:2015:Platanthera macrophylla
+Massachusetts:2015:Platanthera orbiculata
+Massachusetts:2015:Plegadis falcinellus
+Massachusetts:2015:Poa saltuensis ssp. languida
+Massachusetts:2015:Podilymbus podiceps
+Massachusetts:2015:Polygonum glaucum
+Massachusetts:2015:Polystichum braunii
+Massachusetts:2015:Pomatiopsis lapidaria
+Massachusetts:2015:Pooecetes gramineus
+Massachusetts:2015:Populus heterophylla
+Massachusetts:2015:Porzana carolina
+Massachusetts:2015:Potamogeton confervoides
+Massachusetts:2015:Potamogeton friesii
+Massachusetts:2015:Potamogeton gemmiparus
+Massachusetts:2015:Potamogeton hillii
+Massachusetts:2015:Potamogeton ogdenii
+Massachusetts:2015:Potamogeton strictifolius
+Massachusetts:2015:Potamogeton vaseyi
+Massachusetts:2015:Progne subis
+Massachusetts:2015:Prunus pumila var. depressa
+Massachusetts:2015:Psectraglaea carnosa
+Massachusetts:2015:Pseudemys rubriventris
+Massachusetts:2015:Ptichodis bistrigata
+Massachusetts:2015:Puffinus griseus
+Massachusetts:2015:Puffinus puffinus
+Massachusetts:2015:Pyrola asarifolia ssp. asarifolia
+Massachusetts:2015:Pyrrhia aurantiago
+Massachusetts:2015:Quercus macrocarpa
+Massachusetts:2015:Quercus muehlenbergii
+Massachusetts:2015:Rallus elegans
+Massachusetts:2015:Ranunculus micranthus
+Massachusetts:2015:Ranunculus pensylvanicus
+Massachusetts:2015:Rhexia mariana
+Massachusetts:2015:Rhinichthys atratulus
+Massachusetts:2015:Rhinichthys cataractae
+Massachusetts:2015:Rhionaeschna mutata
+Massachusetts:2015:Rhododendron maximum
+Massachusetts:2015:Rhynchospora capillacea
+Massachusetts:2015:Rhynchospora inundata
+Massachusetts:2015:Rhynchospora nitens
+Massachusetts:2015:Rhynchospora scirpoides
+Massachusetts:2015:Rhynchospora torreyana
+Massachusetts:2015:Ribes lacustre
+Massachusetts:2015:Riparia riparia
+Massachusetts:2015:Rosa acicularis ssp. sayi
+Massachusetts:2015:Rotala ramosior
+Massachusetts:2015:Rumex pallidus
+Massachusetts:2015:Rumex verticillatus
+Massachusetts:2015:Sabatia campanulata
+Massachusetts:2015:Sabatia kennedyana
+Massachusetts:2015:Sabatia stellaris
+Massachusetts:2015:Sagittaria cuneata
+Massachusetts:2015:Sagittaria montevidensis ssp. spongiosa
+Massachusetts:2015:Sagittaria teres
+Massachusetts:2015:Salix exigua ssp. interior
+Massachusetts:2015:Salmo salar
+Massachusetts:2015:Salvelinus fontinalis
+Massachusetts:2015:Sanicula canadensis
+Massachusetts:2015:Sanicula odorata
+Massachusetts:2015:Scaphiopus holbrookii
+Massachusetts:2015:Scheuchzeria palustris
+Massachusetts:2015:Scirpus ancistrochaetus
+Massachusetts:2015:Scirpus longii
+Massachusetts:2015:Scleria pauciflora
+Massachusetts:2015:Scleria triglomerata
+Massachusetts:2015:Sclerolepis uniflora
+Massachusetts:2015:Scolopax minor
+Massachusetts:2015:Seidlia remota
+Massachusetts:2015:Semotilus atromaculatus
+Massachusetts:2015:Semotilus corporalis
+Massachusetts:2015:Senna hebecarpa
+Massachusetts:2015:Setaria parviflora
+Massachusetts:2015:Setophaga americana
+Massachusetts:2015:Setophaga cerulea
+Massachusetts:2015:Setophaga discolor 
+Massachusetts:2015:Setophaga pensylvanica
+Massachusetts:2015:Setophaga striata
+Massachusetts:2015:Silene caroliniana ssp. pensylvanica
+Massachusetts:2015:Sisyrinchium fuscatum
+Massachusetts:2015:Sisyrinchium mucronatum
+Massachusetts:2015:Solidago macrophylla
+Massachusetts:2015:Solidago simplex ssp. randii var. monticola
+Massachusetts:2015:Somateria mollissima
+Massachusetts:2015:Somatochlora elongata
+Massachusetts:2015:Somatochlora forcipata
+Massachusetts:2015:Somatochlora georgiana
+Massachusetts:2015:Somatochlora incurvata
+Massachusetts:2015:Somatochlora kennedyi
+Massachusetts:2015:Somatochlora linearis
+Massachusetts:2015:Sorbus decora
+Massachusetts:2015:Sorex dispar
+Massachusetts:2015:Sorex palustris
+Massachusetts:2015:Sparganium natans
+Massachusetts:2015:Spartina cynosuroides
+Massachusetts:2015:Speranza exonerata
+Massachusetts:2015:Sphenopholis nitida
+Massachusetts:2015:Sphenopholis pensylvanica
+Massachusetts:2015:Spiranthes romanzoffiana
+Massachusetts:2015:Spiranthes vernalis
+Massachusetts:2015:Spizella pusilla
+Massachusetts:2015:Spongilla aspinosa
+Massachusetts:2015:Sporobolus neglectus
+Massachusetts:2015:Stenoporpia polygrammaria
+Massachusetts:2015:Sterna dougallii
+Massachusetts:2015:Sterna hirundo
+Massachusetts:2015:Sterna paradisaea
+Massachusetts:2015:Sternula antillarum
+Massachusetts:2015:Strophitus undulatus
+Massachusetts:2015:Sturnella magna
+Massachusetts:2015:Stygobromus borealis
+Massachusetts:2015:Stygobromus tenuis tenuis
+Massachusetts:2015:Stylurus amnicola
+Massachusetts:2015:Suaeda calceoliformis
+Massachusetts:2015:Suaeda maritima ssp. richii
+Massachusetts:2015:Sylvilagus transitionalis 
+Massachusetts:2015:Symphoricarpos albus var. albus
+Massachusetts:2015:Symphyotrichum concolor
+Massachusetts:2015:Symphyotrichum praealtum
+Massachusetts:2015:Symphyotrichum prenanthoides
+Massachusetts:2015:Symphyotrichum tradescantii
+Massachusetts:2015:Sympistis riparia
+Massachusetts:2015:Synaptomys cooperi
+Massachusetts:2015:Synurella chamberlaini
+Massachusetts:2015:Terrapene carolina
+Massachusetts:2015:Thamnophis sauritus
+Massachusetts:2015:Thuja occidentalis
+Massachusetts:2015:Tipularia discolor
+Massachusetts:2015:Toxostoma rufum
+Massachusetts:2015:Trichostema brachiatum
+Massachusetts:2015:Tringa semipalmata
+Massachusetts:2015:Triosteum perfoliatum
+Massachusetts:2015:Triphora trianthophoros
+Massachusetts:2015:Tripsacum dactyloides
+Massachusetts:2015:Trisetum spicatum
+Massachusetts:2015:Tyto alba
+Massachusetts:2015:Ursus americanus
+Massachusetts:2015:Utricularia resupinata
+Massachusetts:2015:Utricularia subulata
+Massachusetts:2015:Vaccinium vitis-idaea ssp. minus
+Massachusetts:2015:Valvata sincera
+Massachusetts:2015:Verbena simplex
+Massachusetts:2015:Vermivora chrysoptera
+Massachusetts:2015:Vermivora cyanoptera
+Massachusetts:2015:Veronica catenata
+Massachusetts:2015:Veronicastrum virginicum
+Massachusetts:2015:Viburnum rafinesquianum
+Massachusetts:2015:Viola adunca
+Massachusetts:2015:Viola brittoniana
+Massachusetts:2015:Williamsonia fletcheri
+Massachusetts:2015:Williamsonia lintneri
+Massachusetts:2015:Woodsia glabella
+Massachusetts:2015:Zale lunifera
+Massachusetts:2015:Zanclognatha martha
+Massachusetts:2015:Zonotrichia albicollis
+Michigan:2005:Accipiter gentilis
+Michigan:2005:Acella haldemani
+Michigan:2005:Acronicta falcula
+Michigan:2005:Actitis macularia
+Michigan:2005:Aeshna mutata
+Michigan:2005:Aeshna sitchensis
+Michigan:2005:Aeshna subarctica
+Michigan:2005:Alasmidonta viridis
+Michigan:2005:Ambystoma maculatum
+Michigan:2005:Ambystoma texanum
+Michigan:2005:Ambystoma tigrinum tigrinum
+Michigan:2005:Ameletus lineatus
+Michigan:2005:Ammocrypta pellucida
+Michigan:2005:Ammodramus henslowii
+Michigan:2005:Ammodramus leconteii
+Michigan:2005:Ammodramus savannarum
+Michigan:2005:Anas discors
+Michigan:2005:Anas rubripes
+Michigan:2005:Anguispira kochi
+Michigan:2005:Anodontoides ferussacianus
+Michigan:2005:Apidoscelis sexlineatus
+Michigan:2005:Appalachia arcana
+Michigan:2005:Appalachina sayana
+Michigan:2005:Arcynopteryx compacta
+Michigan:2005:Asio otus
+Michigan:2005:Basilodes pepita
+Michigan:2005:Boloria freija
+Michigan:2005:Boyeria grafiana
+Michigan:2005:Brachycentrus fuliginosus
+Michigan:2005:Brychius hungerfordi
+Michigan:2005:Bufo fowleri
+Michigan:2005:Buteo lineatus
+Michigan:2005:Butorides virescens
+Michigan:2005:Callophrys henrici
+Michigan:2005:Callophrys irus
+Michigan:2005:Capnia vernalis
+Michigan:2005:Caprimulgus carolinensis
+Michigan:2005:Caprimulgus vociferus
+Michigan:2005:Catinella exile
+Michigan:2005:Catocala amestris
+Michigan:2005:Catocala robinsoni
+Michigan:2005:Ceuthophilus uhleri
+Michigan:2005:Charadrius vociferus
+Michigan:2005:Chlosyne gorgone carlota
+Michigan:2005:Chordeiles minor
+Michigan:2005:Cicindela lepida
+Michigan:2005:Cicindela limbalis
+Michigan:2005:Circus cyaneus
+Michigan:2005:Cistothorus palustris
+Michigan:2005:Clinostomus elongatus
+Michigan:2005:Coccothraustes vespertinus
+Michigan:2005:Coccyzus erythropthalmus
+Michigan:2005:Coenagrion interrogatum
+Michigan:2005:Colaptes auratus
+Michigan:2005:Coluber constrictor foxii
+Michigan:2005:Cordulegaster erronea
+Michigan:2005:Cordulegaster obliqua
+Michigan:2005:Coregonus artedi
+Michigan:2005:Coregonus kiyi
+Michigan:2005:Cottus ricei
+Michigan:2005:Cyclonaias tuberculata
+Michigan:2005:Cygnus buccinator
+Michigan:2005:Dendroica caerulescens
+Michigan:2005:Dendroica cerulea
+Michigan:2005:Dendroica discolor
+Michigan:2005:Dendroica dominica
+Michigan:2005:Dendroica fusca
+Michigan:2005:Dendroica palmarum
+Michigan:2005:Diadophis punctatus edwardsii
+Michigan:2005:Discus patulus
+Michigan:2005:Dolichonyx oryzivorus
+Michigan:2005:Dorydiella kansana
+Michigan:2005:Dryobius sexnotatus
+Michigan:2005:Elaphe gloydi
+Michigan:2005:Elaphe obsoleta obsoleta
+Michigan:2005:Elaphe vulpina
+Michigan:2005:Elliptio complanata
+Michigan:2005:Empidonax minimus
+Michigan:2005:Empidonax virescens
+Michigan:2005:Epeorus suffusus
+Michigan:2005:Epioblasma torulosa rangiana
+Michigan:2005:Epioblasma triquetra
+Michigan:2005:Erimyzon claviformis
+Michigan:2005:Erynnis baptisiae
+Michigan:2005:Erynnis persius persius
+Michigan:2005:Etheostoma microperca
+Michigan:2005:Etheostoma spectabile
+Michigan:2005:Euchloe ausonides
+Michigan:2005:Euconulus alderi
+Michigan:2005:Eunemobius melodius
+Michigan:2005:Euphyes dukesi
+Michigan:2005:Euxoa aurulenta
+Michigan:2005:Falcipennis canadensis
+Michigan:2005:Falco columbarius
+Michigan:2005:Fallicambarus fodiens
+Michigan:2005:Flexamia delongi
+Michigan:2005:Flexamia huroni
+Michigan:2005:Flexamia reflexus
+Michigan:2005:Fulica americana
+Michigan:2005:Gallinago delicata
+Michigan:2005:Gastrocopta holzingeri
+Michigan:2005:Glaucomys sabrinus
+Michigan:2005:Gomphus lineatifrons
+Michigan:2005:Gomphus quadricolor
+Michigan:2005:Guppya sterkii
+Michigan:2005:Haliaeetus leucocephalus
+Michigan:2005:Helopicus nalatus
+Michigan:2005:Hemileuca maia
+Michigan:2005:Hesperia ottoe
+Michigan:2005:Hetaerina titia
+Michigan:2005:Heterocampa subrotata
+Michigan:2005:Heterodon platirhinos
+Michigan:2005:Hybognathus hankinsoni
+Michigan:2005:Hylocichla mustelina
+Michigan:2005:Icteria virens
+Michigan:2005:Lampsilis fasciola
+Michigan:2005:Lanius excubitor
+Michigan:2005:Lanius ludovicianus migrans
+Michigan:2005:Lasiurus borealis
+Michigan:2005:Leptodea leptodon
+Michigan:2005:Lepus americanus
+Michigan:2005:Lepyronia angulifera
+Michigan:2005:Lepyronia gibbosa
+Michigan:2005:Ligumia nasuta
+Michigan:2005:Ligumia recta
+Michigan:2005:Limnephilus sp.
+Michigan:2005:Liochlorophis vernalis
+Michigan:2005:Liodessus cantralli
+Michigan:2005:Lordithon niger
+Michigan:2005:Loxia curvirostra
+Michigan:2005:Loxia leucoptera
+Michigan:2005:Luxilus chrysocephalus
+Michigan:2005:Lycaeides melissa samuelis
+Michigan:2005:Lynx canadensis
+Michigan:2005:Macrhybopsis storeriana
+Michigan:2005:Melanerpes erythrocephalus
+Michigan:2005:Melanoplus eurycercus
+Michigan:2005:Melanoplus flavidus
+Michigan:2005:Melanoplus viridipes
+Michigan:2005:Merolonche dolli
+Michigan:2005:Meropleon ambifusca
+Michigan:2005:Mesodon elevatus
+Michigan:2005:Minytrema melanops
+Michigan:2005:Moxostoma carinatum
+Michigan:2005:Moxostoma duquesnei
+Michigan:2005:Moxostoma erythrurum
+Michigan:2005:Myotis septentrionalis
+Michigan:2005:Myotis sodalis
+Michigan:2005:Napaeozapus insignis
+Michigan:2005:Necturus maculosus maculosus
+Michigan:2005:Neoconocephalus retusus
+Michigan:2005:Neohermes sp.
+Michigan:2005:Neonympha mitchellii mitchellii
+Michigan:2005:Nerodia erythrogaster neglecta
+Michigan:2005:Nigronia fasciatus
+Michigan:2005:Nocomis micropogon
+Michigan:2005:Notropis dorsalis
+Michigan:2005:Notropis photogenis
+Michigan:2005:Noturus flavus
+Michigan:2005:Noturus gyrinus
+Michigan:2005:Noturus miurus
+Michigan:2005:Noturus stigmosus
+Michigan:2005:Nycticorax nycticorax
+Michigan:2005:Oarisma poweshiek
+Michigan:2005:Obliquaria reflexa
+Michigan:2005:Obovaria olivaria
+Michigan:2005:Obovaria subrotunda
+Michigan:2005:Oemopteryx glacialis
+Michigan:2005:Oeneis macounii
+Michigan:2005:Oncocnemis piffardi
+Michigan:2005:Ophiogomphus anomalus
+Michigan:2005:Ophiogomphus howei
+Michigan:2005:Oporornis agilis
+Michigan:2005:Oporornis formosus
+Michigan:2005:Orchelimum concinnum
+Michigan:2005:Orphulella pelidna
+Michigan:2005:Ostrocerca albidipennis
+Michigan:2005:Pallifera dorsalis
+Michigan:2005:Pallifera fosteri
+Michigan:2005:Pallifera ohioensis
+Michigan:2005:Pandion haliaetus
+Michigan:2005:Papaipema aweme
+Michigan:2005:Papaipema beeriana
+Michigan:2005:Papaipema cerina
+Michigan:2005:Papaipema maritima
+Michigan:2005:Papaipema silphii
+Michigan:2005:Papaipema speciosissima
+Michigan:2005:Paracapnia opis
+Michigan:2005:Parula americana
+Michigan:2005:Percina shumardi
+Michigan:2005:Perlesta shubuta
+Michigan:2005:Peromyscus maniculatus gracilis
+Michigan:2005:Phalaropus tricolor
+Michigan:2005:Philaenarcys killa
+Michigan:2005:Philomycus carolinianus
+Michigan:2005:Phoxinus erythrogaster
+Michigan:2005:Phyciodes batesii
+Michigan:2005:Picoides arcticus
+Michigan:2005:Pipilo erythrophthalmus
+Michigan:2005:Pipistrellus subflavus
+Michigan:2005:Planorbella multivolvis
+Michigan:2005:Planorbella smithi
+Michigan:2005:Pleurobema clava
+Michigan:2005:Pleurobema coccineum
+Michigan:2005:Podilymbus podiceps
+Michigan:2005:Poecile hudsonica
+Michigan:2005:Polygonia gracilis
+Michigan:2005:Progne subis
+Michigan:2005:Proserpinus flavofasciata
+Michigan:2005:Prosopium coulterii
+Michigan:2005:Protonotaria citrea
+Michigan:2005:Pseudacris triseriata triseriata
+Michigan:2005:Ptychobranchus fasciolaris
+Michigan:2005:Puma concolor
+Michigan:2005:Pupilla muscorum
+Michigan:2005:Pyganodon subgibbosa
+Michigan:2005:Pygarctia spraguei
+Michigan:2005:Pyrgulopsis letsoni
+Michigan:2005:Quadrula pustulosa
+Michigan:2005:Rallus elegans
+Michigan:2005:Rana palustris
+Michigan:2005:Rana pipiens
+Michigan:2005:Regulus calendula
+Michigan:2005:Schinia indiana
+Michigan:2005:Schinia lucens
+Michigan:2005:Scudderia fasciata
+Michigan:2005:Siphloplecton basale
+Michigan:2005:Sistrurus catenatus catenatus
+Michigan:2005:Somatochlora hineana
+Michigan:2005:Sorex arcticus
+Michigan:2005:Sorex palustris
+Michigan:2005:Spartiniphaga inops
+Michigan:2005:Spiza americana
+Michigan:2005:Spizella pusilla
+Michigan:2005:Stagnicola contracta
+Michigan:2005:Stenelmis douglasensis
+Michigan:2005:Sterna caspia
+Michigan:2005:Sterna hirundo
+Michigan:2005:Sturnella magna
+Michigan:2005:Sturnella neglecta
+Michigan:2005:Stylurus amnicola
+Michigan:2005:Stylurus notatus
+Michigan:2005:Synaptomys cooperi
+Michigan:2005:Tachopteryx thoreyi
+Michigan:2005:Taeniopteryx burksi
+Michigan:2005:Taeniopteryx maura
+Michigan:2005:Tamias minimus
+Michigan:2005:Toxolasma lividus
+Michigan:2005:Toxolasma parvus
+Michigan:2005:Toxostoma rufum
+Michigan:2005:Trimerotropis huroniana
+Michigan:2005:Truncilla donaciformis
+Michigan:2005:Tympanuchus phasianellus
+Michigan:2005:Tyrannus tyrannus
+Michigan:2005:Tyto alba
+Michigan:2005:Vallonia gracilicosta albula
+Michigan:2005:Venustaconcha ellipsiformis
+Michigan:2005:Vermivora chrysoptera
+Michigan:2005:Vertigo bollesiana
+Michigan:2005:Vertigo cristata
+Michigan:2005:Vertigo hubrichti
+Michigan:2005:Vertigo modesta parietalis
+Michigan:2005:Vertigo modesta
+Michigan:2005:Vertigo morsei
+Michigan:2005:Vertigo pygmaea
+Michigan:2005:Villosa fabalis
+Michigan:2005:Vireo griseus
+Michigan:2005:Williamsonia fletcheri
+Michigan:2005:Williamsonia lintneri
+Michigan:2005:Wilsonia canadensis
+Michigan:2005:Xanthocephalus xanthocephalus
+Minnesota:2005:Acella haldemani
+Minnesota:2005:Acipenser fulvescens
+Minnesota:2005:Actinonaias ligamentina
+Minnesota:2005:Aechmophorus occidentalis
+Minnesota:2005:Aflexia rubranura
+Minnesota:2005:Agapetus tomus
+Minnesota:2005:Alasmidonta marginata
+Minnesota:2005:Alosa chrysochloris
+Minnesota:2005:Ammocrypta asprella
+Minnesota:2005:Ammocrypta clara
+Minnesota:2005:Ammodramus bairdii
+Minnesota:2005:Ammodramus leconteii
+Minnesota:2005:Ammodramus savannarum
+Minnesota:2005:Anas acuta
+Minnesota:2005:Anguilla Rostrata
+Minnesota:2005:Anthus spragueii
+Minnesota:2005:Arcidens confragosus
+Minnesota:2005:Arenaria interpres
+Minnesota:2005:Aythya affinis
+Minnesota:2005:Botaurus lentiginosus
+Minnesota:2005:Buteo lineatus
+Minnesota:2005:Calcarius ornatus
+Minnesota:2005:Calidris alpina
+Minnesota:2005:Calidris fuscicollis
+Minnesota:2005:Campeloma spp.
+Minnesota:2005:Canis lupus
+Minnesota:2005:Caprimulgus vociferus
+Minnesota:2005:Ceraclea vertreesi
+Minnesota:2005:Cervus elaphus
+Minnesota:2005:Charadrius melodus
+Minnesota:2005:Chilostigma itascae
+Minnesota:2005:Cicindela denikei
+Minnesota:2005:Cicindela fulgida westbournei
+Minnesota:2005:Cicindela hirticollis rhodensis
+Minnesota:2005:Cicindela patruela patruela
+Minnesota:2005:Cicindela splendida cyanocephalata
+Minnesota:2005:Cistothorus palustris
+Minnesota:2005:Cistothorus platensis
+Minnesota:2005:Clemmys insculpta
+Minnesota:2005:Cnemidophorus sexlineatus
+Minnesota:2005:Coccyzus erythropthalmus
+Minnesota:2005:Contopus cooperi
+Minnesota:2005:Contopus virens
+Minnesota:2005:Coregonus hoyi
+Minnesota:2005:Crotalus horridus
+Minnesota:2005:Cryptotis parva
+Minnesota:2005:Cumberlandia monodonta
+Minnesota:2005:Cyprinella lutrensis
+Minnesota:2005:Dendroica cerulea
+Minnesota:2005:Dendroica tigrina
+Minnesota:2005:Dolichonyx oryzivorus
+Minnesota:2005:Elaphe vulpina
+Minnesota:2005:Elliptio crassidens
+Minnesota:2005:Elliptio dilatata
+Minnesota:2005:Empidonax minimus
+Minnesota:2005:Empidonax traillii
+Minnesota:2005:Empidonax virescens
+Minnesota:2005:Emydoidea blandingii
+Minnesota:2005:Epidemia epixanthe michiganensis
+Minnesota:2005:Epioblasma triquetra
+Minnesota:2005:Erebia disa mancinus
+Minnesota:2005:Erimystax x-punctata
+Minnesota:2005:Erynnis persius
+Minnesota:2005:Etheostoma microperca
+Minnesota:2005:Euphyes bimacula illinois
+Minnesota:2005:Falcipennis canadensis
+Minnesota:2005:Felis concolor
+Minnesota:2005:Fundulus sciadicus
+Minnesota:2005:Fusconaia ebena
+Minnesota:2005:Gallinula chloropus
+Minnesota:2005:Gomphus crassus
+Minnesota:2005:Habronattus texanus
+Minnesota:2005:Haliaeetus leucocephalus
+Minnesota:2005:Hemidactylium scutatum
+Minnesota:2005:Hesperia dacotae
+Minnesota:2005:Hesperia leonardus leonardus
+Minnesota:2005:Heterodon nasicus
+Minnesota:2005:Hylocichla mustelina
+Minnesota:2005:Ichthyomyzon gagei
+Minnesota:2005:Isogenoides olivaceus
+Minnesota:2005:Isogenoides varians
+Minnesota:2005:Ixobrychus exilis
+Minnesota:2005:Lampropeltis triangulum
+Minnesota:2005:Lanius ludovicianus
+Minnesota:2005:Larus pipixcan
+Minnesota:2005:Lasmigona costata
+Minnesota:2005:Lepomis megalotis
+Minnesota:2005:Ligumia recta
+Minnesota:2005:Lycaeides melissa samuelis
+Minnesota:2005:Lynx canadensis
+Minnesota:2005:Lythrurus umbratilis
+Minnesota:2005:Megalonaias nervosa
+Minnesota:2005:Melanerpes erythrocephalus
+Minnesota:2005:Melospiza georgiana
+Minnesota:2005:Metaphidippus arizonensis
+Minnesota:2005:Microtus chrotorrhinus
+Minnesota:2005:Microtus ochrogaster
+Minnesota:2005:Microtus pinetorum
+Minnesota:2005:Moxostoma duquesnei
+Minnesota:2005:Moxostoma valenciennesi
+Minnesota:2005:Mustela nivalis
+Minnesota:2005:Necturus maculosus
+Minnesota:2005:Notropis anogenus
+Minnesota:2005:Notropis nubilus
+Minnesota:2005:Notropis topeka
+Minnesota:2005:Noturus exilis
+Minnesota:2005:Novasuccinea n. sp. minnesota a
+Minnesota:2005:Oeneis macounii
+Minnesota:2005:Oeneis uhleri varuna
+Minnesota:2005:Ophiogomphus anomalis
+Minnesota:2005:Ophiogomphus howei
+Minnesota:2005:Oporornis agilis
+Minnesota:2005:Oxyethira ecornuta
+Minnesota:2005:Oxyethira itascae
+Minnesota:2005:Papaipema beeriana
+Minnesota:2005:Paradamoetas fontana
+Minnesota:2005:Percina evides
+Minnesota:2005:Perognathus flavescens
+Minnesota:2005:Phalaropus tricolor
+Minnesota:2005:Phenacobius mirabilis
+Minnesota:2005:Phenacomys intermedius
+Minnesota:2005:Phidippus apacheanus
+Minnesota:2005:Picoides arcticus
+Minnesota:2005:Pipistrellus subflavus
+Minnesota:2005:Pituophis catenifer
+Minnesota:2005:Planorbella corpulenta
+Minnesota:2005:Platygobio gracilis
+Minnesota:2005:Plethodon cinereus
+Minnesota:2005:Pleurocera acuta
+Minnesota:2005:Podiceps auritus
+Minnesota:2005:Podiceps grisegena
+Minnesota:2005:Poecile hudsonica
+Minnesota:2005:Pyrgus centaureae freija
+Minnesota:2005:Quadrula metanevra
+Minnesota:2005:Rallus elegans
+Minnesota:2005:Rallus limicola
+Minnesota:2005:Recurvirostra americana
+Minnesota:2005:Reithrodontomys megalotis
+Minnesota:2005:Sassacus papenhoei
+Minnesota:2005:Scolopax minor
+Minnesota:2005:Seiurus motacilla
+Minnesota:2005:Setodes guttatus
+Minnesota:2005:Simpsonaias ambigua
+Minnesota:2005:Sistrurus catenatus
+Minnesota:2005:Speotyto cunicularia
+Minnesota:2005:Spilogale putorius
+Minnesota:2005:Spiza americana
+Minnesota:2005:Spizella pusilla
+Minnesota:2005:Stelgidopteryx serripennis
+Minnesota:2005:Sterna forsteri
+Minnesota:2005:Sterna hirundo
+Minnesota:2005:Tringa melanoleuca
+Minnesota:2005:Tritogonia verrucosa
+Minnesota:2005:Troglodytes troglodytes
+Minnesota:2005:Tutelina formicaria
+Minnesota:2005:Venustaconcha ellipsiformis
+Minnesota:2005:Vermivora chrysoptera
+Minnesota:2005:Vermivora pinus
+Minnesota:2005:Vertigo hubrichti hubrichti
+Minnesota:2005:Vertigo hubrichti variabilis n. subsp.
+Minnesota:2005:Vertigo hubrichti
+Mississippi:2005:Alosa alabamae
+Mississippi:2005:Ammocrypta meridiana
+Mississippi:2005:Amphiuma pholeter
+Mississippi:2005:Botaurus lentiginosus
+Mississippi:2005:Campephilus principalis
+Mississippi:2005:Charadrius melodus
+Mississippi:2005:Chelonia mydas
+Mississippi:2005:Columbina passerina
+Mississippi:2005:Coturnicops noveboracensis
+Mississippi:2005:Cryptobranchus alleganiensis
+Mississippi:2005:Cyprinella galactura
+Mississippi:2005:Cyprogenia aberti
+Mississippi:2005:Ellipsaria lineolata
+Mississippi:2005:Elliptio arctata
+Mississippi:2005:Etheostoma flabellare
+Mississippi:2005:Eumeces anthracinus pluvialis
+Mississippi:2005:Helmitheros vermivorus
+Mississippi:2005:Hobbseus cristatus
+Mississippi:2005:Hobbseus petilus
+Mississippi:2005:Ixobrychus exilis
+Mississippi:2005:Lampsilis straminea straminea
+Mississippi:2005:Lepidochelys kempii
+Mississippi:2005:Lexingtonia dolabelloides
+Mississippi:2005:Lythrurus fasciolaris
+Mississippi:2005:Masticophis flagellum
+Mississippi:2005:Moxostoma carinatum
+Mississippi:2005:Mustela frenata
+Mississippi:2005:Myotis austroriparius
+Mississippi:2005:Myotis septentrionalis
+Mississippi:2005:Notropis chalybaeus
+Mississippi:2005:Noturus munitus
+Mississippi:2005:Obovaria unicolor
+Mississippi:2005:Percina kathae
+Mississippi:2005:Peromyscus polionotus
+Mississippi:2005:Phoxinus erythrogaster
+Mississippi:2005:Pituophis melanoleucus lodingi
+Mississippi:2005:Potamilus capax
+Mississippi:2005:Potamilus inflatus
+Mississippi:2005:Procambarus penni
+Mississippi:2005:Procambarus shermani
+Mississippi:2005:Pseudacris brachyphona
+Mississippi:2005:Zapus hudsonius
+Montana:2005: Caenis youngi
+Montana:2005: Goereilla baumanni
+Montana:2005:Accipiter gentilis
+Montana:2005:Acipenser transmontanus
+Montana:2005:Acroloxus coloradensis
+Montana:2005:Adrityla cucullata
+Montana:2005:Aechmophorus clarkii
+Montana:2005:Aeshna subarctica
+Montana:2005:Ammodramus bairdii
+Montana:2005:Ammodramus leconteii
+Montana:2005:Ammodramus nelsoni
+Montana:2005:Ammodramus savannarum
+Montana:2005:Amphispiza belli
+Montana:2005:Anepeorus rusticus
+Montana:2005:Anthus spragueii
+Montana:2005:Antrozous pallidus
+Montana:2005:Apalone spinifera
+Montana:2005:Aquila chrysaetos
+Montana:2005:Ardea herodias
+Montana:2005:Athene cunicularia
+Montana:2005:Austrotyla montani
+Montana:2005:Blarina brevicauda
+Montana:2005:Boloria alberta
+Montana:2005:Boloria frigga
+Montana:2005:Bos bison
+Montana:2005:Botaurus lentifinosus
+Montana:2005:Brachylagus idahoensis
+Montana:2005:Bufo boreas
+Montana:2005:Bufo cognatus
+Montana:2005:Buteo regalis
+Montana:2005:Calcarius mccownii
+Montana:2005:Calcarius ornatus
+Montana:2005:Canis lupus
+Montana:2005:Carpodacus cassinii
+Montana:2005:Catharus fuscescens
+Montana:2005:Caurinella idahoensis
+Montana:2005:Centrocercus urophasianus
+Montana:2005:Certhia americana
+Montana:2005:Chaetodipus hispidus
+Montana:2005:Charadrius melodus
+Montana:2005:Charadrius montanus
+Montana:2005:Chelydra serpentina
+Montana:2005:Chlidonias niger
+Montana:2005:Cistothorus platensis
+Montana:2005:Coccyzus americanus
+Montana:2005:Coccyzus erythropthalmus
+Montana:2005:Coenagrion interrogatum
+Montana:2005:Colligyrus greggi
+Montana:2005:Corynorhinus townsendii
+Montana:2005:Corypus cochlearis
+Montana:2005:Cottus rhotheus
+Montana:2005:Cottus ricei
+Montana:2005:Coturnicops noveboracensis
+Montana:2005:Cryptobunus cavicolus
+Montana:2005:Cycleptus elongatus
+Montana:2005:Cygnus buccinator
+Montana:2005:Cynomys leucurus
+Montana:2005:Cynomys ludovicianus
+Montana:2005:Cypseloides niger
+Montana:2005:Dicamptodon aterrimus
+Montana:2005:Discus brunsoni
+Montana:2005:Discus shimekii
+Montana:2005:Dolichonyx oryzivorus
+Montana:2005:Dryocopus pileatus
+Montana:2005:Elgaria coerulea
+Montana:2005:Empidonax alnorum
+Montana:2005:Enallagma optimolocus
+Montana:2005:Endopus parvipes
+Montana:2005:Ephydatia cooperensis
+Montana:2005:Erebia magdalena
+Montana:2005:Erpetogomphus designatus
+Montana:2005:Erythemis collocata
+Montana:2005:Euderma maculatum
+Montana:2005:Eumeces skiltonianus
+Montana:2005:Euphydryas gillettii
+Montana:2005:Falco peregrinus
+Montana:2005:Fisherola nuttalli
+Montana:2005:Fluminicola fuscus
+Montana:2005:Gavia immer
+Montana:2005:Grus americana
+Montana:2005:Gulo gulo
+Montana:2005:Gymnorhinus cyanocephalus
+Montana:2005:Haliaeetus leucocephalus
+Montana:2005:Haplotrema vancouvernese
+Montana:2005:Hemphillia camelus
+Montana:2005:Hemphillia danielsi
+Montana:2005:Hesperia ottoe
+Montana:2005:Heterodon nasicus
+Montana:2005:Himantopus mexicanus
+Montana:2005:Histrionicus histrionicus
+Montana:2005:Homoeoneuria alleni
+Montana:2005:Hydroprogne caspia
+Montana:2005:Isocapnia crinita
+Montana:2005:Isocapnia integra
+Montana:2005:Isoperla petersoni
+Montana:2005:Kootenaia burkei
+Montana:2005:Lachlania saskatchewanensis
+Montana:2005:Lagopus leucurus
+Montana:2005:Lampropeltis triangulum
+Montana:2005:Lanius ludovicianus
+Montana:2005:Larus pipixcan
+Montana:2005:Lasiurus borealis
+Montana:2005:Lasiurus cinereus
+Montana:2005:Lednia tumana
+Montana:2005:Lepisosteus platostomus
+Montana:2005:Lepus californicus
+Montana:2005:Leucorrhinia borealis
+Montana:2005:Leucosticte atrata
+Montana:2005:Leucosticte tephrocotis
+Montana:2005:Lophomus laxus
+Montana:2005:Lynx canadensis
+Montana:2005:Macdunnoa nipawinia
+Montana:2005:Macrhybopsis gelida
+Montana:2005:Macrhybopsis meeki
+Montana:2005:Magnipelta mycophaga
+Montana:2005:Margariscus margarita
+Montana:2005:Margaritifera falcata
+Montana:2005:Martes pennanti
+Montana:2005:Melanerpes erythrocephalus
+Montana:2005:Melanerpes lewis
+Montana:2005:Microcylloepus browni
+Montana:2005:Mustela nigripes
+Montana:2005:Myotis septentrionalis
+Montana:2005:Myotis thysanodes
+Montana:2005:Nucifraga columbiana
+Montana:2005:Numenius americanus
+Montana:2005:Nycticorax nycticorax
+Montana:2005:Oncopodura cruciata
+Montana:2005:Oncorhynchus clarki bouvieri
+Montana:2005:Oncorhynchus clarki lewisi
+Montana:2005:Oncorhynchus mykiss gairdneri
+Montana:2005:Opheodrys vernalis
+Montana:2005:Oreohelix alpina
+Montana:2005:Oreohelix amariradix
+Montana:2005:Oreohelix carinifera
+Montana:2005:Oreohelix elrodi
+Montana:2005:Oreohelix strigosa berryi
+Montana:2005:Oreohelix yavapai
+Montana:2005:Oreoscoptes montanus
+Montana:2005:Orophe cabinetus
+Montana:2005:Orthogmus oculatus
+Montana:2005:Otus flammeolus
+Montana:2005:Pelecanus erythrorhynchos
+Montana:2005:Percopsis omiscomaycus
+Montana:2005:Perognathus parvus
+Montana:2005:Phoxinus eos x Phoxinus neogaeus
+Montana:2005:Phrynosoma hernandesi
+Montana:2005:Physa Physa megalochlamys
+Montana:2005:Picoides arcticus
+Montana:2005:Plegadis chihi
+Montana:2005:Plethodon idahoensis
+Montana:2005:Podiceps auritus
+Montana:2005:Poecile hudsonica
+Montana:2005:Polioptila caerulea
+Montana:2005:Polygonia progne
+Montana:2005:Polygyrella polygyrella
+Montana:2005:Polyodon spathula
+Montana:2005:Prophysaon andersoni
+Montana:2005:Prophysaon humile
+Montana:2005:Pyrgulopsis bedfordensis
+Montana:2005:Rana pipiens (Intermountain valleys)
+Montana:2005:Raptoheptagenia cruentata
+Montana:2005:Rhyacophila alexanderi
+Montana:2005:Rhyacophila ebria
+Montana:2005:Rhyacophila gemona
+Montana:2005:Rhyacophila glaciera
+Montana:2005:Rhyacophila newelli
+Montana:2005:Rhyacophila potteri
+Montana:2005:Rhyacophila rickeri
+Montana:2005:Rossiana montana
+Montana:2005:Salmasellus steganothrix
+Montana:2005:Salvelinus confluentus
+Montana:2005:Salvelinus namaycush
+Montana:2005:Sander canadensis
+Montana:2005:Scaphirhynchus albus
+Montana:2005:Sceloporus graciosus
+Montana:2005:Soliperla salish
+Montana:2005:Somatochlora walshii
+Montana:2005:Sorex arcticus
+Montana:2005:Sorex merriami
+Montana:2005:Sorex nanus
+Montana:2005:Sorex preblei
+Montana:2005:Soyedina potteri
+Montana:2005:Spea bombifrons
+Montana:2005:Spilogale gracilis
+Montana:2005:Spizella breweri
+Montana:2005:Sterna forsteri
+Montana:2005:Sterna hirundo
+Montana:2005:Sternula antillarum
+Montana:2005:Strix nebulosa
+Montana:2005:Stygobromus glacialis
+Montana:2005:Stygobromus montanensis
+Montana:2005:Stygobromus obscurus
+Montana:2005:Stygobromus puteanus
+Montana:2005:Stygobromus tritus
+Montana:2005:Stylurus intricatus
+Montana:2005:Synaptomys borealis
+Montana:2005:Taiyutyla curvata
+Montana:2005:Tamias umbrinus
+Montana:2005:Thymallus arcticus
+Montana:2005:Troglodytes troglodytes
+Montana:2005:Tympanuchus phasianellus columbianus
+Montana:2005:Udosarx lyrata
+Montana:2005:Ursus arctos
+Montana:2005:Utacapnia columbiana
+Montana:2005:Vulpes velox
+Montana:2005:Zacoleus idahoensis
+Montana:2005:Zaitzevia thermae
+Montana:2005:Zapada cordillera
+Montana:2005:Zapada glacier
+Montana:2005:Zapus hudsonius
+Montana:2015:Acipenser transmontanus
+Montana:2015:Anaxyrus boreas
+Montana:2015:Blarina brevicauda
+Montana:2015:Bos bison
+Montana:2015:Calcarius ornatus
+Montana:2015:Centrocercus urophasianus
+Montana:2015:Charadrius melodus
+Montana:2015:Charadrius montanus
+Montana:2015:Cycleptus elongatus
+Montana:2015:Cynomys leucurus
+Montana:2015:Cypseloides niger
+Montana:2015:Dicamptodon aterrimus
+Montana:2015:Heterodon nasicus
+Montana:2015:Histrionicus histrionicus
+Montana:2015:Hydroprogne caspia
+Montana:2015:Lampropeltis gentilis
+Montana:2015:Lepisosteus platostomus
+Montana:2015:Leucosticte atrata
+Montana:2015:Leucosticte tephrocotis
+Montana:2015:Lithobates pipiens
+Montana:2015:Macrhybopsis gelida
+Montana:2015:Macrhybopsis meeki
+Montana:2015:Margariscus margarita
+Montana:2015:Margaritifera falcata
+Montana:2015:Melanerpes lewis
+Montana:2015:Mustela nigripes
+Montana:2015:Oncorhynchus clarkii bouvieri
+Montana:2015:Oncorhynchus mykiss gairdneri
+Montana:2015:Opheodrys vernalis
+Montana:2015:Percopsis omiscomaycus
+Montana:2015:Plethodon idahoensis
+Montana:2015:Polioptila caerulea
+Montana:2015:Polyodon spathula
+Montana:2015:Salvelinus confluentus
+Montana:2015:Salvelinus namaycush
+Montana:2015:Sorex nanus
+Montana:2015:Sternula antillarum
+Montana:2015:Synaptomys borealis
+Montana:2015:Thymallus arcticus
+Montana:2015:Tympanuchus phasianellus
+Nevada:2015:Accipiter gentilis
+Nevada:2015:Actinemys marmorata marmorata
+Nevada:2015:Agelaius tricolor
+Nevada:2015:Amphispiza belli
+Nevada:2015:Anas acuta
+Nevada:2015:Anaxyrus boreas
+Nevada:2015:Anaxyrus cognatus
+Nevada:2015:Anaxyrus microscaphus
+Nevada:2015:Anaxyrus nelsoni
+Nevada:2015:Anodonta californiensis
+Nevada:2015:Aplodontia rufa californica
+Nevada:2015:Aquila chrysaetos
+Nevada:2015:Asio flammeus 
+Nevada:2015:Athene cunicularia hypugaea
+Nevada:2015:Aythya americana
+Nevada:2015:Aythya valisineria
+Nevada:2015:Botaurus lentiginosus
+Nevada:2015:Brachylagus idahoensis
+Nevada:2015:Buteo regalis
+Nevada:2015:Calidris mauri
+Nevada:2015:Carpodacus cassinii
+Nevada:2015:Catostomus clarkii intermedius
+Nevada:2015:Catostomus clarkii ssp. (unnamed)
+Nevada:2015:Catostomus latipinnis
+Nevada:2015:Catostomus sp.
+Nevada:2015:Centrocercus urophasianus 
+Nevada:2015:Chaetodipus penicillatus
+Nevada:2015:Charadrius alexandrinus nivosus
+Nevada:2015:Charina bottae
+Nevada:2015:Chasmistes cujus
+Nevada:2015:Chionactis occipitalis
+Nevada:2015:Chlidonias niger
+Nevada:2015:Chordeiles minor
+Nevada:2015:Coccyzus americanus occidentalis
+Nevada:2015:Colaptes chrysoides
+Nevada:2015:Coleonyx variegatus
+Nevada:2015:Contopus cooperi
+Nevada:2015:Corynorhinus townsendii
+Nevada:2015:Crenichthys baileyi albivallis
+Nevada:2015:Crenichthys baileyi baileyi
+Nevada:2015:Crenichthys baileyi grandis 
+Nevada:2015:Crenichthys baileyi moapae
+Nevada:2015:Crenichthys baileyi thermophilus
+Nevada:2015:Crenichthys nevadae
+Nevada:2015:Crotalus cerastes
+Nevada:2015:Crotaphytus bicinctores
+Nevada:2015:Cyprinodon diabolis
+Nevada:2015:Cyprinodon nevadensis mionectes
+Nevada:2015:Cyrpinodon nevadensis pectoralis
+Nevada:2015:Dendragapus obscurus
+Nevada:2015:Dengragapus fuliginosus
+Nevada:2015:Diadophis punctatus
+Nevada:2015:Dipodomys deserti
+Nevada:2015:Dipsosaurus dorsalis
+Nevada:2015:Dolichonyx oryzivorus
+Nevada:2015:Elgaria coerulea palmeri
+Nevada:2015:Elgaria coerulea shastensis
+Nevada:2015:Elgaria panamintina 
+Nevada:2015:Empetrichthys latos latos
+Nevada:2015:Empidonax traillii adastus
+Nevada:2015:Empidonax traillii brewsteri
+Nevada:2015:Empidonax traillii extimus
+Nevada:2015:Eremichthys acros 
+Nevada:2015:Eremopyrgus eganensis
+Nevada:2015:Euderma maculatum
+Nevada:2015:Falco mexicanus 
+Nevada:2015:Falco peregrinus 
+Nevada:2015:Fluminicola dalli
+Nevada:2015:Fluminicola turbiniformis
+Nevada:2015:Fluminicola virginius
+Nevada:2015:Gambelia wislizenii
+Nevada:2015:Gavia immer
+Nevada:2015:Gila alvordensis
+Nevada:2015:Gila bicolor eurysoma
+Nevada:2015:Gila bicolor isolata
+Nevada:2015:Gila bicolor ssp. (unnamed)
+Nevada:2015:Gila bicolor ssp. (unnamed)
+Nevada:2015:Gila bicolor ssp. (unnamed)
+Nevada:2015:Gila bicolor ssp. (unnamed)
+Nevada:2015:Gila bicolor ssp. 9
+Nevada:2015:Gila elegans
+Nevada:2015:Gila robusta jordani
+Nevada:2015:Gila seminuda pop. 2
+Nevada:2015:Glaucomys sabrinus
+Nevada:2015:Gopherus agassizii
+Nevada:2015:Grus canadensis tabida 
+Nevada:2015:Gymnorhinus cyanocephalus
+Nevada:2015:Haliaeetus leucocephalus
+Nevada:2015:Heloderma suspectum
+Nevada:2015:Icterus parisorum
+Nevada:2015:Idionycteris phyllotis
+Nevada:2015:Ixobrychus exilis hesperis
+Nevada:2015:Juga interioris
+Nevada:2015:Lampropeltis pyromelana
+Nevada:2015:Lanius ludovicianus
+Nevada:2015:Lasionycteris noctivagans
+Nevada:2015:Lasiurus blossevillii
+Nevada:2015:Lasiurus cinereus
+Nevada:2015:Lemmiscus curtatus
+Nevada:2015:Lepidomeda albivallis
+Nevada:2015:Lepidomeda mollispinis mollispinis
+Nevada:2015:Lepidomeda mollispinis pratensis
+Nevada:2015:Lepus americanus tahoensis
+Nevada:2015:Leucosticte atrata
+Nevada:2015:Leucosticte tephrocotis
+Nevada:2015:Lichanura trivirgata
+Nevada:2015:Limnodromus scolopaceus
+Nevada:2015:Lithobates onca
+Nevada:2015:Lithobates pipiens
+Nevada:2015:Lontra canadensis
+Nevada:2015:Macrotus californicus
+Nevada:2015:Martes americana
+Nevada:2015:Melanerpes lewis
+Nevada:2015:Microdipodops megacephalus
+Nevada:2015:Microdipodops pallidus
+Nevada:2015:Microtus montanus fucosus 
+Nevada:2015:Moapa coriacea
+Nevada:2015:Myotis ciliolabrum
+Nevada:2015:Myotis evotis
+Nevada:2015:Myotis lucifugus
+Nevada:2015:Myotis thysanodes
+Nevada:2015:Myotis velifer
+Nevada:2015:Neotamias amoenus celeris
+Nevada:2015:Neotamias palmeri
+Nevada:2015:Neotamias senex
+Nevada:2015:Numenius americanus
+Nevada:2015:Ochotona princeps
+Nevada:2015:Odocoileus hemionus
+Nevada:2015:Oncorhynchus clarkii bouvieri
+Nevada:2015:Oncorhynchus clarkii henshawi
+Nevada:2015:Oncorhynchus mykiss pop. 4
+Nevada:2015:Oreortyx pictus
+Nevada:2015:Oreoscoptes montanus 
+Nevada:2015:Otus flammeolus
+Nevada:2015:Ovis canadensis
+Nevada:2015:Pelecanus erythrorhynchos
+Nevada:2015:Phalaropus lobatus 
+Nevada:2015:Phalaropus tricolor
+Nevada:2015:Phrynosoma douglasii
+Nevada:2015:Phrynosoma hernandesi
+Nevada:2015:Phrynosoma platyrhinos
+Nevada:2015:Phyllorhynchus decurtatus
+Nevada:2015:Picoides albolarvatus
+Nevada:2015:Plagopterus argentissimus
+Nevada:2015:Plegadis chihi
+Nevada:2015:Plestiodon gilberti rubricaudatus
+Nevada:2015:Prosopium williamsoni
+Nevada:2015:Pyrgulopsis aloba
+Nevada:2015:Pyrgulopsis anatina
+Nevada:2015:Pyrgulopsis anguina
+Nevada:2015:Pyrgulopsis augustae
+Nevada:2015:Pyrgulopsis aurata
+Nevada:2015:Pyrgulopsis avernalis
+Nevada:2015:Pyrgulopsis basiglans
+Nevada:2015:Pyrgulopsis bifurcata
+Nevada:2015:Pyrgulopsis breviloba
+Nevada:2015:Pyrgulopsis bruesi
+Nevada:2015:Pyrgulopsis carinifera
+Nevada:2015:Pyrgulopsis coloradensis
+Nevada:2015:Pyrgulopsis cruciglans
+Nevada:2015:Pyrgulopsis crystalis
+Nevada:2015:Pyrgulopsis deaconi
+Nevada:2015:Pyrgulopsis dixensis
+Nevada:2015:Pyrgulopsis erythropoma
+Nevada:2015:Pyrgulopsis fairbanksensis
+Nevada:2015:Pyrgulopsis fausta
+Nevada:2015:Pyrgulopsis gracilis
+Nevada:2015:Pyrgulopsis hovinghi
+Nevada:2015:Pyrgulopsis hubbsi
+Nevada:2015:Pyrgulopsis humboldtensis
+Nevada:2015:Pyrgulopsis imperialis
+Nevada:2015:Pyrgulopsis isolata
+Nevada:2015:Pyrgulopsis landyei
+Nevada:2015:Pyrgulopsis lata
+Nevada:2015:Pyrgulopsis leporina
+Nevada:2015:Pyrgulopsis limaria
+Nevada:2015:Pyrgulopsis lockensis
+Nevada:2015:Pyrgulopsis marcida
+Nevada:2015:Pyrgulopsis merriami
+Nevada:2015:Pyrgulopsis micrococcus
+Nevada:2015:Pyrgulopsis militaris
+Nevada:2015:Pyrgulopsis millenaria
+Nevada:2015:Pyrgulopsis montana
+Nevada:2015:Pyrgulopsis nanus
+Nevada:2015:Pyrgulopsis neritella
+Nevada:2015:Pyrgulopsis notidicola
+Nevada:2015:Pyrgulopsis orbiculata
+Nevada:2015:Pyrgulopsis papillata
+Nevada:2015:Pyrgulopsis peculiaris
+Nevada:2015:Pyrgulopsis pellita
+Nevada:2015:Pyrgulopsis pictilis
+Nevada:2015:Pyrgulopsis pisteri
+Nevada:2015:Pyrgulopsis planulata
+Nevada:2015:Pyrgulopsis sadai
+Nevada:2015:Pyrgulopsis sathos
+Nevada:2015:Pyrgulopsis serrata
+Nevada:2015:Pyrgulopsis sterilis
+Nevada:2015:Pyrgulopsis sublata
+Nevada:2015:Pyrgulopsis sulcata
+Nevada:2015:Pyrgulopsis turbatrix
+Nevada:2015:Pyrgulopsis umbilicata
+Nevada:2015:Pyrgulopsis variegata
+Nevada:2015:Pyrgulopsis villacampae
+Nevada:2015:Pyrgulopsis vinyardi
+Nevada:2015:Pyrgulopsis wongi
+Nevada:2015:Rallus longirostris yumanensis
+Nevada:2015:Rana luteiventris pop. 3
+Nevada:2015:Rana sierra
+Nevada:2015:Recurvirostra americana
+Nevada:2015:Relictus solitarius
+Nevada:2015:Rena humilis
+Nevada:2015:Rhinichthys osculus lariversi
+Nevada:2015:Rhinichthys osculus lethoporus
+Nevada:2015:Rhinichthys osculus moapae
+Nevada:2015:Rhinichthys osculus nevadensis
+Nevada:2015:Rhinichthys osculus oligoporus
+Nevada:2015:Rhinichthys osculus ssp. (unnamed)
+Nevada:2015:Rhinichthys osculus ssp. (unnamed)
+Nevada:2015:Rhinichthys osculus ssp. (unnamed)
+Nevada:2015:Rhinichthys osculus ssp. (unnamed)
+Nevada:2015:Rhinichthys osculus ssp. 7
+Nevada:2015:Rhinichthys osculus velifer
+Nevada:2015:Riparia riparia
+Nevada:2015:Salvelinus confluentus pop. 4
+Nevada:2015:Sauromalus ater
+Nevada:2015:Selasphorus rufus
+Nevada:2015:Sorex merriami
+Nevada:2015:Sorex monticolus
+Nevada:2015:Sorex palustris
+Nevada:2015:Sorex preblei
+Nevada:2015:Sorex tenellus
+Nevada:2015:Spea intermontana
+Nevada:2015:Spermophilus elegans nevadensis
+Nevada:2015:Spizella atrogularis
+Nevada:2015:Spizella breweri
+Nevada:2015:Strix occidentalis occidentalis
+Nevada:2015:Tadarida brasiliensis
+Nevada:2015:Tantilla hobartsmithi
+Nevada:2015:Thomomys monticola
+Nevada:2015:Toxostoma bendirei
+Nevada:2015:Toxostoma lecontei
+Nevada:2015:Tryonia angulata 
+Nevada:2015:Tryonia clathrata
+Nevada:2015:Tryonia elata
+Nevada:2015:Tryonia ericae
+Nevada:2015:Tryonia monitorae
+Nevada:2015:Tryonia variegata
+Nevada:2015:Tympanuchus phasianellus columbianus
+Nevada:2015:Urosaurus graciosus
+Nevada:2015:Vermivora virginiae
+Nevada:2015:Vireo bellii
+Nevada:2015:Xantusia vigilis
+Nevada:2015:Xyrauchen texanus
+Nevada:2015:Zapus princeps
+Nevada:2015:gila seminuda
+Nevada:2015:thomomys bottae
+New Hampshire:2005:Accipiter cooperii
+New Hampshire:2005:Accipiter gentilis
+New Hampshire:2005:Acipenser brevirostrum
+New Hampshire:2005:Acipenser oxyrhynchus
+New Hampshire:2005:Alasmidonta heterodon
+New Hampshire:2005:Alasmidonta varicosa
+New Hampshire:2005:Alosa pseudoharengus
+New Hampshire:2005:Alosa sapidissima
+New Hampshire:2005:Ambystoma jeffersonianum
+New Hampshire:2005:Ambystoma laterale
+New Hampshire:2005:Ambystoma opacum
+New Hampshire:2005:Ammodramus caudacutus
+New Hampshire:2005:Ammodramus maritimus
+New Hampshire:2005:Ammodramus nelsoni
+New Hampshire:2005:Ammodramus savannarum
+New Hampshire:2005:Anas rubripes
+New Hampshire:2005:Anguilla rostrata
+New Hampshire:2005:Anthus rubescens
+New Hampshire:2005:Aquila chrysaetos
+New Hampshire:2005:Ardea herodias
+New Hampshire:2005:Bartramia longicauda
+New Hampshire:2005:Boloria titania montinus
+New Hampshire:2005:Bonasa umbellus
+New Hampshire:2005:Botaurus lentiginosus
+New Hampshire:2005:Bufo fowleri formerly Bufo woodhousii fowleri
+New Hampshire:2005:Buteo lineatus
+New Hampshire:2005:Calidris maritima
+New Hampshire:2005:Calidris pusilla
+New Hampshire:2005:Callophrys (Incisalia) irus
+New Hampshire:2005:Canis lupus lycaon
+New Hampshire:2005:Caprimulgus vociferous
+New Hampshire:2005:Caprodacus purpureus
+New Hampshire:2005:Catharus bicknelli
+New Hampshire:2005:Catoptrophorus semipalmatus
+New Hampshire:2005:Cepphus grylle
+New Hampshire:2005:Cerma cora
+New Hampshire:2005:Charadrius melodus
+New Hampshire:2005:Chordeiles minor
+New Hampshire:2005:Cicindela marginipennis
+New Hampshire:2005:Cicindela puritana
+New Hampshire:2005:Circus cyaneus
+New Hampshire:2005:Cistothorus platensis
+New Hampshire:2005:Clemmys guttata
+New Hampshire:2005:Coluber constrictor constrictor
+New Hampshire:2005:Coregonus clupeaformis
+New Hampshire:2005:Cottus cognatus
+New Hampshire:2005:Crotalus horridus
+New Hampshire:2005:Dendroica castanea
+New Hampshire:2005:Dendroica cerulea
+New Hampshire:2005:Dendroica palmarum
+New Hampshire:2005:Emydoidea blandingii
+New Hampshire:2005:Enneacanthus obesus
+New Hampshire:2005:Erastria coloraria
+New Hampshire:2005:Eremophila alpestris
+New Hampshire:2005:Erynnis baptisiae
+New Hampshire:2005:Erynnis brizo brizo
+New Hampshire:2005:Erynnis persius persius
+New Hampshire:2005:Esox americanus americanus
+New Hampshire:2005:Etheostoma fusiforme
+New Hampshire:2005:Etheostoma olmstedi
+New Hampshire:2005:Euphagus carolinus
+New Hampshire:2005:Falcipennis canadensis
+New Hampshire:2005:Falco peregrinus
+New Hampshire:2005:Gallinula chloropus
+New Hampshire:2005:Gavia immer
+New Hampshire:2005:Glyptemys insculpta
+New Hampshire:2005:Grammia phyllira
+New Hampshire:2005:Haliaeetus leucophalus
+New Hampshire:2005:Heterodon platirhinos
+New Hampshire:2005:Itame sp. 1
+New Hampshire:2005:Ixobrychus exilis
+New Hampshire:2005:Lampetra appendix
+New Hampshire:2005:Lasionycteris noctivagans
+New Hampshire:2005:Lasiurus borealis
+New Hampshire:2005:Lasiurus cinereus
+New Hampshire:2005:Ligumia nasuta
+New Hampshire:2005:Lithophane lepida lepida
+New Hampshire:2005:Lota lota
+New Hampshire:2005:Lycaeides melissa samuelis
+New Hampshire:2005:Lynx canadensis
+New Hampshire:2005:Lynx rufus
+New Hampshire:2005:Martes americana
+New Hampshire:2005:Myotis leibii
+New Hampshire:2005:Myotis septentrionalis
+New Hampshire:2005:Myotis sodalis
+New Hampshire:2005:Notropis bifrenatus
+New Hampshire:2005:Oeneis melissa semidea
+New Hampshire:2005:Opheodrys vernalis
+New Hampshire:2005:Osmerus mordax
+New Hampshire:2005:Pandion haliaetus
+New Hampshire:2005:Petromyzon marinus
+New Hampshire:2005:Phoxinus eos
+New Hampshire:2005:Phoxinus neogaeus
+New Hampshire:2005:Picoides dorsalis
+New Hampshire:2005:Pipilo erythrophthalamus
+New Hampshire:2005:Pipistrellus subflavus
+New Hampshire:2005:Podilymbus podiceps
+New Hampshire:2005:Pomolobus aestivalis
+New Hampshire:2005:Pooecetes gramineus
+New Hampshire:2005:Progne subis
+New Hampshire:2005:Prosopium cylindraceum
+New Hampshire:2005:Rana pipiens
+New Hampshire:2005:Rana septentrionalis
+New Hampshire:2005:Salmo salar
+New Hampshire:2005:Salvelinus aureolus
+New Hampshire:2005:Salvelinus fontinalis
+New Hampshire:2005:Salvelinus namaycush
+New Hampshire:2005:Scolopax minor
+New Hampshire:2005:Sterna antillarum
+New Hampshire:2005:Sterna dougallii
+New Hampshire:2005:Sterna hirundo
+New Hampshire:2005:Sterna paradisaea
+New Hampshire:2005:Sturnella magna
+New Hampshire:2005:Sylvilagus transitionalis
+New Hampshire:2005:Synaptomys borealis sphagnicola
+New Hampshire:2005:Terrapene carolina carolina
+New Hampshire:2005:Thamnophis sauritus
+New Hampshire:2005:Vermivora chrysoptera
+New Hampshire:2005:Williamsonia lintneri
+New Hampshire:2005:Xylotype capax
+New Hampshire:2005:Zanclognatha martha
+Puerto Rico:2005:Accipiter striatus venator
+Puerto Rico:2005:Amazona vittata vittata
+Puerto Rico:2005:Ammodramus savannarum
+Puerto Rico:2005:Anguilla rostrata
+Puerto Rico:2005:Anolis cooki
+Puerto Rico:2005:Anous stolidus
+Puerto Rico:2005:Anthracothorax viridis
+Puerto Rico:2005:Aratus pisonii
+Puerto Rico:2005:Asio flammeus
+Puerto Rico:2005:Balaenoptera borealis
+Puerto Rico:2005:Buteo platypterus brunnescens
+Puerto Rico:2005:Calidris canutus
+Puerto Rico:2005:Calidris himantopus
+Puerto Rico:2005:Caprimulgus noctitherus
+Puerto Rico:2005:Cardisoma guanhumi
+Puerto Rico:2005:Carduelis cucullata
+Puerto Rico:2005:Centropomus ensiferus
+Puerto Rico:2005:Charadrius wilsonia
+Puerto Rico:2005:Chelonia mydas
+Puerto Rico:2005:Coccyzus minor
+Puerto Rico:2005:Cyclura cornuta stejnegeri
+Puerto Rico:2005:Dendroica angelae
+Puerto Rico:2005:Dendroica caerulescens
+Puerto Rico:2005:Dormitator maculatus
+Puerto Rico:2005:Eleutherodactylus cooki
+Puerto Rico:2005:Eleutherodactylus eneidae
+Puerto Rico:2005:Eleutherodactylus gryllus
+Puerto Rico:2005:Eleutherodactylus hedricki
+Puerto Rico:2005:Eleutherodactylus jasperi
+Puerto Rico:2005:Eleutherodactylus juanriveroi
+Puerto Rico:2005:Eleutherodactylus locustus
+Puerto Rico:2005:Eleutherodactylus portoricensis
+Puerto Rico:2005:Eleutherodactylus richmondi
+Puerto Rico:2005:Eleutherodactylus unicolor
+Puerto Rico:2005:Eleutherodactylus wightmanae
+Puerto Rico:2005:Epicrates inornatus
+Puerto Rico:2005:Epicrates monensis granti
+Puerto Rico:2005:Epinephelus itajara
+Puerto Rico:2005:Eptesicus fuscus
+Puerto Rico:2005:Equetus lanceolatus
+Puerto Rico:2005:Eretmochelys imbricata
+Puerto Rico:2005:Erophylla sezekorni
+Puerto Rico:2005:Gecarcinus lateralis
+Puerto Rico:2005:Geotrygon mystacea
+Puerto Rico:2005:Gobiesox nudus
+Puerto Rico:2005:Gobiomorus dormitor
+Puerto Rico:2005:Goniopsis cruentata
+Puerto Rico:2005:Guavina guavina
+Puerto Rico:2005:Hippocampus spp.
+Puerto Rico:2005:Icterus dominicensis
+Puerto Rico:2005:Ixobrychus exilis
+Puerto Rico:2005:Kogia breviceps
+Puerto Rico:2005:Loxigilla portoricensis
+Puerto Rico:2005:Mabuya mabouya sloani
+Puerto Rico:2005:Macrobrachium acanthurus
+Puerto Rico:2005:Macrobrachium faustinum
+Puerto Rico:2005:Macrobrachium heterochirus
+Puerto Rico:2005:Malanorhinus boeki
+Puerto Rico:2005:Megaptera novaeangliae
+Puerto Rico:2005:Megascops nudipes
+Puerto Rico:2005:Melanerpes portoricensis
+Puerto Rico:2005:Microphis brachyurus
+Puerto Rico:2005:Molossus molossus
+Puerto Rico:2005:Monophyllus redmani
+Puerto Rico:2005:Mulloidichthys martinicus
+Puerto Rico:2005:Nesospingus speculiferus
+Puerto Rico:2005:Nomonix dominicus
+Puerto Rico:2005:Orcinus orca
+Puerto Rico:2005:Orthorynchus cristatus
+Puerto Rico:2005:Panulirus laevicauda
+Puerto Rico:2005:Parula americana
+Puerto Rico:2005:Patagioenas inornata wetmorei
+Puerto Rico:2005:Patagioenas leucocephala
+Puerto Rico:2005:Pelecanus occidentalis
+Puerto Rico:2005:Peltophryne lemur
+Puerto Rico:2005:Phaethon aethereus
+Puerto Rico:2005:Phaethon lepturus
+Puerto Rico:2005:Podilymbus podiceps
+Puerto Rico:2005:Pomadasys crocro
+Puerto Rico:2005:Porzana flaviventer
+Puerto Rico:2005:Pseudophalus mindii
+Puerto Rico:2005:Pseudorca crassidens
+Puerto Rico:2005:Pterochelidon fulva
+Puerto Rico:2005:Pteronotus parnellii
+Puerto Rico:2005:Puffinus iherminieri
+Puerto Rico:2005:Sabellastarte magnifica
+Puerto Rico:2005:Saurothera vieilloti
+Puerto Rico:2005:Seiurus novaboracensis
+Puerto Rico:2005:Setophaga ruticilla
+Puerto Rico:2005:Sphaerodactylus micropithecus
+Puerto Rico:2005:Stenella coeruleoalba
+Puerto Rico:2005:Stenella frontalis
+Puerto Rico:2005:Stenella longirostris
+Puerto Rico:2005:Steno bredanensis
+Puerto Rico:2005:Sterna dougalli
+Puerto Rico:2005:Sula sula
+Puerto Rico:2005:Tachybaptus dominicus
+Puerto Rico:2005:Tadarida brasiliensis
+Puerto Rico:2005:Trachemys stejnegeri
+Puerto Rico:2005:Trichechus manatus
+Puerto Rico:2005:Typhlatya monae
+Puerto Rico:2005:Typhlops granti
+Puerto Rico:2005:Uca leptodactyla
+Puerto Rico:2005:Uca major
+Puerto Rico:2005:Uca thayeri
+Puerto Rico:2005:Ucides cordatus
+Puerto Rico:2005:Vireo altiloquus
+Puerto Rico:2005:Vireo latimeri
+Tennessee:2005:Accipiter striatus
+Tennessee:2005:Acipenser fulvescens
+Tennessee:2005:Acris gryllus
+Tennessee:2005:Actinonaias pectorosa
+Tennessee:2005:Aegolius acadicus
+Tennessee:2005:Agarodes stannardi
+Tennessee:2005:Aimophila aestivalis
+Tennessee:2005:Alasmidonta atropurpurea
+Tennessee:2005:Alasmidonta marginata
+Tennessee:2005:Alasmidonta raveneliana
+Tennessee:2005:Alasmidonta viridis
+Tennessee:2005:Allocapnia brooksi
+Tennessee:2005:Allocapnia cunninghami
+Tennessee:2005:Allocapnia fumosa
+Tennessee:2005:Allocapnia perplexa
+Tennessee:2005:Aloconota diversiseta
+Tennessee:2005:Amblyscirtes linda
+Tennessee:2005:Ambystoma barbouri
+Tennessee:2005:Amergoniscus nicholasi
+Tennessee:2005:Amergoniscus paynei
+Tennessee:2005:Ammocrypta beani
+Tennessee:2005:Ammocrypta clara
+Tennessee:2005:Ammocrypta vivax
+Tennessee:2005:Ammodramus henslowii
+Tennessee:2005:Ammodramus savannarum
+Tennessee:2005:Amphinemura mockfordi
+Tennessee:2005:Aneides aeneus
+Tennessee:2005:Anguispira alabama
+Tennessee:2005:Anguispira cumberlandiana
+Tennessee:2005:Anguispira knoxensis
+Tennessee:2005:Anguispira kochi
+Tennessee:2005:Anguispira picta
+Tennessee:2005:Anhinga anhinga
+Tennessee:2005:Anillinus sp.
+Tennessee:2005:Anolis carolinensis
+Tennessee:2005:Apalone mutica
+Tennessee:2005:Apalone spinifera
+Tennessee:2005:Appaleptoneta sp. 1
+Tennessee:2005:Appaleptoneta sp.
+Tennessee:2005:Aquila chrysaetos
+Tennessee:2005:Ardea alba
+Tennessee:2005:Arrhopalites sp.
+Tennessee:2005:Asio flammeus
+Tennessee:2005:Atheta lucifuga
+Tennessee:2005:Bactrurus angulus
+Tennessee:2005:Barbicambarus cornutus
+Tennessee:2005:Bartramia longicauda
+Tennessee:2005:Batriasymmodes jeanneli
+Tennessee:2005:Batriasymmodes quisnamus
+Tennessee:2005:Batrisodes barri
+Tennessee:2005:Batrisodes clypeospecus
+Tennessee:2005:Batrisodes ferulifer
+Tennessee:2005:Batrisodes gemmoides
+Tennessee:2005:Batrisodes gemmus
+Tennessee:2005:Batrisodes pannosus
+Tennessee:2005:Batrisodes valentinei
+Tennessee:2005:Botaurus lentiginosus
+Tennessee:2005:Caecidotea circulus
+Tennessee:2005:Caecidotea incurva
+Tennessee:2005:Caecidotea nickajackensis
+Tennessee:2005:Caecidotea nortoni
+Tennessee:2005:Caecidotea recurvata
+Tennessee:2005:Caecidotea scyphus
+Tennessee:2005:Caecidotea stygia
+Tennessee:2005:Calidris canutus
+Tennessee:2005:Calidris himantopus
+Tennessee:2005:Calidris mauri
+Tennessee:2005:Callioplus pantoplus
+Tennessee:2005:Callophrys irus
+Tennessee:2005:Calohypsibius schusteri
+Tennessee:2005:Cambarincola alienus
+Tennessee:2005:Cambarincola leptadenus
+Tennessee:2005:Cambarincola marthae
+Tennessee:2005:Cambarus angularis
+Tennessee:2005:Cambarus bouchardi
+Tennessee:2005:Cambarus brachydactylus
+Tennessee:2005:Cambarus conasaugaensis
+Tennessee:2005:Cambarus crinipes
+Tennessee:2005:Cambarus cymatilis
+Tennessee:2005:Cambarus deweesae
+Tennessee:2005:Cambarus extraneus
+Tennessee:2005:Cambarus hamulatus
+Tennessee:2005:Cambarus hiwasseensis
+Tennessee:2005:Cambarus manningi
+Tennessee:2005:Cambarus obeyensis
+Tennessee:2005:Cambarus pristinus
+Tennessee:2005:Cambarus sp. 1
+Tennessee:2005:Cambarus williami
+Tennessee:2005:Caprimulgus carolinensis
+Tennessee:2005:Caprimulgus vociferus
+Tennessee:2005:Carpiodes velifer
+Tennessee:2005:Carychium stygium
+Tennessee:2005:Ceratopsyche etnieri
+Tennessee:2005:Certhia americana
+Tennessee:2005:Chaetaspis mollis
+Tennessee:2005:Chaetaspis sp. 1
+Tennessee:2005:Charadrius alexandrinus
+Tennessee:2005:Charadrius melodus melodus
+Tennessee:2005:Charadrius wilsonia
+Tennessee:2005:Cheumatopsyche helma
+Tennessee:2005:Chitrella archeri
+Tennessee:2005:Chondestes grammacus
+Tennessee:2005:Cicindela ancocisconensis
+Tennessee:2005:Circus cyaneus
+Tennessee:2005:Cistothorus platensis
+Tennessee:2005:Clinostomus funduloides ssp. 1
+Tennessee:2005:Coccyzus americanus
+Tennessee:2005:Condylura cristata
+Tennessee:2005:Contopus cooperi
+Tennessee:2005:Contopus virens
+Tennessee:2005:Corvus corax
+Tennessee:2005:Corynorhinus rafinesquii
+Tennessee:2005:Corynorhinus townsendii virginianus
+Tennessee:2005:Crotalus horridus
+Tennessee:2005:Cryptobranchus alleganiensis
+Tennessee:2005:Crystallaria asprella
+Tennessee:2005:Cumberlandia monodonta
+Tennessee:2005:Cycleptus elongatus
+Tennessee:2005:Cyprinella caerulea
+Tennessee:2005:Cyprinella monacha
+Tennessee:2005:Cyprogenia stegaria
+Tennessee:2005:Daedalochila auriformis
+Tennessee:2005:Darlingtonea kentuckensis
+Tennessee:2005:Dendroica caerulescens
+Tennessee:2005:Dendroica cerulea
+Tennessee:2005:Dendroica discolor
+Tennessee:2005:Dendroica dominica
+Tennessee:2005:Dendroica virens
+Tennessee:2005:Desmognathus aeneus
+Tennessee:2005:Desmognathus welteri
+Tennessee:2005:Desmognathus wrighti
+Tennessee:2005:Diacyclops sp.
+Tennessee:2005:Diacyclops yeatmani
+Tennessee:2005:Discus bryanti
+Tennessee:2005:Discus clappi
+Tennessee:2005:Donnaldsoncythere tuberosa
+Tennessee:2005:Dromus dromas
+Tennessee:2005:Egretta caerulea
+Tennessee:2005:Elanoides forficatus
+Tennessee:2005:Elimia acuta
+Tennessee:2005:Elimia arachnoidea
+Tennessee:2005:Elimia aterina
+Tennessee:2005:Elimia interrupta
+Tennessee:2005:Elimia porrecta
+Tennessee:2005:Elimia striatula
+Tennessee:2005:Elimia strigosa
+Tennessee:2005:Elimia teres
+Tennessee:2005:Elimia troostiana
+Tennessee:2005:Elliptio arca
+Tennessee:2005:Elliptio arctata
+Tennessee:2005:Empidonax alnorum
+Tennessee:2005:Empidonax minimus
+Tennessee:2005:Empidonax virescens
+Tennessee:2005:Epioblasma brevidens
+Tennessee:2005:Epioblasma capsaeformis
+Tennessee:2005:Epioblasma florentina walkeri
+Tennessee:2005:Epioblasma obliquata obliquata
+Tennessee:2005:Epioblasma othcaloogensis
+Tennessee:2005:Epioblasma triquetra
+Tennessee:2005:Ericymba buccata
+Tennessee:2005:Erimystax cahni
+Tennessee:2005:Erimystax dissimilis
+Tennessee:2005:Erimystax insignis
+Tennessee:2005:Etheostoma acuticeps
+Tennessee:2005:Etheostoma aquali
+Tennessee:2005:Etheostoma baileyi
+Tennessee:2005:Etheostoma barbouri
+Tennessee:2005:Etheostoma barrenense
+Tennessee:2005:Etheostoma bellum
+Tennessee:2005:Etheostoma blennioides gutselli
+Tennessee:2005:Etheostoma blennius sequatchiense
+Tennessee:2005:Etheostoma boschungi
+Tennessee:2005:Etheostoma brevirostrum
+Tennessee:2005:Etheostoma cervus
+Tennessee:2005:Etheostoma cinereum
+Tennessee:2005:Etheostoma corona
+Tennessee:2005:Etheostoma denoncourti
+Tennessee:2005:Etheostoma ditrema
+Tennessee:2005:Etheostoma doration sp.
+Tennessee:2005:Etheostoma forbesi
+Tennessee:2005:Etheostoma maculatum
+Tennessee:2005:Etheostoma microlepidum
+Tennessee:2005:Etheostoma neopterum
+Tennessee:2005:Etheostoma olivaceum
+Tennessee:2005:Etheostoma percnurum
+Tennessee:2005:Etheostoma pseudovulatum
+Tennessee:2005:Etheostoma pyrrhogaster
+Tennessee:2005:Etheostoma rupestre
+Tennessee:2005:Etheostoma sagitta
+Tennessee:2005:Etheostoma striatulum
+Tennessee:2005:Etheostoma susanae
+Tennessee:2005:Etheostoma tippecanoe
+Tennessee:2005:Etheostoma trisella
+Tennessee:2005:Etheostoma vulneratum
+Tennessee:2005:Etheostoma wapiti
+Tennessee:2005:Euchemotrema fraternum montanum
+Tennessee:2005:Eumeces anthracinus
+Tennessee:2005:Eurycea junaluska
+Tennessee:2005:Falco peregrinus
+Tennessee:2005:Fallicambarus hortoni
+Tennessee:2005:Folsomia sp. 2 nr. macrochaeta
+Tennessee:2005:Fumonelix archeri
+Tennessee:2005:Fumonelix christyi
+Tennessee:2005:Fumonelix jonesiana
+Tennessee:2005:Fumonelix orestes
+Tennessee:2005:Fumonelix wetherbyi
+Tennessee:2005:Fumonelix wheatleyi clingmanicus
+Tennessee:2005:Fumonelix wheatleyi
+Tennessee:2005:Fundulus chrysotus
+Tennessee:2005:Fundulus julisia
+Tennessee:2005:Fusconaia barnesiana
+Tennessee:2005:Fusconaia cuneolus
+Tennessee:2005:Fusconaia edgariana
+Tennessee:2005:Fusconaia subrotunda
+Tennessee:2005:Glaucomys sabrinus coloratus
+Tennessee:2005:Glyphopsyche sequatchie
+Tennessee:2005:Glyphyalinia junaluskana
+Tennessee:2005:Glyphyalinia ocoae
+Tennessee:2005:Glyphyalinia pentadelphia
+Tennessee:2005:Glyphyalinia rimula
+Tennessee:2005:Glyphyalinia vanattai
+Tennessee:2005:Glyptemys muhlenbergii
+Tennessee:2005:Gomphus consanguis
+Tennessee:2005:Gomphus sandrius
+Tennessee:2005:Gomphus septima
+Tennessee:2005:Grus americana
+Tennessee:2005:Gyrinophilus palleucus gulolineatus
+Tennessee:2005:Gyrinophilus palleucus necturoides
+Tennessee:2005:Gyrinophilus palleucus
+Tennessee:2005:Habrophlebiodes celeteria
+Tennessee:2005:Hadenoecus opilionides
+Tennessee:2005:Haliaeetus leucocephalus
+Tennessee:2005:Haplotrema kendeighi
+Tennessee:2005:Helicodiscus aldrichianus
+Tennessee:2005:Helicodiscus enneodon
+Tennessee:2005:Helicodiscus fimbriatus
+Tennessee:2005:Helicodiscus hadenoecus
+Tennessee:2005:Helicodiscus hexodon
+Tennessee:2005:Helicodiscus notius specus
+Tennessee:2005:Helmitheros vermivorus
+Tennessee:2005:Hemidactylium scutatum
+Tennessee:2005:Hemistena lata
+Tennessee:2005:Hemitremia flammea
+Tennessee:2005:Hesperochernes mirabilis
+Tennessee:2005:Heterodon platirhinos
+Tennessee:2005:Hybopsis lineapunctata
+Tennessee:2005:Hydroperla rickeri
+Tennessee:2005:Hyla gratiosa
+Tennessee:2005:Hyla versicolor
+Tennessee:2005:Hylocichla mustelina
+Tennessee:2005:Hypogastrura sp. 1
+Tennessee:2005:Hypsibius roanensis
+Tennessee:2005:Ichthyomyzon gagei
+Tennessee:2005:Icterus spurius
+Tennessee:2005:Ictinia mississippiensis
+Tennessee:2005:Inflectarius downieanus
+Tennessee:2005:Inflectarius ferrissi
+Tennessee:2005:Inflectarius kalmianus
+Tennessee:2005:Inflectarius smithi
+Tennessee:2005:Inflectarius subpalliatus
+Tennessee:2005:Io fluvialis
+Tennessee:2005:Ixobrychus exilis
+Tennessee:2005:Kleptochthonius affinis
+Tennessee:2005:Kleptochthonius barri
+Tennessee:2005:Kleptochthonius charon
+Tennessee:2005:Kleptochthonius daemonius
+Tennessee:2005:Kleptochthonius infernalis
+Tennessee:2005:Kleptochthonius magnus
+Tennessee:2005:Kleptochthonius myopius
+Tennessee:2005:Kleptochthonius pluto
+Tennessee:2005:Kleptochthonius rex
+Tennessee:2005:Kleptochthonius sp.
+Tennessee:2005:Kleptochthonius stygius
+Tennessee:2005:Kleptochthonius tantalus
+Tennessee:2005:Lampsilis abrupta
+Tennessee:2005:Lampsilis altilis
+Tennessee:2005:Lampsilis straminea claibornensis
+Tennessee:2005:Lampsilis virescens
+Tennessee:2005:Lanius ludovicianus
+Tennessee:2005:Lasmigona complanata complanata
+Tennessee:2005:Lasmigona holstonia
+Tennessee:2005:Lasmigona subviridis
+Tennessee:2005:Lemiox rimosus
+Tennessee:2005:Lepisosteus spatula
+Tennessee:2005:Leptodea leptodon
+Tennessee:2005:Leptoxis crassa anthonyi
+Tennessee:2005:Leptoxis crassa
+Tennessee:2005:Leptoxis umbilicata
+Tennessee:2005:Leptoxis virgata
+Tennessee:2005:Lepus americanus
+Tennessee:2005:Lexingtonia dolabelloides
+Tennessee:2005:Ligidium elrodii hancockensis
+Tennessee:2005:Ligumia recta
+Tennessee:2005:Limnothlypis swainsonii
+Tennessee:2005:Limosa fedoa
+Tennessee:2005:Limosa haemastica
+Tennessee:2005:Liocranoides sp.
+Tennessee:2005:Lithasia armigera
+Tennessee:2005:Lithasia duttoniana
+Tennessee:2005:Lithasia geniculata fuliginosa
+Tennessee:2005:Lithasia geniculata pinguis
+Tennessee:2005:Lithasia jayana
+Tennessee:2005:Lithasia lima
+Tennessee:2005:Lithasia salebrosa
+Tennessee:2005:Litocampa sp. 5
+Tennessee:2005:Litocampa sp. TN #6
+Tennessee:2005:Litocampa sp. TN #7
+Tennessee:2005:Litocampa sp. TN #8
+Tennessee:2005:Macrhybopsis gelida
+Tennessee:2005:Macrhybopsis meeki
+Tennessee:2005:Macrochelys temminckii
+Tennessee:2005:Macromia margarita
+Tennessee:2005:Marstonia ogmorhaphe
+Tennessee:2005:Martes pennanti
+Tennessee:2005:Masticophis flagellum
+Tennessee:2005:Medionidus acutissimus
+Tennessee:2005:Medionidus conradicus
+Tennessee:2005:Medionidus parvulus
+Tennessee:2005:Megaleuctra williamsae
+Tennessee:2005:Megapallifera wetherbyi
+Tennessee:2005:Melanerpes erythrocephalus
+Tennessee:2005:Mesodon altivagus
+Tennessee:2005:Mesodon andrewsae
+Tennessee:2005:Mesodon sanus
+Tennessee:2005:Mesomphix andrewsae
+Tennessee:2005:Mesomphix rugeli
+Tennessee:2005:Mesomphix subplanus
+Tennessee:2005:Microhexura montivaga
+Tennessee:2005:Microtus chrotorrhinus carolinensis
+Tennessee:2005:Miktoniscus barri
+Tennessee:2005:Mustela nivalis
+Tennessee:2005:Myotis austroriparius
+Tennessee:2005:Myotis grisescens
+Tennessee:2005:Myotis leibii
+Tennessee:2005:Myotis sodalis
+Tennessee:2005:Napaeozapus insignis
+Tennessee:2005:Neanura sp. 1
+Tennessee:2005:Nelsonites walteri
+Tennessee:2005:Neotoma floridana haematoreia
+Tennessee:2005:Neotoma floridana illinoensis
+Tennessee:2005:Neotoma magister
+Tennessee:2005:Nerodia cyclopion
+Tennessee:2005:Nerodia erythrogaster flavigaster
+Tennessee:2005:Nerodia erythrogaster neglecta
+Tennessee:2005:Nesticus barrowsi
+Tennessee:2005:Nesticus dilutus
+Tennessee:2005:Nesticus furtivus
+Tennessee:2005:Nesticus paynei
+Tennessee:2005:Nesticus stygius
+Tennessee:2005:Nesticus tennesseensis
+Tennessee:2005:Nesticus valentinei
+Tennessee:2005:Nicrophorus americanus
+Tennessee:2005:Notropis albizonatus
+Tennessee:2005:Notropis asperifrons
+Tennessee:2005:Notropis chrosomus
+Tennessee:2005:Notropis rubellus rubellus
+Tennessee:2005:Notropis rupestris
+Tennessee:2005:Noturus baileyi
+Tennessee:2005:Noturus flavipinnis
+Tennessee:2005:Noturus munitus
+Tennessee:2005:Noturus sp. 3
+Tennessee:2005:Noturus sp. 4
+Tennessee:2005:Noturus stanauli
+Tennessee:2005:Noturus stigmosus
+Tennessee:2005:Numenius phaeopus
+Tennessee:2005:Obovaria jacksoniana
+Tennessee:2005:Obovaria olivaria
+Tennessee:2005:Obovaria retusa
+Tennessee:2005:Obovaria subrotunda
+Tennessee:2005:Ochrotomys nuttalli
+Tennessee:2005:Oconoperla innubila
+Tennessee:2005:Onychiurus sp. 2
+Tennessee:2005:Ophiogomphus acuminatus
+Tennessee:2005:Ophiogomphus alleghaniensis
+Tennessee:2005:Ophiogomphus edmundo
+Tennessee:2005:Ophiogomphus howei
+Tennessee:2005:Ophisaurus attenuatus longicaudus
+Tennessee:2005:Oporornis formosus
+Tennessee:2005:Orconectes alabamensis
+Tennessee:2005:Orconectes australis
+Tennessee:2005:Orconectes barrenensis
+Tennessee:2005:Orconectes burri
+Tennessee:2005:Orconectes cooperi
+Tennessee:2005:Orconectes forceps
+Tennessee:2005:Orconectes incomptus
+Tennessee:2005:Orconectes pagei
+Tennessee:2005:Orconectes pellucidus
+Tennessee:2005:Orconectes shoupi
+Tennessee:2005:Orconectes wrighti
+Tennessee:2005:Paraleptophlebia kirchneri
+Tennessee:2005:Parascalops breweri
+Tennessee:2005:Paravitrea alethia
+Tennessee:2005:Paravitrea andrewsae
+Tennessee:2005:Paravitrea bellona
+Tennessee:2005:Paravitrea blarina
+Tennessee:2005:Paravitrea calcicola
+Tennessee:2005:Paravitrea clappi
+Tennessee:2005:Paravitrea lamellidens
+Tennessee:2005:Paravitrea lapilla
+Tennessee:2005:Paravitrea metallacta
+Tennessee:2005:Paravitrea petrophila
+Tennessee:2005:Paravitrea placentula
+Tennessee:2005:Paravitrea reesei
+Tennessee:2005:Paravitrea subtilis
+Tennessee:2005:Paravitrea tantilla
+Tennessee:2005:Paravitrea ternaria
+Tennessee:2005:Paravitrea tridens
+Tennessee:2005:Paravitrea umbilicaris
+Tennessee:2005:Paravitrea variabilis
+Tennessee:2005:Paravitrea varidens
+Tennessee:2005:Parula americana
+Tennessee:2005:Passerculus sandwichensis
+Tennessee:2005:Passerina ciris
+Tennessee:2005:Patera clarki
+Tennessee:2005:Pegias fabula
+Tennessee:2005:Percina antesella
+Tennessee:2005:Percina aurantiaca
+Tennessee:2005:Percina burtoni
+Tennessee:2005:Percina jenkinsi
+Tennessee:2005:Percina macrocephala
+Tennessee:2005:Percina phoxocephala
+Tennessee:2005:Percina sp. 3
+Tennessee:2005:Percina sp. 9
+Tennessee:2005:Percina squamata
+Tennessee:2005:Percina stictogaster
+Tennessee:2005:Percina tanasi
+Tennessee:2005:Perlesta etnieri
+Tennessee:2005:Phalangodes appalachius
+Tennessee:2005:Phenacobius catostomus
+Tennessee:2005:Philomycus sellatus
+Tennessee:2005:Philomycus virginicus
+Tennessee:2005:Phoxinus cumberlandensis
+Tennessee:2005:Phoxinus saylori
+Tennessee:2005:Phoxinus tennesseensis
+Tennessee:2005:Pilsbryna aurea
+Tennessee:2005:Pilsbryna castanea
+Tennessee:2005:Pituophis melanoleucus melanoleucus
+Tennessee:2005:Plauditus grandis
+Tennessee:2005:Plethobasus cicatricosus
+Tennessee:2005:Plethobasus cooperianus
+Tennessee:2005:Plethobasus cyphyus
+Tennessee:2005:Plethodon aureolus
+Tennessee:2005:Plethodon jordani
+Tennessee:2005:Plethodon richmondi
+Tennessee:2005:Plethodon wehrlei
+Tennessee:2005:Plethodon welleri
+Tennessee:2005:Plethodon yonahlossee
+Tennessee:2005:Pleurobema clava
+Tennessee:2005:Pleurobema coccineum
+Tennessee:2005:Pleurobema cordatum
+Tennessee:2005:Pleurobema decisum
+Tennessee:2005:Pleurobema georgianum
+Tennessee:2005:Pleurobema gibberum
+Tennessee:2005:Pleurobema hanleyianum
+Tennessee:2005:Pleurobema johannis
+Tennessee:2005:Pleurobema oviforme
+Tennessee:2005:Pleurobema perovatum
+Tennessee:2005:Pleurobema plenum
+Tennessee:2005:Pleurobema rubellum
+Tennessee:2005:Pleurobema rubrum
+Tennessee:2005:Pleurobema troschelianum
+Tennessee:2005:Pleurocera corpulenta
+Tennessee:2005:Pleurocera curta
+Tennessee:2005:Pleurocera trochiformis
+Tennessee:2005:Pleurocera walkeri
+Tennessee:2005:Pluvialis dominica
+Tennessee:2005:Poecile atricapillus
+Tennessee:2005:Poecilophysis weyerensis
+Tennessee:2005:Polyodon spathula
+Tennessee:2005:Pooecetes gramineus
+Tennessee:2005:Protonotaria citrea
+Tennessee:2005:Pseudacris brachyphona
+Tennessee:2005:Pseudanophthalmus acherontis
+Tennessee:2005:Pseudanophthalmus bendermani
+Tennessee:2005:Pseudanophthalmus catherinae
+Tennessee:2005:Pseudanophthalmus ciliaris ciliaris
+Tennessee:2005:Pseudanophthalmus ciliaris colemanensis
+Tennessee:2005:Pseudanophthalmus cumberlandus
+Tennessee:2005:Pseudanophthalmus digitus
+Tennessee:2005:Pseudanophthalmus engelhardti
+Tennessee:2005:Pseudanophthalmus farrelli
+Tennessee:2005:Pseudanophthalmus fowlerae
+Tennessee:2005:Pseudanophthalmus fulleri
+Tennessee:2005:Pseudanophthalmus hesperus
+Tennessee:2005:Pseudanophthalmus humeralis
+Tennessee:2005:Pseudanophthalmus inquisitor
+Tennessee:2005:Pseudanophthalmus insularis
+Tennessee:2005:Pseudanophthalmus jonesi
+Tennessee:2005:Pseudanophthalmus loganensis
+Tennessee:2005:Pseudanophthalmus longiceps
+Tennessee:2005:Pseudanophthalmus macradei
+Tennessee:2005:Pseudanophthalmus nickajackensis
+Tennessee:2005:Pseudanophthalmus nortoni
+Tennessee:2005:Pseudanophthalmus occidentalis
+Tennessee:2005:Pseudanophthalmus pallidus
+Tennessee:2005:Pseudanophthalmus paradoxus
+Tennessee:2005:Pseudanophthalmus paulus
+Tennessee:2005:Pseudanophthalmus paynei
+Tennessee:2005:Pseudanophthalmus productus
+Tennessee:2005:Pseudanophthalmus pusillus
+Tennessee:2005:Pseudanophthalmus rotundatus
+Tennessee:2005:Pseudanophthalmus scutilus
+Tennessee:2005:Pseudanophthalmus sidus
+Tennessee:2005:Pseudanophthalmus simplex
+Tennessee:2005:Pseudanophthalmus sp. 27
+Tennessee:2005:Pseudanophthalmus sp. TN #1 SCA or TN #28?
+Tennessee:2005:Pseudanophthalmus sp. TN #29
+Tennessee:2005:Pseudanophthalmus sp. TN #30
+Tennessee:2005:Pseudanophthalmus templetoni
+Tennessee:2005:Pseudanophthalmus tenesseensis
+Tennessee:2005:Pseudanophthalmus tiresias
+Tennessee:2005:Pseudanophthalmus tullahoma
+Tennessee:2005:Pseudanophthalmus unionis
+Tennessee:2005:Pseudanophthalmus valentinei
+Tennessee:2005:Pseudanophthalmus vanburensis
+Tennessee:2005:Pseudanophthalmus ventus
+Tennessee:2005:Pseudanophthalmus wallacei
+Tennessee:2005:Pseudosinella aera
+Tennessee:2005:Pseudosinella christianseni
+Tennessee:2005:Pseudosinella hirsuta
+Tennessee:2005:Pseudosinella orba
+Tennessee:2005:Pseudosinella sp. 5
+Tennessee:2005:Pseudosinella sp. 6
+Tennessee:2005:Pseudosinella sp. 7 nr. Nata
+Tennessee:2005:Pseudosinella spinosa
+Tennessee:2005:Pseudotremia acheron
+Tennessee:2005:Pseudotremia cercops
+Tennessee:2005:Pseudotremia deprehendor
+Tennessee:2005:Pseudotremia lethe
+Tennessee:2005:Pseudotremia lictor
+Tennessee:2005:Pseudotremia rhadamanthus
+Tennessee:2005:Pseudotremia sp. (new TN species #4 = SCA #4)
+Tennessee:2005:Pseudotremia sp. (new TN species #5 = SCA #3)
+Tennessee:2005:Pseudotremia sp. (new TN species #6 = SCA #1)
+Tennessee:2005:Pseudotremia sp. (new TN species #7 = SCA #2)
+Tennessee:2005:Pseudotremia valga
+Tennessee:2005:Pseudotriton montanus
+Tennessee:2005:Ptomaphagus barri
+Tennessee:2005:Ptomaphagus chromolithus
+Tennessee:2005:Ptomaphagus fecundus
+Tennessee:2005:Ptomaphagus hubrichti
+Tennessee:2005:Ptychobranchus greeni
+Tennessee:2005:Ptychobranchus subtentum
+Tennessee:2005:Quadrula cylindrica cylindrica
+Tennessee:2005:Quadrula cylindrica strigillata
+Tennessee:2005:Quadrula fragosa
+Tennessee:2005:Quadrula intermedia
+Tennessee:2005:Quadrula sparsa
+Tennessee:2005:Rallus elegans
+Tennessee:2005:Rana areolata
+Tennessee:2005:Regulus satrapa
+Tennessee:2005:Riparia riparia
+Tennessee:2005:Scolopax minor
+Tennessee:2005:Scoterpes copei
+Tennessee:2005:Scoterpes ventus
+Tennessee:2005:Seiurus motacilla
+Tennessee:2005:Semiothisa fraserata
+Tennessee:2005:Sinella basidens
+Tennessee:2005:Sistrurus miliarius streckeri
+Tennessee:2005:Sitta canadensis
+Tennessee:2005:Sitta pusilla
+Tennessee:2005:Somatogyrus aureus
+Tennessee:2005:Somatogyrus parvulus
+Tennessee:2005:Somatogyrus sp. 2
+Tennessee:2005:Sorex cinereus
+Tennessee:2005:Sorex dispar
+Tennessee:2005:Sorex fumeus
+Tennessee:2005:Sorex hoyi
+Tennessee:2005:Sorex longirostris
+Tennessee:2005:Sorex palustris
+Tennessee:2005:Speyeria diana
+Tennessee:2005:Sphalloplana buchanani
+Tennessee:2005:Sphalloplana chandleri
+Tennessee:2005:Sphalloplana consimilis
+Tennessee:2005:Sphalloplana sp. 2
+Tennessee:2005:Sphalloplana sp.
+Tennessee:2005:Sphyrapicus varius
+Tennessee:2005:Spilogale putorius
+Tennessee:2005:Stenonema sinclairi
+Tennessee:2005:Stenotrema altispira
+Tennessee:2005:Stenotrema calvescens
+Tennessee:2005:Stenotrema cohuttense
+Tennessee:2005:Stenotrema depilatum
+Tennessee:2005:Stenotrema edgarianum
+Tennessee:2005:Stenotrema exodon
+Tennessee:2005:Stenotrema magnafumosum
+Tennessee:2005:Stenotrema waldense
+Tennessee:2005:Sterna antillarum athalassos
+Tennessee:2005:Striatura exigua
+Tennessee:2005:Strophitus connasaugaensis
+Tennessee:2005:Strophitus undulatus
+Tennessee:2005:Stygobromus barryi
+Tennessee:2005:Stygobromus dicksoni
+Tennessee:2005:Stygobromus fecundus
+Tennessee:2005:Stygobromus finleyi
+Tennessee:2005:Stygobromus nortoni
+Tennessee:2005:Stygobromus sp. 22
+Tennessee:2005:Stygobromus sp.
+Tennessee:2005:Stygobromus sparsus
+Tennessee:2005:Stygobromus vitreus
+Tennessee:2005:Succinea greerii
+Tennessee:2005:Sylvilagus transitionalis
+Tennessee:2005:Synaptomys cooperi
+Tennessee:2005:Tamiasciurus hudsonicus
+Tennessee:2005:Terrapene carolina
+Tennessee:2005:Tetracion jonesi
+Tennessee:2005:Tetracion tennesseensis
+Tennessee:2005:Theromaster sp. 1
+Tennessee:2005:Thryomanes bewickii
+Tennessee:2005:Toxolasma cylindrellus
+Tennessee:2005:Toxolasma lividus
+Tennessee:2005:Trechus cumberlandus
+Tennessee:2005:Trechus tennesseensis tauricus
+Tennessee:2005:Trechus tennesseensis tennesseensis
+Tennessee:2005:Trechus tuckaleechee
+Tennessee:2005:Triacanthella copelandi
+Tennessee:2005:Trichodrilus allegheniensis
+Tennessee:2005:Triodopsis anteridon
+Tennessee:2005:Troglodytes troglodytes
+Tennessee:2005:Typhlichthys subterraneus
+Tennessee:2005:Tyrannochthonius steevesi
+Tennessee:2005:Tyrannus forficatus
+Tennessee:2005:Uniomerus declivis
+Tennessee:2005:Ventridens coelaxis
+Tennessee:2005:Ventridens decussatus
+Tennessee:2005:Ventridens eutropis
+Tennessee:2005:Ventridens lasmodon
+Tennessee:2005:Ventridens percallosus
+Tennessee:2005:Vermivora chrysoptera
+Tennessee:2005:Vermivora pinus
+Tennessee:2005:Vertigo clappi
+Tennessee:2005:Vertigo parvula
+Tennessee:2005:Vertigo teskeyae
+Tennessee:2005:Villosa fabalis
+Tennessee:2005:Villosa nebulosa
+Tennessee:2005:Villosa perpurpurea
+Tennessee:2005:Villosa trabalis
+Tennessee:2005:Villosa vanuxemensis umbrans
+Tennessee:2005:Villosa vibex
+Tennessee:2005:Vireo bellii
+Tennessee:2005:Virginia striatula
+Tennessee:2005:Webbhelix multilineata
+Tennessee:2005:Wilsonia citrina
+Tennessee:2005:Xolotrema obstrictum
+Tennessee:2005:Zapus hudsonius
+Tennessee:2005:Zonitoides lateumbilicatus
+Virginia:2015:Abacion tessalatum
+Virginia:2015:Acantharchus pomotis
+Virginia:2015:Acipenser brevirostrum
+Virginia:2015:Acroneuria flinti
+Virginia:2015:Aeshna mutata
+Virginia:2015:Aeshna tuberculifera
+Virginia:2015:Alasmidonta heterodon
+Virginia:2015:Alasmidonta marginata
+Virginia:2015:Alasmidonta viridis
+Virginia:2015:Allocapnia fumosa
+Virginia:2015:Allocapnia stannardi
+Virginia:2015:Alloperla banksi
+Virginia:2015:Alloperla biserrata
+Virginia:2015:Alloperla idei
+Virginia:2015:Alloperla nanina
+Virginia:2015:Alloperla neglecta
+Virginia:2015:Alosa pseudoharengus
+Virginia:2015:Alosa sapidissima
+Virginia:2015:Amaurobius borealis
+Virginia:2015:Ambloplites cavifrons
+Virginia:2015:Amblyscirtes alternata
+Virginia:2015:Ambystoma mabeei
+Virginia:2015:Ameiurus brunneus
+Virginia:2015:Ameletus cryptostimulus
+Virginia:2015:Amerigoniscus henroti
+Virginia:2015:Ammodramus nelsoni
+Virginia:2015:Anahita punctulata
+Virginia:2015:Anas rubripes
+Virginia:2015:Anaxyrus quercicus
+Virginia:2015:Aniulus orientalis
+Virginia:2015:Ankyrodrilus legacus
+Virginia:2015:Anodonta implicata
+Virginia:2015:Anthrobia mammouthia
+Virginia:2015:Antrodiaetus robustus
+Virginia:2015:Antrostomus vociferus
+Virginia:2015:Apamea smythi
+Virginia:2015:Apheloria virginiensis
+Virginia:2015:Aplodinotus grunniens
+Virginia:2015:Apochthonius coecus
+Virginia:2015:Apochthonius holsingeri
+Virginia:2015:Appalachia hebardi
+Virginia:2015:Argillophora furcilla
+Virginia:2015:Atrytone arogos arogos
+Virginia:2015:Aythya marila
+Virginia:2015:Bactrurus angulus
+Virginia:2015:Baetisca rubescens
+Virginia:2015:Balaenoptera physalus
+Virginia:2015:Barbaetis benfieldi
+Virginia:2015:Basilia boardmani
+Virginia:2015:Bathyphantes weyeri
+Virginia:2015:Bombus affinis
+Virginia:2015:Bombus bohemicus
+Virginia:2015:Bombus fervidus
+Virginia:2015:Bombus fraternus
+Virginia:2015:Bombus pensylvanicus
+Virginia:2015:Boraria infesta
+Virginia:2015:Brachoria cedra
+Virginia:2015:Brachoria ethotela
+Virginia:2015:Brachoria hoffmani
+Virginia:2015:Brachoria laminata
+Virginia:2015:Brachoria separanda hamata
+Virginia:2015:Brachoria separanda versicolor
+Virginia:2015:Caecidotea attenuatus
+Virginia:2015:Caecidotea cumberlandensis
+Virginia:2015:Caecidotea henroti
+Virginia:2015:Calephelis virginiensis
+Virginia:2015:Calidris alpina hudsonia
+Virginia:2015:Calidris canutus rufus
+Virginia:2015:Calopteryx aequabilis
+Virginia:2015:Calopteryx amata
+Virginia:2015:Cambarincola fallax
+Virginia:2015:Cambarus jezerinaci
+Virginia:2015:Cambarus monongalensis
+Virginia:2015:Cambarus spp.1
+Virginia:2015:Cambarus theepiensis
+Virginia:2015:Cardellina canadensis
+Virginia:2015:Castianeira trilineata
+Virginia:2015:Catinella hubrichti
+Virginia:2015:Catocala dulciola
+Virginia:2015:Catocala marmorata
+Virginia:2015:Catocala pretiosa pretiosa
+Virginia:2015:Celithemis ornata
+Virginia:2015:Cemophora coccinea copei
+Virginia:2015:Charadrius melodus
+Virginia:2015:Charadrius wilsonia
+Virginia:2015:Chelydra serpentina
+Virginia:2015:Chitrella cavicola
+Virginia:2015:Chitrella superba
+Virginia:2015:Chrosomus sp. cf. saylori
+Virginia:2015:Cicindela ancocisconensis
+Virginia:2015:Cicindela formosa generosa
+Virginia:2015:Cicindela lepida
+Virginia:2015:Cicindela limbalis
+Virginia:2015:Cicindela patruela
+Virginia:2015:Cistothorus palustris
+Virginia:2015:Clubiona spiralis
+Virginia:2015:Coccyzus americanus
+Virginia:2015:Colaptes auratus
+Virginia:2015:Conotyla melinda
+Virginia:2015:Conotyla venetia
+Virginia:2015:Cordulegaster diastatops
+Virginia:2015:Corynorhinus rafinesquii macrotis
+Virginia:2015:Coryphaeschna ingens
+Virginia:2015:Cottus baileyi
+Virginia:2015:Cottus sp. 1
+Virginia:2015:Cottus sp. 4
+Virginia:2015:Cottus sp. 5
+Virginia:2015:Crangonyx acicularis
+Virginia:2015:Crangonyx antennatus
+Virginia:2015:Crangonyx montanus
+Virginia:2015:Crotalus horridus (canebrake)
+Virginia:2015:Cryptobranchus alleganiensis alleganiensis
+Virginia:2015:Cumberlandia monodonta
+Virginia:2015:Cyclotrachelus incisus
+Virginia:2015:Desmognathus orestes
+Virginia:2015:Desmognathus organi
+Virginia:2015:Desmonus earlei
+Virginia:2015:Diploperla kanawholensis
+Virginia:2015:Diploperla morgani
+Virginia:2015:Dixioria coronata
+Virginia:2015:Dromus dromas
+Virginia:2015:Dryobius sexnotatus
+Virginia:2015:Elliptio congaraea
+Virginia:2015:Elliptio crassidens
+Virginia:2015:Enallagma cyathigerum(different name in Explorer)
+Virginia:2015:Enallagma dubium
+Virginia:2015:Enallagma ebrium
+Virginia:2015:Enallagma weewa
+Virginia:2015:Enneacanthus chaetodon
+Virginia:2015:Enneacanthus obesus
+Virginia:2015:Epioblasma brevidens
+Virginia:2015:Epioblasma florentina aureola
+Virginia:2015:Epitheca canis
+Virginia:2015:Epitheca costalis
+Virginia:2015:Epitheca spinosa
+Virginia:2015:Erimystax cahni
+Virginia:2015:Erimystax insignis
+Virginia:2015:Erimyzon sucetta
+Virginia:2015:Erora laeta
+Virginia:2015:Erynnis persius persius
+Virginia:2015:Erythroecia hebardi
+Virginia:2015:Escaryus orestes
+Virginia:2015:Etheostoma acuticeps
+Virginia:2015:Etheostoma camurum
+Virginia:2015:Etheostoma denoncourti
+Virginia:2015:Etheostoma jessiae
+Virginia:2015:Etheostoma stigmaeum
+Virginia:2015:Etheostoma swannanoa
+Virginia:2015:Etheostoma variatum
+Virginia:2015:Eubalaena glacialis
+Virginia:2015:Euchemotrema leai
+Virginia:2015:Euphagus carolinus
+Virginia:2015:Euphyes pilatka
+Virginia:2015:Eurycea wilderae
+Virginia:2015:Exoglossum laurae
+Virginia:2015:Falco peregrinus
+Virginia:2015:Faronta rubripennis
+Virginia:2015:Fontigens bottimeri
+Virginia:2015:Fontigens orolibas
+Virginia:2015:Fossaria dalli
+Virginia:2015:Franclemontia interrogans
+Virginia:2015:Fumonelix christyi
+Virginia:2015:Fundulus catenatus
+Virginia:2015:Fundulus rathbuni
+Virginia:2015:Fusconaia cuneolus
+Virginia:2015:Fusconaia subrotunda
+Virginia:2015:Galgupha denudata
+Virginia:2015:Gammarus pseudolimnaeus
+Virginia:2015:Gasteracantha cancriformis
+Virginia:2015:Geocentrophora cavernicola
+Virginia:2015:Glyphyalinia picea
+Virginia:2015:Glyptemys insculpta
+Virginia:2015:Gnaphosa fontinalis
+Virginia:2015:Gomphus abbreviatus
+Virginia:2015:Gomphus borealis
+Virginia:2015:Gomphus consanguis
+Virginia:2015:Gomphus descriptus
+Virginia:2015:Gomphus fraternus
+Virginia:2015:Gomphus septima
+Virginia:2015:Habrophlebiodes celeteria
+Virginia:2015:Hansonoperla appalachia
+Virginia:2015:Helicodiscus shimeki
+Virginia:2015:Helicodiscus triodus
+Virginia:2015:Heliomata infulata
+Virginia:2015:Helocordulia selysii
+Virginia:2015:Hemistena lata
+Virginia:2015:Hesperia attalus slossonae
+Virginia:2015:Holsingeria unthanksensis
+Virginia:2015:Hydraena maureenae
+Virginia:2015:Hyla gratiosa
+Virginia:2015:Hylocichla mustelina
+Virginia:2015:Hypentelium roanokense
+Virginia:2015:Hypochilus pococki
+Virginia:2015:Hypomecis buchholzaria
+Virginia:2015:Ichthyomyzon bdellium
+Virginia:2015:Ichthyomyzon greeleyi
+Virginia:2015:Inflectarius kalmianus
+Virginia:2015:Io fluvialis
+Virginia:2015:Isogenoides varians
+Virginia:2015:Isonychia arida
+Virginia:2015:Isonychia georgiae
+Virginia:2015:Isonychia serrata
+Virginia:2015:Isonychia tusculanensis
+Virginia:2015:Kleptochthonius gertschi
+Virginia:2015:Kleptochthonius polychaetus
+Virginia:2015:Kleptochthonius regulus
+Virginia:2015:Kleptochthonius similis
+Virginia:2015:Ladona julia
+Virginia:2015:Lampropeltis elapsoides
+Virginia:2015:Lampsilis cariosa
+Virginia:2015:Lanius ludovicianus
+Virginia:2015:Lasiurus borealis
+Virginia:2015:Lasmigona holstonia
+Virginia:2015:Lepidochelys kempii
+Virginia:2015:Leptophlebia johnsoni
+Virginia:2015:Lestes disjunctus
+Virginia:2015:Leucophaeus atricilla
+Virginia:2015:Leucorrhinia frigida
+Virginia:2015:Leucorrhinia hudsonica
+Virginia:2015:Lexingtonia dolabelloides
+Virginia:2015:Lexingtonia subplana
+Virginia:2015:Ligidium elrodii leensis
+Virginia:2015:Ligumia recta
+Virginia:2015:Limnodromus griseus
+Virginia:2015:Limnoporus dissortis
+Virginia:2015:Limosa fedoa
+Virginia:2015:Lioplax subcarinata
+Virginia:2015:Lirceus culveri
+Virginia:2015:Lordithon niger
+Virginia:2015:Lycaena hyllus
+Virginia:2015:Macrobrachium ohione
+Virginia:2015:Macromia alleghaniensis
+Virginia:2015:Macromia margarita
+Virginia:2015:Martes pennanti pennanti
+Virginia:2015:Medionidus conradicus
+Virginia:2015:Megaceryle lcyon
+Virginia:2015:Megaleuctra williamsae
+Virginia:2015:Megapallifera wetherbyi
+Virginia:2015:Melanoplus pachycercus
+Virginia:2015:Meropleon titan
+Virginia:2015:Mesodon andrewsae
+Virginia:2015:Mesomphix rugeli
+Virginia:2015:Microtus chrotorrhinus
+Virginia:2015:Miktoniscus racovitzai
+Virginia:2015:Millerelix plicata
+Virginia:2015:Morus bassanus
+Virginia:2015:Moxostoma carinatum
+Virginia:2015:Moxostoma collapsum
+Virginia:2015:Moxostoma sp.
+Virginia:2015:Mundochthonius holsingeri
+Virginia:2015:Myotis austroriparius
+Virginia:2015:Myotis grisescens
+Virginia:2015:Myotis leibii
+Virginia:2015:Myotis lucifugus
+Virginia:2015:Myotis septentrionalis
+Virginia:2015:Myotis sodalis
+Virginia:2015:Nannaria ericaea
+Virginia:2015:Nannaria shenandoah
+Virginia:2015:Nannothemis bella
+Virginia:2015:Necturus maculosus maculosus
+Virginia:2015:Necturus punctatus
+Virginia:2015:Nehalennia irene
+Virginia:2015:Nemotaulius hostilis
+Virginia:2015:Neonympha areolata
+Virginia:2015:Nicrophorus americanus
+Virginia:2015:Notropis chalybaeus
+Virginia:2015:Notropis chiliticus
+Virginia:2015:Notropis stramineus
+Virginia:2015:Noturus flavus
+Virginia:2015:Numenius phaeopus
+Virginia:2015:Oncozygia clavicornis
+Virginia:2015:Ophiogomphus allegheniensis
+Virginia:2015:Ophiogomphus incurvatus alleghaniensis
+Virginia:2015:Ophisaurus attenuatus longicaudus
+Virginia:2015:Ophisaurus ventralis
+Virginia:2015:Orconectes virginiensis
+Virginia:2015:Ostrocerca complexa
+Virginia:2015:Oxycilla mitographa
+Virginia:2015:Pallifera hemphilli
+Virginia:2015:Papaipema astuta
+Virginia:2015:Paragnetina ichusa
+Virginia:2015:Paraleptophlebia assimilis
+Virginia:2015:Paravitrea blarina
+Virginia:2015:Paravitrea dentilla
+Virginia:2015:Paravitrea hera
+Virginia:2015:Paravitrea mira
+Virginia:2015:Paravitrea pontis
+Virginia:2015:Paravitrea septadens
+Virginia:2015:Paravitrea subtilis
+Virginia:2015:Pegias fabula
+Virginia:2015:Percina burtoni
+Virginia:2015:Percina caprodes
+Virginia:2015:Percina copelandi
+Virginia:2015:Percina gymnocephala
+Virginia:2015:Percina maculata
+Virginia:2015:Percina oxyrhynchus
+Virginia:2015:Percina rex
+Virginia:2015:Perimyotis subflavus
+Virginia:2015:Perlesta frisoni
+Virginia:2015:Peromyscus gossypinus gossypinus
+Virginia:2015:Phloeoxena signata
+Virginia:2015:Phyciodes batesii batesii
+Virginia:2015:Pipilo erythrophthalmus
+Virginia:2015:Pituophis melanoleucus melanoleucus
+Virginia:2015:Plegadis falcinellus
+Virginia:2015:Plethodon hubrichti
+Virginia:2015:Plethodon punctatus
+Virginia:2015:Plethodon ventralis
+Virginia:2015:Plethodon virginia
+Virginia:2015:Plethodon welleri
+Virginia:2015:Plethodon yonahlossee
+Virginia:2015:Pleurobema collina
+Virginia:2015:Pleurobema plenum
+Virginia:2015:Pleurocera gradata
+Virginia:2015:Ploiaria hirticornis
+Virginia:2015:Pluvialis squatarola
+Virginia:2015:Pnirontis brimleyi
+Virginia:2015:Polites mystic
+Virginia:2015:Polygyriscus virginianus
+Virginia:2015:Pomatiopsis cincinnatiensis
+Virginia:2015:Procotyla typhlops
+Virginia:2015:Promenetus exacuous
+Virginia:2015:Prostoia hallasi
+Virginia:2015:Pseudacris kalmi
+Virginia:2015:Pseudanophthalmus cordicollis
+Virginia:2015:Pseudanophthalmus delicatus
+Virginia:2015:Pseudanophthalmus hirsutus
+Virginia:2015:Pseudanophthalmus holsingeri
+Virginia:2015:Pseudanophthalmus hortulanus
+Virginia:2015:Pseudanophthalmus intersectus
+Virginia:2015:Pseudanophthalmus longiceps
+Virginia:2015:Pseudanophthalmus parvicollis
+Virginia:2015:Pseudanophthalmus petrunkevitchi
+Virginia:2015:Pseudanophthalmus pontis
+Virginia:2015:Pseudanophthalmus punctatus
+Virginia:2015:Pseudanophthalmus sericus
+Virginia:2015:Pseudanophthalmus thomasi
+Virginia:2015:Pseudiron centralis
+Virginia:2015:Pseudopolydesmus paludicolous
+Virginia:2015:Pseudotremia alecto
+Virginia:2015:Pseudotremia armesi
+Virginia:2015:Pseudotremia momus
+Virginia:2015:Pseudotremia sublevis
+Virginia:2015:Pseudotriton montanus montanus
+Virginia:2015:Pteronarcys comstocki
+Virginia:2015:Ptichodis bistrigata
+Virginia:2015:Pupilla muscorum
+Virginia:2015:Pygarctia abdominalis
+Virginia:2015:Pyrgus wyandot
+Virginia:2015:Quadrula cylindrica strigillata
+Virginia:2015:Quadrula intermedia
+Virginia:2015:Rallus longirostris 
+Virginia:2015:Ranatra drakei
+Virginia:2015:Regina rigida rigida
+Virginia:2015:Regina septemvittata
+Virginia:2015:Remenus kirchneri
+Virginia:2015:Rhithrogena anomala
+Virginia:2015:Rhyacophila shenandoahensis
+Virginia:2015:Rhyacophila tricornuta
+Virginia:2015:Rudiloria kleinpeteri
+Virginia:2015:Rudiloria trimaculata tortua
+Virginia:2015:Salvelinus fontinalis
+Virginia:2015:Satyrium kingi
+Virginia:2015:Sciurus niger niger
+Virginia:2015:Scolopax minor
+Virginia:2015:Scudderia septentrionalis
+Virginia:2015:Scytonotus virginicus
+Virginia:2015:Semionellus placidus
+Virginia:2015:Setophaga virens waynei
+Virginia:2015:Sigara depressa
+Virginia:2015:Sigmoria whiteheadi
+Virginia:2015:Siren lacertina
+Virginia:2015:Somatochlora elongata
+Virginia:2015:Somatochlora filosa
+Virginia:2015:Somatochlora georgiana
+Virginia:2015:Sorex dispar dispar
+Virginia:2015:Spelaedrilus multiporus
+Virginia:2015:Speyeria diana
+Virginia:2015:Speyeria idalia idalia
+Virginia:2015:Sphalloplana virginiana
+Virginia:2015:Sphodros atlanticus
+Virginia:2015:Spizella pusilla
+Virginia:2015:Stenelmis gammoni
+Virginia:2015:Stenotrema altispira
+Virginia:2015:Stenotrema pilula
+Virginia:2015:Stenotrema spinosum
+Virginia:2015:Sterna forsteri
+Virginia:2015:Sterna hirundo
+Virginia:2015:Striaria causeyae
+Virginia:2015:Striaria columbiana
+Virginia:2015:Striatura exigua
+Virginia:2015:Striatura milium
+Virginia:2015:Strophitus undulatus
+Virginia:2015:Strophopteryx limata
+Virginia:2015:Sturnella magna
+Virginia:2015:Stygobromus araeus
+Virginia:2015:Stygobromus baroodyi
+Virginia:2015:Stygobromus estesi
+Virginia:2015:Stygobromus fergusoni
+Virginia:2015:Stygobromus finleyi
+Virginia:2015:Stygobromus interitus
+Virginia:2015:Stygobromus kenki
+Virginia:2015:Stygobromus morrisoni
+Virginia:2015:Stygobromus pizzinii
+Virginia:2015:Stygobromus pseudospinosus
+Virginia:2015:Stygobromus spinosus
+Virginia:2015:Stylurus laurae
+Virginia:2015:Stylurus notatus
+Virginia:2015:Stylurus scudderi
+Virginia:2015:Sweltsa voshelli
+Virginia:2015:Sylvilagus obscurus
+Virginia:2015:Sympetrum corruptum
+Virginia:2015:Sympetrum obtrusum
+Virginia:2015:Tachopteryx thoreyi
+Virginia:2015:Tallaperla cornelia
+Virginia:2015:Tallaperla lobata
+Virginia:2015:Thoburnia hamiltoni
+Virginia:2015:Tischeria perplexa
+Virginia:2015:Toxolasma lividus
+Virginia:2015:Toxostoma rufum
+Virginia:2015:Trachemys scripta scripta
+Virginia:2015:Trachemys scripta troostii
+Virginia:2015:Trichechus manatus latirostris
+Virginia:2015:Trichomeris sinuata
+Virginia:2015:Trichopetalum lunatum
+Virginia:2015:Triodopsis picea
+Virginia:2015:Triodopsis rugosa
+Virginia:2015:Tritogonia verrucosa
+Virginia:2015:Truncilla truncata
+Virginia:2015:Tursiops truncatus
+Virginia:2015:Uroblaniulus canadensis
+Virginia:2015:Valvata tricarinata
+Virginia:2015:Ventridens arcellus
+Virginia:2015:Ventridens decussatus
+Virginia:2015:Ventridens lasmodon
+Virginia:2015:Vermivora chrysoptera
+Virginia:2015:Vertigo clappi
+Virginia:2015:Vertigo ovata
+Virginia:2015:Vertigo teskeyae
+Virginia:2015:Vertigo ventricosa
+Virginia:2015:Villosa constricta
+Virginia:2015:Villosa perpurpurea
+Virginia:2015:Virginia valeriae pulchra
+Virginia:2015:Wormaldia thyria
+Virginia:2015:Zale curema
+Wisconsin:2005:Canis lupus
+Wisconsin:2005:Driotura robusta
+Wisconsin:2005:Dubiraphia bivittata
+Wisconsin:2005:Emydoidea blandingii
+Wisconsin:2005:Enochrus hamiltoni
+Wisconsin:2005:Gyrinus impressicollis
+Wisconsin:2005:Haliplus apostolicus
+Wisconsin:2005:Ischnura hastata
+Wisconsin:2005:Laccornis latens
+Wisconsin:2005:Leucrocuta maculipennis
+Wisconsin:2005:Leuctra ferruginea
+Wisconsin:2005:Macdunnoa persimplex
+Wisconsin:2005:Martes americana
+Wisconsin:2005:Microvelia fontinalis
+Wisconsin:2005:Oarisma powesheik
+Wisconsin:2005:Ophiogomphus howei
+Wisconsin:2005:Parameletus chelifer
+Wisconsin:2005:Phalacrocera tipulina
+Wisconsin:2005:Plauditus cestus
+Wisconsin:2005:Postelichus lithophilus
+Wisconsin:2005:Problema byssus
+Wisconsin:2005:Pseudocloeon longipalpus
+Wisconsin:2005:Ptichodis bistrigata
+Wisconsin:2005:Rhyacophila lobifera
+Wisconsin:2005:Sanfilippodytes pseudovilis
+Wisconsin:2005:Schistocerca damnifica
+Wisconsin:2005:Serratella sordida
+Wisconsin:2005:Spermophilus franklinii
+Wisconsin:2005:Stenelmis douglasensis
+Wisconsin:2005:Stenelmis fuscata
+Wisconsin:2005:Stenelmis quadrimaculata
+Wisconsin:2005:Stenelmis sexlineata
+Wisconsin:2005:Thamnophis proximus
+Wisconsin:2005:Trimerotropis huroniana
+Wisconsin:2005:Trimerotropis verruculata
+Wisconsin:2005:Ulomorpha sp.
+Wyoming:2005:Aechmophorus clarkii
+Wyoming:2005:Aegolius funereus
+Wyoming:2005:Amphispiza belli
+Wyoming:2005:Aphelocoma californica
+Wyoming:2005:Ardea herodias
+Wyoming:2005:Asio flammeus
+Wyoming:2005:Athene cunicularia
+Wyoming:2005:Aythya affinis
+Wyoming:2005:Aythya valisineria
+Wyoming:2005:Brachylagus idahoensis
+Wyoming:2005:Branchinecta packardi
+Wyoming:2005:Branchinecta redingi
+Wyoming:2005:Calcarius ornatus
+Wyoming:2005:Chrysemys picta bellii
+Wyoming:2005:Cnemidophorus sexlineatus viridis
+Wyoming:2005:Coccyzus americanus
+Wyoming:2005:Coluber constrictor flaviventris
+Wyoming:2005:Cottus beldingi
+Wyoming:2005:Discus shimekii
+Wyoming:2005:Dolichonyx oryzivorus
+Wyoming:2005:Eubranchipus bundyi
+Wyoming:2005:Eubranchipus serratus
+Wyoming:2005:Eumeces multivirgatus
+Wyoming:2005:Falco peregrinus
+Wyoming:2005:Fluminicola coloradoensis
+Wyoming:2005:Fossaria dalli
+Wyoming:2005:Holbrookia maculata
+Wyoming:2005:Larus pipixcan
+Wyoming:2005:Myotis ciliolabrum
+Wyoming:2005:Noturus flavus
+Wyoming:2005:Oncorhynchus clarki ssp.
+Wyoming:2005:Oreohelix swopei
+Wyoming:2005:Perognathus flavus
+Wyoming:2005:Peromyscus crinitus
+Wyoming:2005:Phrynosoma hernandesi hernandesi
+Wyoming:2005:Physella spelunca
+Wyoming:2005:Pituophis catenifer deserticola
+Wyoming:2005:Platygobio gracilis
+Wyoming:2005:Plegadis chihi
+Wyoming:2005:Rana luteiventris
+Wyoming:2005:Rana sylvatica
+Wyoming:2005:S. elodes
+Wyoming:2005:Sceloporus undulatus garmani
+Wyoming:2005:Sorex nanus
+Wyoming:2005:Sorex palustris
+Wyoming:2005:Streptocephalus mattoxi
+Wyoming:2005:Thamnophis radix
+Wyoming:2005:Thomomys idahoensis
+Wyoming:2005:Urosaurus ornatus wrighti
+Wyoming:2005:Vertigo paradoxa

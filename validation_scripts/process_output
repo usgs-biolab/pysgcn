@@ -1,0 +1,23 @@
+#!/bin/sh
+
+infile="../validation_output.txt"
+outfile="./validation_output_processed.txt"
+tempfile="temp.txt"
+tempfile2="temp2.txt"
+
+echo
+echo "infile = " $infile
+echo "outfile = " $outfile
+echo
+
+rm -f $tempfile $tempfile2
+
+grep -i "state:\|species ct:" $infile > $tempfile
+cat $tempfile | awk -F":" '{print $2}' > $tempfile2
+
+while true
+do
+    read line1 || break
+    read line2 || break
+    echo $line1:$line2
+done <$tempfile2 | sort | sed s/\"//g > $outfile

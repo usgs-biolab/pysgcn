@@ -1,0 +1,63 @@
+README for validation of SGCN pipeline data:
+
+The python script: validate_sgcn_input.py should be run to help validate recently generated SGCN pipeline data.
+Before running this script you will need the SGCN pipeline run id from your latest pipeline run.
+It will look something like: fe39b3e4-d11c-11ea-8f9a-023f40fa784e
+I know this is klunky right now, but edit the validate_sgcn_input.py script and change the pipeline_run variable to your run id
+the execute the script.
+
+This script will fetch all SGCN state/year/species data from the SWAP site and validate it.
+Results of the validation will output to stdout as well as to the file: ./validation_output.txt
+
+This will show all states processed, the number of valid species processed for each state and all species records
+that have been rejected due to invalid or duplicate data.
+
+At the end of the run will be a summary that looks like:
+
+total states processed = 112
+total species ct = 50531
+total bad record ct = 13
+total dupe record ct = 25
+final species ct = 50493
+
+total SGCN pipeline records = 50443
+
+The last number in this summary comes from the actual number of records processed by your SGCN pipeline run 
+(identified by the run number you inserted into the validate_sgcn_input.py script)
+
+It is very likely the "final species ct" and "total SGCN pipeline records" values will differ.
+If their difference is less than 1%, you likely have a solid run on your pipeline.
+The most likely reason for differences in the numbers is due to bad input data back on the SWAP site or other SB
+sites that are used to process the SGCN pipeline.  Garbage-in = Garbage-out.
+
+If you want to dig into exactly where the differences are, the following will help:
+
+You will first need to download a full data set form your pipeline run using SGCN APIs.
+THIS IS CUMBERSOME AND STILL A MANUAL PROCESS.  SORRY.
+
+1) navigate to https://7y9ycz4ki4.execute-api.us-west-2.amazonaws.com/prod/#/Runs/
+2) execute the /runs/{id}/results endpoint
+	- use your pipeline run id for the id field
+	- enter 1 for the page id
+	- enter 5000 for the items per page
+	- download the results from the web page and save them in ./pipeline_data/response_1.json
+3) repeat this process until you have all 50000+ results incrementing the page id to 2, 3, etc
+   and saving the results to ./pipeline_data/response_2.json, etc...
+Make a note of how many data sets you downloaded (probably 11)
+
+The size of 5000 is a good compromise between getting enough results on each GET and not trying to GET
+so many results that the endpoint times out.
+
+Now that you've downloaded all the data from your SGCN pipeline run, go to the validation_scripts directory
+and execute ./process_published_results and pass as the first argument the number of datasets you downloaded.
+
+Then execute ./process_output
+Then execute ./count
+
+This final script will show you which states are showing species differences between expected numbers of 
+species processed and actual number of species processed.
+
+To trouble-shoot further, you may need to get fancy with grep/awk/sed and your downloaded data in combination
+with modifying the validate_sgcn_input.py script.  It is not usually obvious why these numbers differ.
+
+NOTE: This all obviously needs more automation, but this is a solid start because we had nothing before...
