@@ -43,6 +43,7 @@ def process_2(
         if mapping['rank'] == "Class":
             taxodata = {'taxoname' : mapping['name'], 'taxogroup' : mapping['sgcntaxonomicgroup']}
             class_list.append(taxodata)
+            print('{}'.format(taxodata))
 
     # species extracted from the source file to process
     species = []
@@ -54,6 +55,8 @@ def process_2(
 
     # Stage 4 Process Source Data
     for spec in res:
+        if spec['scientific name'] != "Typhlatya monae" and spec['scientific name'] != "Megaptera novaeangliae" and spec['scientific name'] != "Orbicella annularis" and spec['scientific name'] != "Plectomerus sloatianus":
+            continue
         try:
             # validate data against the json schema
             valid = sgcn.validate_data(spec)
@@ -113,6 +116,10 @@ def process_3(
             sgcn_record["data"]["taxonomic category"] = taxo_group
 
     print('     class({})  taxogroup({})  sgcnTaxoGroup({})'.format(class_name, taxo_group, sgcn_record["data"]["taxonomic category"]))
+    if "commonname" in sgcn_record["data"].keys():
+        print('    commonname: {}'.format(sgcn_record["data"]["commonname"]))
+    if "taxonomic_authority_url" in sgcn_record["data"].keys():
+        print('    taxonomic_authority_url: {}'.format(sgcn_record["data"]["taxonomic_authority_url"]))
     # send the final result to the database
     send_final_result(sgcn_record)
 

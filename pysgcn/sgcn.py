@@ -16,10 +16,10 @@ class Sgcn:
     def __init__(self, operation_mode="local", cache_root=None, cache_manager=None):
         self.description = "Set of functions for assembling the SGCN database"
         # This item_id gives all 112 state/year combos to process
-        self.sgcn_root_item = '56d720ece4b015c306f442d5'
+        #self.sgcn_root_item = '56d720ece4b015c306f442d5'
 
         # This item_id is our test location that gives just a few state/year combos
-        #self.sgcn_root_item = '5ef51d8082ced62aaae69f05'
+        self.sgcn_root_item = '5ef51d8082ced62aaae69f05'
 
         self.resources_path = 'resources/'
         self.cache_manager = cache_manager
@@ -869,9 +869,20 @@ class Sgcn:
         name processing in information gathering functions and WoRMS. Any of these can be None.
         '''
         taxa_summary_msg, name_queue, worms_queue = self.search_itis(message)
+        if taxa_summary_msg is not None:
+            print(' (ITIS Taxa Summary FOUND) ', end='')
 
         if worms_queue is not None:
-            return self.search_worms(worms_queue)
+            worms_summary = self.search_worms(worms_queue)
+            if worms_summary[0] is not None:
+                print(' (WoRMS Taxa Summary FOUND) ', end='')
+                # BCB-1569: This appears to be missing from all WoRMS entries
+                if 'common name' in message.keys():
+                    worms_summary[0]['commonname'] = message['common name']
+            else:
+                print(' (WoRMS summary NOT FOUND) ', end='')
+
+            return worms_summary
 
         return taxa_summary_msg, name_queue
 

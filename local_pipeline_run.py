@@ -106,9 +106,9 @@ class CacheManager:
 lambda_handler({
     "run_id": "ef33db60-543d-11ea-a34e-023f40fa784e",
     # This item_id gives all 112 state/year combos to process
-    "sb_item_id": "56d720ece4b015c306f442d5",
+    #"sb_item_id": "56d720ece4b015c306f442d5",
 
     # This item_id is our test location that gives just a few state/year combos
-    #"sb_item_id": "5ef51d8082ced62aaae69f05",
+    "sb_item_id": "5ef51d8082ced62aaae69f05",
     "download_uri": cache_root
 }, {})
