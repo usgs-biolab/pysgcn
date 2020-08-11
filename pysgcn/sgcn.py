@@ -6,6 +6,7 @@ import pysppin
 import os
 import json
 import pkg_resources
+#from . import myworms
 
 common_utils = pysppin.utils.Utils()
 itis_api = pysppin.itis.ItisApi()
@@ -985,19 +986,21 @@ class Sgcn:
                 if source_results:
                     print('\n    source: WORMS, found in cache')
                     print('    status: {}'.format(source_results['processing_metadata']['status']))
+            # Need to check status?? rather than "not source_results"
             if sppin_source == "worms" or not source_results:
                 if sppin_source == "worms":
                     print('    WORMS: ignoring cache')
                 name_source, source_date = self.get_source_data(message)
                 source_results = get_data(sppin_key, name_source, source_date)
-                print('    WORMS status after fetch: {}'.format(source_results['processing_metadata']['status']))
-                try:
-                    res = requests.get("http://www.marinespecies.org/rest/AphiaRecordsByName/Typhlatya monae?like=false&marine_only=false&offset=")
-                    print('    successful http GET: {}'.format(res))
-                    res = requests.get("https://www.marinespecies.org/rest/AphiaRecordsByName/Typhlatya monae?like=false&marine_only=false&offset=", verify=False)
-                    print('    successful https GET verify = false: {}'.format(res))
-                except Exception as e:
-                    print('    exception on http GET: {}'.format(e))
+                if sppin_source == "worms":
+                    print('    WORMS status after fetch: {}'.format(source_results['processing_metadata']['status']))
+                    try:
+                        res = requests.get("http://www.marinespecies.org/rest/AphiaRecordsByName/Typhlatya monae?like=false&marine_only=false&offset=")
+                        print('    http GET http://www.marinespecies.org...: {}'.format(res))
+                        res = requests.get("https://services.itis.gov/?wt=json&rows=10&q=nameWOInd:Megaptera novaeangliae")
+                        print('    http GET https://services.itis.gov...: {}'.format(res))
+                    except Exception as e:
+                        print('    exception on http GET: {}'.format(e))
 
                 self.cache_manager.add_to_cache(key, source_results)
 
