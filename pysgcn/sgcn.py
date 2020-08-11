@@ -993,7 +993,9 @@ class Sgcn:
                 print('    WORMS status after fetch: {}'.format(source_results['processing_metadata']['status']))
                 try:
                     res = requests.get("http://www.marinespecies.org/rest/AphiaRecordsByName/Typhlatya monae?like=false&marine_only=false&offset=")
-                    print('    successful GET: {}'.format(res))
+                    print('    successful http GET: {}'.format(res))
+                    res = requests.get("https://www.marinespecies.org/rest/AphiaRecordsByName/Typhlatya monae?like=false&marine_only=false&offset=", verify=False)
+                    print('    successful https GET verify = false: {}'.format(res))
                 except Exception as e:
                     print('    exception on http GET: {}'.format(e))
 
