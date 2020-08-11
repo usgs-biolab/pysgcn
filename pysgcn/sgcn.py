@@ -990,6 +990,13 @@ class Sgcn:
                     print('    WORMS: ignoring cache')
                 name_source, source_date = self.get_source_data(message)
                 source_results = get_data(sppin_key, name_source, source_date)
+                print('    WORMS status after fetch: {}'.format(source_results['processing_metadata']['status']))
+                try:
+                    res = requests.get("http://www.marinespecies.org/rest/AphiaRecordsByName/Typhlatya monae?like=false&marine_only=false&offset=")
+                    print('    successful GET: {}'.format(res))
+                except Exception as e:
+                    print('    exception on http GET: {}'.format(e))
+
                 self.cache_manager.add_to_cache(key, source_results)
 
             return source_results
