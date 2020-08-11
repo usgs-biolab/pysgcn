@@ -875,7 +875,7 @@ class Sgcn:
         if worms_queue is not None:
             worms_summary = self.search_worms(worms_queue)
             if worms_summary[0] is not None:
-                print(' (WoRMS Taxa Summary FOUND) ', end='')
+                print('    (WoRMS Taxa Summary FOUND) ', end='')
                 # BCB-1569: This appears to be missing from all WoRMS entries
                 if 'common name' in message.keys():
                     worms_summary[0]['commonname'] = message['common name']
@@ -981,7 +981,13 @@ class Sgcn:
             key = "{}:{}".format(sppin_source, sppin_key)
 
             source_results = self.cache_manager.get_from_cache(key)
-            if not source_results:
+            if sppin_source == "worms":
+                if source_results:
+                    print('\n    source: WORMS, found in cache')
+                    print('    status: {}'.format(source_results['processing_metadata']['status']))
+            if sppin_source == "worms" or not source_results:
+                if sppin_source == "worms":
+                    print('    WORMS: ignoring cache')
                 name_source, source_date = self.get_source_data(message)
                 source_results = get_data(sppin_key, name_source, source_date)
                 self.cache_manager.add_to_cache(key, source_results)

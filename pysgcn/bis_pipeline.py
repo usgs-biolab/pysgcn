@@ -43,7 +43,6 @@ def process_2(
         if mapping['rank'] == "Class":
             taxodata = {'taxoname' : mapping['name'], 'taxogroup' : mapping['sgcntaxonomicgroup']}
             class_list.append(taxodata)
-            print('{}'.format(taxodata))
 
     # species extracted from the source file to process
     species = []
