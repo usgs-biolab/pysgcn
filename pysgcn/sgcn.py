@@ -6,7 +6,7 @@ import pysppin
 import os
 import json
 import pkg_resources
-#from . import myworms
+import time
 
 common_utils = pysppin.utils.Utils()
 itis_api = pysppin.itis.ItisApi()
@@ -17,10 +17,10 @@ class Sgcn:
     def __init__(self, operation_mode="local", cache_root=None, cache_manager=None):
         self.description = "Set of functions for assembling the SGCN database"
         # This item_id gives all 112 state/year combos to process
-        #self.sgcn_root_item = '56d720ece4b015c306f442d5'
+        self.sgcn_root_item = '56d720ece4b015c306f442d5'
 
         # This item_id is our test location that gives just a few state/year combos
-        self.sgcn_root_item = '5ef51d8082ced62aaae69f05'
+        #self.sgcn_root_item = '5ef51d8082ced62aaae69f05'
 
         self.resources_path = 'resources/'
         self.cache_manager = cache_manager
@@ -105,6 +105,16 @@ class Sgcn:
                 raise ValueError("When operating this system you must supply cache_manager")
             self.raw_data_path = ""
 
+    def testWormsAndITISConnections(self):
+        print('Testing connection to WoRMS and ITIS...')
+        try:
+            res = requests.get("http://www.marinespecies.org/rest/AphiaRecordsByName/Typhlatya monae?like=false&marine_only=false&offset=")
+            print('    http GET http://www.marinespecies.org...: {}'.format(res))
+            res = requests.get("https://services.itis.gov/?wt=json&rows=10&q=nameWOInd:Megaptera novaeangliae")
+            print('    http GET https://services.itis.gov...: {}'.format(res))
+        except Exception as e:
+            print('    exception on http GET: {}'.format(e))
+
     def cache_sgcn_metadata(self, return_data=False):
         '''
         The SGCN collection item contains a number of metadata files that help to control and augment the process of
@@ -135,10 +145,6 @@ class Sgcn:
 
             if return_data:
                 table_list[file["title"]] = data_content
-
-            #if file["name"] == "sgcnTaxonomicGroupMappings.json":
-                #print('--> name: {}'.format(file["name"]))
-                #print('--> data_content: {}'.format(data_content))
 
             try:
                 self.sql_metadata.bulk_insert("sgcn_meta", file["title"], data_content)
@@ -247,6 +253,8 @@ class Sgcn:
             "fields": "title,dates,files,tags",
             "max": 1000
         }
+
+        self.testWormsAndITISConnections()
 
         items = self.sb.find_items(params)
 
@@ -870,21 +878,22 @@ class Sgcn:
         name processing in information gathering functions and WoRMS. Any of these can be None.
         '''
         taxa_summary_msg, name_queue, worms_queue = self.search_itis(message)
-        if taxa_summary_msg is not None:
-            print(' (ITIS Taxa Summary FOUND) ', end='')
 
         if worms_queue is not None:
             worms_summary = self.search_worms(worms_queue)
             if worms_summary[0] is not None:
-                print('    (WoRMS Taxa Summary FOUND) ', end='')
+                print('(WoRMS summary FOUND)', end='')
                 # BCB-1569: This appears to be missing from all WoRMS entries
                 if 'common name' in message.keys():
                     worms_summary[0]['commonname'] = message['common name']
             else:
-                print(' (WoRMS summary NOT FOUND) ', end='')
+                print('(WoRMS summary NOT FOUND)', end='')
 
             return worms_summary
 
+        if taxa_summary_msg is not None:
+            if 'common name' in message.keys():
+                taxa_summary_msg['commonname'] = message['common name']
         return taxa_summary_msg, name_queue
 
     def search_itis(self, message):
@@ -982,26 +991,12 @@ class Sgcn:
             key = "{}:{}".format(sppin_source, sppin_key)
 
             source_results = self.cache_manager.get_from_cache(key)
-            if sppin_source == "worms":
-                if source_results:
-                    print('\n    source: WORMS, found in cache')
-                    print('    status: {}'.format(source_results['processing_metadata']['status']))
-            # Need to check status?? rather than "not source_results"
-            if sppin_source == "worms" or not source_results:
-                if sppin_source == "worms":
-                    print('    WORMS: ignoring cache')
+            if not source_results:
                 name_source, source_date = self.get_source_data(message)
                 source_results = get_data(sppin_key, name_source, source_date)
-                if sppin_source == "worms":
-                    print('    WORMS status after fetch: {}'.format(source_results['processing_metadata']['status']))
-                    try:
-                        res = requests.get("http://www.marinespecies.org/rest/AphiaRecordsByName/Typhlatya monae?like=false&marine_only=false&offset=")
-                        print('    http GET http://www.marinespecies.org...: {}'.format(res))
-                        res = requests.get("https://services.itis.gov/?wt=json&rows=10&q=nameWOInd:Megaptera novaeangliae")
-                        print('    http GET https://services.itis.gov...: {}'.format(res))
-                    except Exception as e:
-                        print('    exception on http GET: {}'.format(e))
-
+                # THIS SLEEP IS IMPORTANT.  We MUST guarantee that we don't hit the
+                # WoRMS site any more than twice per second or they will block us.
+                time.sleep(0.500)
                 self.cache_manager.add_to_cache(key, source_results)
 
             return source_results
