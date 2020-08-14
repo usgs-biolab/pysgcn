@@ -991,7 +991,9 @@ class Sgcn:
             key = "{}:{}".format(sppin_source, sppin_key)
 
             source_results = self.cache_manager.get_from_cache(key)
-            if not source_results:
+            if sppin_source.lower() == "worms" or not source_results:
+                if sppin_source.lower() == "worms":
+                    print('(WORMS: Fetching new record)', end='')
                 name_source, source_date = self.get_source_data(message)
                 source_results = get_data(sppin_key, name_source, source_date)
                 # THIS SLEEP IS IMPORTANT.  We MUST guarantee that we don't hit the
