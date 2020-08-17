@@ -39,13 +39,13 @@ THIS IS CUMBERSOME AND STILL A MANUAL PROCESS.  SORRY.
 2) execute the /runs/{id}/results endpoint
 	- use your pipeline run id for the id field
 	- enter 1 for the page id
-	- enter 5000 for the items per page
+	- enter 4000 for the items per page
 	- download the results from the web page and save them in ./pipeline_data/response_1.json
 3) repeat this process until you have all 50000+ results incrementing the page id to 2, 3, etc
    and saving the results to ./pipeline_data/response_2.json, etc...
 Make a note of how many data sets you downloaded (probably 11)
 
-The size of 5000 is a good compromise between getting enough results on each GET and not trying to GET
+The size of 4000 is a good compromise between getting enough results on each GET and not trying to GET
 so many results that the endpoint times out.
 
 Now that you've downloaded all the data from your SGCN pipeline run, go to the validation_scripts directory

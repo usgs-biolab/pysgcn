@@ -91,7 +91,7 @@ def get_total_input_items():
 sys.stdout = Logger() 
 
 # CHANGE THIS PARAMETER to be the run id of your latest SGCN pipeline run
-pipeline_run = "fe39b3e4-d11c-11ea-8f9a-023f40fa784e"
+pipeline_run = "705da83c-de64-11ea-a3a1-023f40fa784e"
 
 total_processed = get_total_records_processed_by_pipeline(pipeline_run)    
 
