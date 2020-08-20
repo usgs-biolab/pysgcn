@@ -2,7 +2,7 @@ import json
 import hashlib
 from . import sgcn as pysgcn
 import pysppin
-import validate_sgcn_input
+from pysgcn import validate_sgcn_input
 
 json_schema = None
 
