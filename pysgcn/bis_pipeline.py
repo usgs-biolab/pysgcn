@@ -30,9 +30,8 @@ def process_1(
     data['totals'] = rawdata['totals']
     data['states'] = rawdata['states']
 
-    res = cache_manager.get_from_cache(pipeline_id)
-    if not res:
-        cache_manager.add_to_cache(pipeline_id, json.dumps(data))
+    print('Adding validation results for: {} : {}'.format(pipeline_id, json.dumps(data)))
+    cache_manager.add_to_cache(pipeline_id, json.dumps(data))
 
 def process_2(
     path,

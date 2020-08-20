@@ -100,6 +100,11 @@ class CacheManager:
         return res[0]["value"] if res else None
 
     def add_to_cache(self, key, value):
+
+        res = self.get_from_cache(key)
+        if res:
+            return res;
+
         data = {"key": key, "value": value}
         return self.sql_cache.insert_record(self.cache_folder, self.table_name, data)
 
