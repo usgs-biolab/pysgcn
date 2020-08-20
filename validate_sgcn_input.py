@@ -21,6 +21,14 @@ class Logger(object):
         #you might want to specify some extra behavior here.
         pass    
 
+def get_latest_sgcn_run_id():
+    URL = "https://7y9ycz4ki4.execute-api.us-west-2.amazonaws.com/prod/runs?pipeline=SGCN&nextPage=true"
+    r = requests.get(url = URL)
+
+    data = r.json()
+    id = data['data'][0]['id']
+    return id
+
 def get_total_records_processed_by_pipeline(pipeline_run):
     print('Getting records processed by SGCN pipeline...')
     URL = "https://7y9ycz4ki4.execute-api.us-west-2.amazonaws.com/prod/runs/" + pipeline_run
@@ -42,6 +50,7 @@ def get_total_input_items():
     bad_record_ct = 0
     dupe_record_ct = 0
     state_ct = 0
+    states = dict()
     
     for item in items:
         print('--> state: {} ({})'.format(item['state'], item['year']))
@@ -75,8 +84,11 @@ def get_total_input_items():
                 bad_state_ct = bad_state_ct + 1  
                 
             species_ct = species_ct + 1
-            
-        print('    Species Ct: {}'.format(species_ct - bad_state_ct - dupe_state_ct))
+
+        state_species_ct = species_ct - bad_state_ct - dupe_state_ct
+        print('    Species Ct: {}'.format(state_species_ct))
+        state_key = item['state'] + " (" + item['year'] + ")"
+        states[state_key] = state_species_ct
         dupe_record_ct = dupe_record_ct + dupe_state_ct
         bad_record_ct = bad_record_ct + bad_state_ct
         total_species_ct = total_species_ct + species_ct
@@ -86,17 +98,41 @@ def get_total_input_items():
     print('total species ct = {}'.format(total_species_ct))
     print('total bad record ct = {}'.format(bad_record_ct))
     print('total dupe record ct = {}'.format(dupe_record_ct))
-    print('final species ct = {}'.format(total_species_ct - bad_record_ct - dupe_record_ct))
- 
-sys.stdout = Logger() 
+    final_species_ct = total_species_ct - bad_record_ct - dupe_record_ct
+    print('final species ct = {}'.format(final_species_ct))
+    total = dict()
+    total['total_species_processed'] = total_species_ct
+    total['bad_records'] = bad_record_ct
+    total['duplicate_records'] = dupe_record_ct
+    total['final_species_ct'] = final_species_ct
 
-# CHANGE THIS PARAMETER to be the run id of your latest SGCN pipeline run
-pipeline_run = "705da83c-de64-11ea-a3a1-023f40fa784e"
+    return total, states
 
-total_processed = get_total_records_processed_by_pipeline(pipeline_run)    
+def validate_latest_run(local=False):
+    if local:
+        sys.stdout = Logger()
 
-get_total_input_items()
-print('\ntotal SGCN pipeline records = {}'.format(total_processed))  
+    pipeline_id = get_latest_sgcn_run_id()
+
+    # CHANGE THIS PARAMETER to be the run id of a specific run you would like to
+    # validate, otherwise, comment it out and let get_latest_sgcn_run_id() get the latest.
+    #pipeline_id = "705da83c-de64-11ea-a3a1-023f40fa784e"
+
+    total_processed = get_total_records_processed_by_pipeline(pipeline_id)
+
+    state_totals, states = get_total_input_items()
+    data = dict()
+    data['pipeline_id'] = pipeline_id
+    pipeline_totals = dict()
+    pipeline_totals['pipeline_total'] = total_processed
+    totals = {**pipeline_totals, **state_totals}
+    data['totals'] = totals
+    data['states'] = states
+    print('\ntotal SGCN pipeline records = {}'.format(total_processed))
+    return data
+
+if __name__ == "__main__":
+    data = validate_latest_run(True)
 
 
 

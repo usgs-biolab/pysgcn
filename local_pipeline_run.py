@@ -104,7 +104,7 @@ class CacheManager:
         return self.sql_cache.insert_record(self.cache_folder, self.table_name, data)
 
 lambda_handler({
-    "run_id": "ef33db60-543d-11ea-a34e-023f40fa784e",
+    "run_id": "705da83c-de64-11ea-a3a1-023f40fa784e",
     # This item_id gives all 112 state/year combos to process
     #"sb_item_id": "56d720ece4b015c306f442d5",
 
