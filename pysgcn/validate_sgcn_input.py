@@ -128,7 +128,7 @@ def validate_latest_run(local=False):
     totals = {**pipeline_totals, **state_totals}
     data['totals'] = totals
     data['states'] = states
-    print('\ntotal SGCN pipeline records = {}'.format(total_processed))
+    print('\ntotal SGCN pipeline records ({}) = {}'.format(pipeline_id, total_processed))
     return data
 
 if __name__ == "__main__":
