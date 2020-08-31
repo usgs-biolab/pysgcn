@@ -995,7 +995,8 @@ class Sgcn:
                 # WoRMS site any more than twice per second or they will block us.
                 # We originally had this at 0.5 sec, but since our lambdas operate
                 # at a concurrency of 2, we have to increase this to 1.0
-                time.sleep(1.000)
+                if sppin_source == "worms":
+                    time.sleep(1.000)
                 # Only cache results if they're successfully found
                 if self.success(source_results):
                     self.cache_manager.add_to_cache(key, source_results)
