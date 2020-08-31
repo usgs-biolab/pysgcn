@@ -20,7 +20,7 @@ class Sgcn:
         self.sgcn_root_item = '56d720ece4b015c306f442d5'
 
         # This item_id is our test location that gives just a few state/year combos
-        #self.sgcn_root_item = '5ef51d8082ced62aaae69f05'  OBSOLETE Don't use
+        #self.sgcn_root_item = '5ef51d8082ced62aaae69f05'
 
         self.resources_path = 'resources/'
         self.cache_manager = cache_manager

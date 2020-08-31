@@ -113,4 +113,3 @@ mydatabase
 .pydevproject
 validation_scripts/*.txt
 validation*.txt
-pipeline_output.txt
