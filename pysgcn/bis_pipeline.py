@@ -66,7 +66,7 @@ def process_2(
     # BCB-1556
     class_list = list()
     for mapping in sgcn_meta["Taxonomic Group Mappings"]:
-        if mapping['rank'].lower() == "class" or mapping['rank'].lower() == "infraclass":
+        if mapping['rank'].lower() == "class":
             taxodata = {'taxoname' : mapping['name'], 'taxogroup' : mapping['sgcntaxonomicgroup']}
             class_list.append(taxodata)
 
