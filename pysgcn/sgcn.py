@@ -919,7 +919,7 @@ class Sgcn:
             worms_summary = self.search_worms(worms_queue)
             if worms_summary[0] is not None:
                 # BCB-1569: This appears to be missing from all WoRMS entries
-                if 'common name' in message.keys():
+                if 'commonname' not in worms_summary[0].keys() and 'common name' in message.keys():
                     worms_summary[0]['commonname'] = message['common name']
 
             return worms_summary
