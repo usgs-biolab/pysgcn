@@ -925,7 +925,7 @@ class Sgcn:
             return worms_summary
 
         if taxa_summary_msg is not None:
-            if 'common name' in message.keys():
+            if 'commonname' not in taxa_summary_msg.keys() and 'common name' in message.keys():
                 taxa_summary_msg['commonname'] = message['common name']
         return taxa_summary_msg, name_queue
 

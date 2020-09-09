@@ -23,9 +23,9 @@ def process_1(
 
     test_data = list()
     # This is to allow the test data set to be reduced to targeted State/year
-    # combos for local debugging
-    #test_data = (("Puerto Rico", "2015"), ("xNorth Dakota", "2015"), ("xOhio", "2015"), ("xOklahoma", "2015"), ("xOregon", "2015"))
-
+    # combos for local debugging.  We need at least 2 pairs in this list for processing
+    # to work properly due to python's interpretation of a list...
+    #test_data = (("placeholder", "1000"), ("Puerto Rico", "2015"), ("xNorth Dakota", "2015"), ("xOhio", "2015"), ("xOklahoma", "2015"), ("xOregon", "2015"))
 
     for item in process_items:
         if not test_data or in_test_data(item, test_data):
@@ -83,7 +83,6 @@ def process_2(
     # Uncomment one of the following lines
     testSpecies = None
     #testSpecies = ["Typhlatya monae", "Megaptera novaeangliae", "Orbicella annularis", "Plectomerus sloatianus"]
-    #testSpecies = ["Coccyzus vieilloti"]
 
     # Stage 4 Process Source Data
     for spec in res:
@@ -125,10 +124,10 @@ def process_3(
     cache_manager,
 ):
     sgcn = pysgcn.Sgcn(operation_mode='pipeline', cache_manager=cache_manager)
-    print('--- species {} ({})  '.format(previous_stage_result["scientific name"], previous_stage_result['common name']), end='')
 
     # Stage 5 ITIS, WoRMS
     taxa_summary_msg, name_queue = sgcn.gather_taxa_summary(previous_stage_result)
+    print('--- species {} ({})  '.format(previous_stage_result["scientific name"], taxa_summary_msg['commonname']), end='')
 
     # BCB-1556
     class_name = "none"
