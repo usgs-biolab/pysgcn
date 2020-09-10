@@ -127,7 +127,11 @@ def process_3(
 
     # Stage 5 ITIS, WoRMS
     taxa_summary_msg, name_queue = sgcn.gather_taxa_summary(previous_stage_result)
-    print('--- species {} ({})  '.format(previous_stage_result["scientific name"], taxa_summary_msg['commonname']), end='')
+    if taxa_summary_msg and 'commonname' in taxa_summary_msg.keys(): 
+        common_name = taxa_summary_msg['commonname']
+    else:
+        common_name = previous_stage_result['common name']
+    print('--- species {} ({})  '.format(previous_stage_result["scientific name"],common_name), end='')
 
     # BCB-1556
     class_name = "none"
