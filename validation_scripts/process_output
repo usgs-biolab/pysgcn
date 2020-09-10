@@ -1,6 +1,6 @@
 #!/bin/sh
 
-infile="../validation_output.txt"
+infile="../pysgcn/validation_output.txt"
 outfile="./validation_output_processed.txt"
 tempfile="temp.txt"
 tempfile2="temp2.txt"
