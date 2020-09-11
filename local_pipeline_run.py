@@ -1,9 +1,9 @@
-import requests
 import json
 from dotenv import load_dotenv, find_dotenv
 from pysgcn import bis_pipeline
 import pysppin
 import time
+import sys
 
 load_dotenv(find_dotenv())
 
@@ -108,12 +108,28 @@ class CacheManager:
         data = {"key": key, "value": value}
         return self.sql_cache.insert_record(self.cache_folder, self.table_name, data)
 
+class Logger(object):
+    def __init__(self):
+        self.terminal = sys.stdout
+        self.log = open("./pipeline_output.txt", "w")
+
+    def write(self, message):
+        self.terminal.write(message)
+        self.log.write(message)
+
+    def flush(self):
+        #this flush method is needed for python 3 compatibility.
+        #this handles the flush command by doing nothing.
+        #you might want to specify some extra behavior here.
+        pass
+
+sys.stdout = Logger()
 lambda_handler({
     "run_id": "705da83c-de64-11ea-a3a1-023f40fa784e",
     # This item_id gives all 112 state/year combos to process
-    #"sb_item_id": "56d720ece4b015c306f442d5",
+    "sb_item_id": "56d720ece4b015c306f442d5",
 
     # This item_id is our test location that gives just a few state/year combos
-    "sb_item_id": "5ef51d8082ced62aaae69f05",
+    #"sb_item_id": "5ef51d8082ced62aaae69f05",  OBSOLETE, Don't use.
     "download_uri": cache_root
 }, {})

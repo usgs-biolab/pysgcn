@@ -20,7 +20,7 @@ class Sgcn:
         self.sgcn_root_item = '56d720ece4b015c306f442d5'
 
         # This item_id is our test location that gives just a few state/year combos
-        #self.sgcn_root_item = '5ef51d8082ced62aaae69f05'
+        #self.sgcn_root_item = '5ef51d8082ced62aaae69f05'  OBSOLETE Don't use
 
         self.resources_path = 'resources/'
         self.cache_manager = cache_manager
@@ -995,7 +995,8 @@ class Sgcn:
                 # WoRMS site any more than twice per second or they will block us.
                 # We originally had this at 0.5 sec, but since our lambdas operate
                 # at a concurrency of 2, we have to increase this to 1.0
-                time.sleep(1.000)
+                if sppin_source == "worms":
+                    time.sleep(1.000)
                 # Only cache results if they're successfully found
                 if self.success(source_results):
                     self.cache_manager.add_to_cache(key, source_results)

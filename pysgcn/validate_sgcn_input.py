@@ -35,7 +35,9 @@ def get_total_records_processed_by_pipeline(pipeline_run):
 
     r = requests.get(url = URL) 
   
-    data = r.json() 
+    data = r.json()
+    if data['data']['error']:
+        print('Error found in pipeline processing: {}'.format(data['data']['error']))
     return data['data']['documents_ingested']
 
 
@@ -128,7 +130,7 @@ def validate_latest_run(local=False):
     totals = {**pipeline_totals, **state_totals}
     data['totals'] = totals
     data['states'] = states
-    print('\ntotal SGCN pipeline records = {}'.format(total_processed))
+    print('\ntotal SGCN pipeline records ({}) = {}'.format(pipeline_id, total_processed))
     return data
 
 if __name__ == "__main__":

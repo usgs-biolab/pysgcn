@@ -21,17 +21,33 @@ def process_1(
     # Stage 1 Get Processable SGCN Items
     process_items = sgcn.get_processable_items()
 
+    test_data = list()
+    # This is to allow the test data set to be reduced to targeted State/year
+    # combos for local debugging
+    #test_data = (("Puerto Rico", "2015"), ("xNorth Dakota", "2015"), ("xOhio", "2015"), ("xOklahoma", "2015"), ("xOregon", "2015"))
+
+
     for item in process_items:
-        send_to_stage(item, 2)
+        if not test_data or in_test_data(item, test_data):
+            send_to_stage(item, 2)
 
-    rawdata = validate_sgcn_input.validate_latest_run(False)
-    pipeline_id = rawdata['pipeline_id']
-    data = dict()
-    data['totals'] = rawdata['totals']
-    data['states'] = rawdata['states']
+    if not test_data:
+        rawdata = validate_sgcn_input.validate_latest_run(False)
+        pipeline_id = rawdata['pipeline_id']
+        data = dict()
+        data['totals'] = rawdata['totals']
+        data['states'] = rawdata['states']
 
-    print('Adding validation results for: {} : {}'.format(pipeline_id, json.dumps(data)))
-    cache_manager.add_to_cache(pipeline_id, json.dumps(data))
+        print('Adding validation results for: {} : {}'.format(pipeline_id, json.dumps(data)))
+        cache_manager.add_to_cache(pipeline_id, json.dumps(data))
+
+def in_test_data(item, test_data):
+    state = item['state']
+    year = item['year']
+    for pair in test_data:
+        if pair[0] == state and pair[1] == year:
+            return True
+    return False
 
 def process_2(
     path,
@@ -50,7 +66,7 @@ def process_2(
     # BCB-1556
     class_list = list()
     for mapping in sgcn_meta["Taxonomic Group Mappings"]:
-        if mapping['rank'] == "Class":
+        if mapping['rank'].lower() == "class":
             taxodata = {'taxoname' : mapping['name'], 'taxogroup' : mapping['sgcntaxonomicgroup']}
             class_list.append(taxodata)
 
@@ -67,6 +83,7 @@ def process_2(
     # Uncomment one of the following lines
     testSpecies = None
     #testSpecies = ["Typhlatya monae", "Megaptera novaeangliae", "Orbicella annularis", "Plectomerus sloatianus"]
+    #testSpecies = ["Coccyzus vieilloti"]
 
     # Stage 4 Process Source Data
     for spec in res:
