@@ -882,12 +882,9 @@ class Sgcn:
         if worms_queue is not None:
             worms_summary = self.search_worms(worms_queue)
             if worms_summary[0] is not None:
-                print('(WoRMS summary FOUND)', end='')
                 # BCB-1569: This appears to be missing from all WoRMS entries
                 if 'common name' in message.keys():
                     worms_summary[0]['commonname'] = message['common name']
-            else:
-                print('(WoRMS summary NOT FOUND)', end='')
 
             return worms_summary
 
@@ -999,11 +996,31 @@ class Sgcn:
                 # We originally had this at 0.5 sec, but since our lambdas operate
                 # at a concurrency of 2, we have to increase this to 1.0
                 time.sleep(1.000)
-                self.cache_manager.add_to_cache(key, source_results)
+                # Only cache results if they're successfully found
+                if self.success(source_results):
+                    self.cache_manager.add_to_cache(key, source_results)
 
             return source_results
         else:
             raise ValueError("A cache_manager must be provided for non local processing.")
+
+    def success(self, source_results):
+        if not source_results:
+            return False
+
+        if not 'processing_metadata' in source_results.keys():
+            return False
+
+        if not 'status' in source_results['processing_metadata'].keys():
+            return False
+
+        if not source_results['processing_metadata']['status']:
+            return False
+
+        if not source_results['processing_metadata']['status'].lower() == "success":
+            return False
+
+        return True
 
     def get_source_data(self, message_body):
         '''

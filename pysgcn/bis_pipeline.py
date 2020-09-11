@@ -2,6 +2,7 @@ import json
 import hashlib
 from . import sgcn as pysgcn
 import pysppin
+from pysgcn import validate_sgcn_input
 
 json_schema = None
 
@@ -22,6 +23,15 @@ def process_1(
 
     for item in process_items:
         send_to_stage(item, 2)
+
+    rawdata = validate_sgcn_input.validate_latest_run(False)
+    pipeline_id = rawdata['pipeline_id']
+    data = dict()
+    data['totals'] = rawdata['totals']
+    data['states'] = rawdata['states']
+
+    print('Adding validation results for: {} : {}'.format(pipeline_id, json.dumps(data)))
+    cache_manager.add_to_cache(pipeline_id, json.dumps(data))
 
 def process_2(
     path,
