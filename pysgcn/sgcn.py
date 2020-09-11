@@ -7,6 +7,7 @@ import os
 import json
 import pkg_resources
 import time
+import math
 
 common_utils = pysppin.utils.Utils()
 itis_api = pysppin.itis.ItisApi()
@@ -26,7 +27,7 @@ class Sgcn:
         self.cache_manager = cache_manager
 
         self.sb = SbSession()
-        self.sgcn_base_item = self.sb.get_item(self.sgcn_root_item)
+        self.sgcn_base_item = self.get_sb_item_with_retry(self.sgcn_root_item)
 
         self.historic_national_list_file = next(
             (f["url"] for f in self.sgcn_base_item["files"] if f["title"] == "Historic 2005 SWAP National List"), None)
@@ -125,7 +126,7 @@ class Sgcn:
         :param return_data: Set to true to return the actual data structures instead of just a list of tables
         :return: List of table names created in caching process
         '''
-        sgcn_collection = self.sb.get_item(self.sgcn_root_item)
+        sgcn_collection = self.get_sb_item_with_retry(self.sgcn_root_item)
 
         if return_data:
             table_list = dict()
@@ -133,7 +134,26 @@ class Sgcn:
             table_list = list()
 
         for file in sgcn_collection["files"]:
-            r_file = requests.get(file["url"])
+            exception = None
+            retries = 5
+            start_time = time.time()
+            for this_try in range(1, retries):
+                backoff = math.pow(2, this_try-1)
+                try:
+                    r_file = requests.get(file["url"])
+                    if r_file.status_code != 200:
+                        reason = "code ({}) {}".format(r_file.status_code, r_file.reason)
+                        raise Exception(reason)
+                    exception = None
+                    break
+                except Exception as e:
+                    print('failure to fetch : {}. Will retry {} more times...Sleeping ({})'.format(file["url"], retries - this_try, backoff))
+                    time.sleep(backoff)
+                    exception = e
+            if exception:
+                elapsed_time = "{:.2f}".format(time.time() - start_time)
+                raise Exception("({} seconds) error trying to fetch : {} : {}".format(elapsed_time, file["url"], exception))
+
             if file["contentType"] == "text/plain":
                 data_content = list()
                 for item in r_file.text.split("\n"):
@@ -155,6 +175,22 @@ class Sgcn:
                     table_list.append(f'{file["title"]} - ALREADY CACHED')
 
         return table_list
+
+    def get_sb_item_with_retry(self, sgcn_root_item):
+        exception = None
+        retries = 5
+        start_time = time.time()
+        for this_try in range(1,retries):
+            try:
+                sgcn_collection = self.sb.get_item(sgcn_root_item)
+                return sgcn_collection
+            except Exception as e:
+                backoff = math.pow(2, this_try-1)
+                print('failure to fetch sgcn_root_item: {}. Will retry {} more times...Sleeping ({})'.format(sgcn_root_item, retries - this_try, backoff))
+                time.sleep(backoff)
+                exception = e
+        elapsed_time = "{:.2f}".format(time.time() - start_time)
+        raise Exception("({} elapsed time) error trying to fetch sgcn_root_item: {} : {}".format(elapsed_time, sgcn_root_item, exception))
 
     def check_historic_list(self, scientific_name, metadata_cache=None):
         '''
