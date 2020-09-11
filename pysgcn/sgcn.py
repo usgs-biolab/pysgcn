@@ -537,8 +537,9 @@ class Sgcn:
             data = itis_result["data"]
             for datum in data:
                 for tax in datum['biological_taxonomy']:
-                    if tax['rank'] == "Class":
+                    if tax['rank'].lower() == "class":
                         class_name = tax['name']
+                        break
 
             name_list.extend([i["nameWInd"] for i in itis_result["data"]])
             name_list.extend([i["nameWOInd"] for i in itis_result["data"]])
@@ -580,6 +581,9 @@ class Sgcn:
         name_queue = None
         worms_summary_msg = None
 
+        # BCB-1556
+        class_name = None
+
         if "data" in worms_result.keys():
             name_list.extend([i["scientificname"] for i in worms_result["data"]])
 
@@ -588,12 +592,23 @@ class Sgcn:
             if valid_worms_doc is not None:
                 worms_summary_msg = worms_result["summary"]
                 worms_summary_msg["sppin_key"] = sppin_key
+                # BCB-1556
+                data = worms_result["data"]
+                for datum in data:
+                    for tax in datum['biological_taxonomy']:
+                        if tax['rank'].lower() == "class":
+                            class_name = tax['name']
+                            break
 
         if len(name_list) > 0:
             name_queue = self.sppin_messages(
                 scientific_name_list=list(set(name_list)),
                 name_source="WoRMS Search"
             )
+
+        # BCB-1556
+        if worms_summary_msg:
+            worms_summary_msg["class_name"] = class_name if class_name else "none"
 
         return worms_summary_msg, name_queue
 
