@@ -125,6 +125,15 @@ def process_3(
 
     print('     class({})  taxogroup({})  sgcnTaxoGroup({})'.format(class_name, taxo_group, sgcn_record["data"]["taxonomic category"]))
 
+    sgcn_record['data']['nationallist'] = False
+    if "taxonomic_authority_url" in sgcn_record['data'].keys():
+        if sgcn_record['data']['taxonomic_authority_url'].startswith("http"):
+            sgcn_record['data']['nationallist'] = True
+
+    if "historic_list" in sgcn_record['data'].keys():
+        if sgcn_record["data"]["historic_list"] == True:
+            sgcn_record['data']['nationallist'] = True
+
     validateSGCNRecord(sgcn_record)
     # send the final result to the database
     send_final_result(sgcn_record)
@@ -159,10 +168,13 @@ def validateSGCNRecord(record):
     check(data, keys, "match_method", badFields)
     check(data, keys, "commonname", badFields)
     check(data, keys, "class_name", badFields)
+    check(data, keys, "nationallist", badFields)
 
     if badFields:
         print('    Warning: SGCN Record: {}'.format(data['id']))
         print('       missing fields: {}'.format(badFields))
+    if data["nationallist"] == False:
+        print('    Warning: SGCN Record: {} NOT on NationalList'.format(data['id']))
 
 def check(data, keys, name, badFields):
     if name not in keys or data[name] == "":

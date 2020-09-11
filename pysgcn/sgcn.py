@@ -996,7 +996,9 @@ class Sgcn:
                 source_results = get_data(sppin_key, name_source, source_date)
                 # THIS SLEEP IS IMPORTANT.  We MUST guarantee that we don't hit the
                 # WoRMS site any more than twice per second or they will block us.
-                time.sleep(0.500)
+                # We originally had this at 0.5 sec, but since our lambdas operate
+                # at a concurrency of 2, we have to increase this to 1.0
+                time.sleep(1.000)
                 self.cache_manager.add_to_cache(key, source_results)
 
             return source_results
