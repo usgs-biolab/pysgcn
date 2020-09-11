@@ -107,3 +107,7 @@ venv.bak/
 
 # VS Code
 .vscode
+
+mydatabase
+.project
+.pydevproject

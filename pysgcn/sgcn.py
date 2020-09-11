@@ -12,11 +12,15 @@ itis_api = pysppin.itis.ItisApi()
 worms = pysppin.worms.Worms()
 pysppin_utils = pysppin.utils.Utils()
 
-
 class Sgcn:
     def __init__(self, operation_mode="local", cache_root=None, cache_manager=None):
         self.description = "Set of functions for assembling the SGCN database"
+        # This item_id gives all 112 state/year combos to process
         self.sgcn_root_item = '56d720ece4b015c306f442d5'
+
+        # This item_id is our test location that gives just a few state/year combos
+        #self.sgcn_root_item = '5ef51d8082ced62aaae69f05'
+
         self.resources_path = 'resources/'
         self.cache_manager = cache_manager
 
@@ -130,6 +134,10 @@ class Sgcn:
 
             if return_data:
                 table_list[file["title"]] = data_content
+
+            #if file["name"] == "sgcnTaxonomicGroupMappings.json":
+                #print('--> name: {}'.format(file["name"]))
+                #print('--> data_content: {}'.format(data_content))
 
             try:
                 self.sql_metadata.bulk_insert("sgcn_meta", file["title"], data_content)
@@ -515,6 +523,9 @@ class Sgcn:
         name_queue = None
         worms_queue = None
 
+        # BCB-1556
+        class_name = None
+
         if "data" not in itis_result.keys() or isinstance(itis_result["data"], float):
             worms_queue = self.sppin_messages(
                 scientific_name_list=name_list,
@@ -522,6 +533,13 @@ class Sgcn:
             )
 
         else:
+            # BCB-1556
+            data = itis_result["data"]
+            for datum in data:
+                for tax in datum['biological_taxonomy']:
+                    if tax['rank'] == "Class":
+                        class_name = tax['name']
+
             name_list.extend([i["nameWInd"] for i in itis_result["data"]])
             name_list.extend([i["nameWOInd"] for i in itis_result["data"]])
 
@@ -542,6 +560,9 @@ class Sgcn:
                 name_source="ITIS Search"
             )
 
+        # BCB-1556
+        if itis_summary_msg:
+            itis_summary_msg["class_name"] = class_name if class_name else "none"
         return itis_summary_msg, name_queue, worms_queue
 
     def process_worms_result(self, worms_result):
