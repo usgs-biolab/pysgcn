@@ -1,0 +1,42 @@
+#!/bin/sh
+
+num_data_sets=11
+
+if [ "$1" == "" ]
+    then
+    echo
+    echo "!! No number of data sets specified.  Defaulting to $num_data_sets"
+    echo
+else
+    num_data_sets=$1
+    fi
+
+data_dir="../pipeline_data"
+
+tempfile="./temp.txt"
+tempfile2="./temp2.txt"
+
+echo
+
+for ((results=1; results<=$num_data_sets; ++results))
+    do
+    rm -f $tempfile $tempfile2
+    infile=$data_dir"/response_"$results".json"
+    outfile=$data_dir"/processed_"$results".txt"
+   
+    echo "Processing "$infile" to "$outfile
+
+    grep -i "\"scientific name\":\|\"state\":\|\"year\":" $infile > $tempfile
+    cat $tempfile | awk -F":" '{print $2}' | awk -F"," '{print $1}' > $tempfile2
+
+    while true
+    do
+        read line1 || break
+        read line2 || break
+        read line3 || break
+        echo $line2:$line3:$line1
+    done <$tempfile2 | sort | sed s/\"//g > $outfile
+
+done
+
+echo

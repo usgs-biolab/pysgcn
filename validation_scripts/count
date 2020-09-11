@@ -1,0 +1,56 @@
+#!/bin/sh
+
+validated_output_file="./validation_output_processed.txt"
+if [ ! -f $validated_output_file ]
+    then
+    echo
+    echo "ERROR:"
+    echo "Missing the validated species input data"
+    echo "1) run get_total_input_items.py"
+    echo "2) execute ./process_output"
+    echo "3) rerun this script"
+    echo
+    exit 1
+    fi
+
+echo 
+echo "NOTE: If you have not processed new SGCN pipeline input data, read the README"
+echo "      in the parent directory and execute the ./process_published_results script first."
+echo
+data_dir="../pipeline_data"
+outfile="./states_count.txt"
+rm -f $outfile
+echo
+echo "outfile = " $outfile
+echo
+echo "Processing state input..."
+
+states1="Alabama Alaska American_Samoa Arizona Arkansas California Colorado Connecticut Delaware District_of_Columbia Florida Georgia Guam"
+states2="Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota"
+states3="Mississippi Missouri Montana Nebraska Nevada New_Hampshire New_Jersey New_Mexico New_York North_Carolina"
+states4="North_Dakota Northern_Mariana_Islands Ohio Oklahoma Oregon Pennsylvania Puerto_Rico Rhode_Island South_Carolina"
+states5="South_Dakota Tennessee Texas U.S._Virgin_Islands Utah Vermont Virgin_Islands Virginia Washington West_Virginia Wisconsin Wyoming"
+
+for state in $states1 $states2 $states3 $states4 $states5
+    do
+    state_p=`echo $state | sed s/_/" "/g`
+    echo "state = " $state_p
+
+    first=`grep ^"$state_p":2005 $data_dir/processed_*.txt  | wc -l`
+    second=`grep ^"$state_p":2015 $data_dir/processed_*.txt  | wc -l`
+
+    if [ "$first" -ne " 0" ]; then
+        echo $state_p" (2005):"$first >> $outfile
+        fi
+    if [ "$second" -ne " 0" ]; then
+        echo $state_p" (2015):"$second >> $outfile
+        fi
+    done
+
+echo
+echo "Checking processed SGCN pipeline data against validated species input data..."
+echo "Differences:"
+echo
+diff -w $outfile ./validation_output_processed.txt 
+echo
+echo

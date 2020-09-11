@@ -111,3 +111,5 @@ venv.bak/
 mydatabase
 .project
 .pydevproject
+validation_scripts/*.txt
+validation*.txt
