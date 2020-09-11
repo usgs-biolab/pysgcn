@@ -6,6 +6,7 @@ import pysppin
 import os
 import json
 import pkg_resources
+import time
 
 common_utils = pysppin.utils.Utils()
 itis_api = pysppin.itis.ItisApi()
@@ -104,6 +105,16 @@ class Sgcn:
                 raise ValueError("When operating this system you must supply cache_manager")
             self.raw_data_path = ""
 
+    def testWormsAndITISConnections(self):
+        print('Testing connection to WoRMS and ITIS...')
+        try:
+            res = requests.get("http://www.marinespecies.org/rest/AphiaRecordsByName/Typhlatya monae?like=false&marine_only=false&offset=")
+            print('    http GET http://www.marinespecies.org...: {}'.format(res))
+            res = requests.get("https://services.itis.gov/?wt=json&rows=10&q=nameWOInd:Megaptera novaeangliae")
+            print('    http GET https://services.itis.gov...: {}'.format(res))
+        except Exception as e:
+            print('    exception on http GET: {}'.format(e))
+
     def cache_sgcn_metadata(self, return_data=False):
         '''
         The SGCN collection item contains a number of metadata files that help to control and augment the process of
@@ -134,10 +145,6 @@ class Sgcn:
 
             if return_data:
                 table_list[file["title"]] = data_content
-
-            #if file["name"] == "sgcnTaxonomicGroupMappings.json":
-                #print('--> name: {}'.format(file["name"]))
-                #print('--> data_content: {}'.format(data_content))
 
             try:
                 self.sql_metadata.bulk_insert("sgcn_meta", file["title"], data_content)
@@ -246,6 +253,8 @@ class Sgcn:
             "fields": "title,dates,files,tags",
             "max": 1000
         }
+
+        self.testWormsAndITISConnections()
 
         items = self.sb.find_items(params)
 
@@ -871,8 +880,20 @@ class Sgcn:
         taxa_summary_msg, name_queue, worms_queue = self.search_itis(message)
 
         if worms_queue is not None:
-            return self.search_worms(worms_queue)
+            worms_summary = self.search_worms(worms_queue)
+            if worms_summary[0] is not None:
+                print('(WoRMS summary FOUND)', end='')
+                # BCB-1569: This appears to be missing from all WoRMS entries
+                if 'common name' in message.keys():
+                    worms_summary[0]['commonname'] = message['common name']
+            else:
+                print('(WoRMS summary NOT FOUND)', end='')
 
+            return worms_summary
+
+        if taxa_summary_msg is not None:
+            if 'common name' in message.keys():
+                taxa_summary_msg['commonname'] = message['common name']
         return taxa_summary_msg, name_queue
 
     def search_itis(self, message):
@@ -973,6 +994,9 @@ class Sgcn:
             if not source_results:
                 name_source, source_date = self.get_source_data(message)
                 source_results = get_data(sppin_key, name_source, source_date)
+                # THIS SLEEP IS IMPORTANT.  We MUST guarantee that we don't hit the
+                # WoRMS site any more than twice per second or they will block us.
+                time.sleep(0.500)
                 self.cache_manager.add_to_cache(key, source_results)
 
             return source_results

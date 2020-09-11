@@ -52,8 +52,19 @@ def process_2(
     # Stage 3 Extract Source Data
     res = sgcn.process_sgcn_source_item(previous_stage_result, metadata_cache=sgcn_meta)
 
+    # Test species set that tests ITIS and WoRMS searches without having to run entire
+    # data set even on the pared down TEST data site we use.
+    # Uncomment one of the following lines
+    testSpecies = None
+    #testSpecies = ["Typhlatya monae", "Megaptera novaeangliae", "Orbicella annularis", "Plectomerus sloatianus"]
+
     # Stage 4 Process Source Data
     for spec in res:
+        if testSpecies is not None and spec['scientific name'] not in testSpecies:
+            continue
+
+        #if spec['scientific name'] != "Typhlatya monae" and spec['scientific name'] != "Megaptera novaeangliae" and spec['scientific name'] != "Orbicella annularis" and spec['scientific name'] != "Plectomerus sloatianus":
+        #    continue
         try:
             # validate data against the json schema
             valid = sgcn.validate_data(spec)
@@ -113,6 +124,8 @@ def process_3(
             sgcn_record["data"]["taxonomic category"] = taxo_group
 
     print('     class({})  taxogroup({})  sgcnTaxoGroup({})'.format(class_name, taxo_group, sgcn_record["data"]["taxonomic category"]))
+
+    validateSGCNRecord(sgcn_record)
     # send the final result to the database
     send_final_result(sgcn_record)
 
@@ -125,6 +138,35 @@ def process_3(
     #     send_to_stage({"name_queue": name_queue, "sppin_source": "iucn"}, 3)
     #     send_to_stage({"name_queue": name_queue, "sppin_source": "natureserve"}, 3)
 
+def validateSGCNRecord(record):
+    badFields = list()
+    data = record['data']
+    keys = data.keys()
+    check(data, keys, "scientific name", badFields)
+    check(data, keys, "common name", badFields)
+    check(data, keys, "taxonomic category", badFields)
+    check(data, keys, "state", badFields)
+    check(data, keys, "sciencebase_item_id", badFields)
+    check(data, keys, "record_processed", badFields)
+    check(data, keys, "source_file_date", badFields)
+    check(data, keys, "source_file_url", badFields)
+    check(data, keys, "year", badFields)
+    check(data, keys, "clean_scientific_name", badFields)
+    check(data, keys, "historic_list", badFields)
+    check(data, keys, "scientificname", badFields)
+    check(data, keys, "taxonomicrank", badFields)
+    check(data, keys, "taxonomic_authority_url", badFields)
+    check(data, keys, "match_method", badFields)
+    check(data, keys, "commonname", badFields)
+    check(data, keys, "class_name", badFields)
+
+    if badFields:
+        print('    Warning: SGCN Record: {}'.format(data['id']))
+        print('       missing fields: {}'.format(badFields))
+
+def check(data, keys, name, badFields):
+    if name not in keys or data[name] == "":
+        badFields.append(name)
 
 def process_4(
     path,
