@@ -27,9 +27,13 @@ def process_1(
     # to work properly due to python's interpretation of a list...
     #test_data = (("placeholder", "1000"), ("Puerto Rico", "2015"), ("xNorth Dakota", "2015"), ("xOhio", "2015"), ("xOklahoma", "2015"), ("xOregon", "2015"))
 
+    processed_items = set()
     for item in process_items:
         if not test_data or in_test_data(item, test_data):
-            send_to_stage(item, 2)
+            # BCB-1586 Prevent duplicate processing that sometimes happens in the AWS space.
+            if item['sciencebase_item_id'] not in processed_items:
+                processed_items.add(item['sciencebase_item_id'])
+                send_to_stage(item, 2)
 
     if not test_data:
         rawdata = validate_sgcn_input.validate_latest_run(False)
