@@ -35,7 +35,13 @@ def process_1(
                 processed_items.add(item['sciencebase_item_id'])
                 send_to_stage(item, 2)
 
-    if not test_data:
+    # We cannot validate a pipeline run this way.  Locally it works because everything
+    # is synchronous and by the time it gets to this chunk of code, the pipeline has completed.
+    # However, in the AWS lambda cloud environment, everything is asynchronous and when we
+    # reach this chunk of code, the pipeline is FAR from being complete.
+    # This validation will have to be done manually outside of the pipeline.
+    # I will leave this code here so we can see what needs to be done to validate the pipeline data.
+    if not test_data and False:
         rawdata = validate_sgcn_input.validate_latest_run(False)
         pipeline_id = rawdata['pipeline_id']
         data = dict()
