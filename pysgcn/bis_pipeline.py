@@ -3,6 +3,7 @@ import hashlib
 from . import sgcn as pysgcn
 import pysppin
 from pysgcn import validate_sgcn_input
+import requests
 
 json_schema = None
 
@@ -175,6 +176,15 @@ def process_3(
             sgcn_record['data']['nationallist'] = True
 
     validateSGCNRecord(sgcn_record)
+
+    ecos_entry = get_single_ecos_entry(previous_stage_result["scientific name"])
+    sgcn_record["data"]["ecos"] = dict()
+    if ecos_entry:
+        sgcn_record["data"]["ecos"]["url"] = ecos_entry["url"]
+        sgcn_record["data"]["ecos"]["ESA_listings"] = ecos_entry["ESA_listings"]
+    else:
+        sgcn_record["data"]["ecos"] = "no ecos data"
+
     # send the final result to the database
     send_final_result(sgcn_record)
 
@@ -231,3 +241,19 @@ def process_4(
     sgcn = pysgcn.Sgcn(operation_mode='pipeline', cache_manager=cache_manager)
     # ECOS TESS, IUCN, NatureServe, GBIF
     sgcn.gather_additional_cache_resources(previous_stage_result["name_queue"], previous_stage_result["sppin_source"])
+
+def get_single_ecos_entry(entry):
+    # Search for a single entry by scientific name in ecos
+    response = requests.get("https://ecos.fws.gov/ecp/pullreports/catalog/species/report/species/export?columns=/species@cn,sn,status,desc,listing_date&filter=/species@sn+=+%27" + entry + "%27&format=json&limit=100&sort=/species@cn+asc;/species@sn+asc")
+    single_response = response.json()
+    data = single_response['data']
+    if len(data) == 0: return None
+    cleaned_response = dict()
+    cleaned_response['commonname'] = data[0][0]
+    cleaned_response['scientificname'] = data[0][1]['value']
+    cleaned_response['url'] = data[0][1]['url']
+    cleaned_response['ESA_listings'] = list()
+    for entry in data:
+        record = {'status' : entry[2], 'location' : entry[3], 'date' : entry[4]}
+        cleaned_response['ESA_listings'].append(record)
+    return cleaned_response
